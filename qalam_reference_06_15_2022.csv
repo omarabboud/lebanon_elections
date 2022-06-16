@@ -1,0 +1,1491 @@
+qalam_index,committee,voter_category,district,local_district,qalam_num,polling_place,room_number,gender,sect,num_eligible_voters,num_votes,num_blank_votes,num_invalid_votes,num_valid_votes,election_year
+1,1,lebanon,beirut_2,bachoura,10,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,10,male,sunni,,261,3,10,251,2022
+2,1,lebanon,beirut_2,bachoura,15,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,15,male,sunni,,319,13,11,308,2022
+3,1,lebanon,beirut_2,bachoura,32,ثانوية المقاصد الاسالمية للبنات,16,female,sunni,,214,5,12,202,2022
+4,1,lebanon,beirut_2,bachoura,51,متوسطة بيروت العالية للبنات - شارع داود عمون,6,male,shia,,270,3,4,266,2022
+5,1,lebanon,beirut_2,bachoura,61,متوسطة بيروت العالية للبنات - شارع داود عمون,16,male,shia,,251,0,6,245,2022
+6,1,lebanon,beirut_2,bachoura,73,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,2,female,shia,,290,3,14,276,2022
+7,1,lebanon,beirut_2,bachoura,84,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,4,female,shia,,245,5,5,240,2022
+8,1,lebanon,beirut_2,bachoura,94,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,14,mixed,mixed,,223,3,6,217,2022
+9,1,lebanon,beirut_2,almarfaa,108,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,14,female,sunni,,226,1,40,186,2022
+10,1,lebanon,beirut_2,almarfaa,111,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,17,mixed,sunni,,195,6,18,177,2022
+11,1,lebanon,beirut_2,almarfaa,112,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,18,mixed,mixed,,102,0,0,95,2022
+12,1,lebanon,beirut_2,almazraa,122,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,10,male,sunni,,300,4,5,295,2022
+13,1,lebanon,beirut_2,almazraa,148,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,4,male,sunni,,285,2,8,277,2022
+14,1,lebanon,beirut_2,almazraa,158,المقاصد الاسلامية للبنين - آخر خط الحرج,1,male,sunni,,244,3,7,237,2022
+15,1,lebanon,beirut_2,almazraa,165,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,5,male,sunni,,233,3,11,222,2022
+16,1,lebanon,beirut_2,almazraa,170,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,10,male,sunni,,306,4,34,272,2022
+17,1,lebanon,beirut_2,almazraa,175,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,3,male,sunni,,352,4,19,333,2022
+18,1,lebanon,beirut_2,almazraa,202,ثانوية خالد بن الوليد المقاصد,16,female,sunni,,228,0,2,226,2022
+19,1,lebanon,beirut_2,almazraa,204,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,2,female,sunni,,263,1,12,251,2022
+20,1,lebanon,beirut_2,almazraa,216,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,14,female,sunni,,274,0,1,273,2022
+21,1,lebanon,beirut_2,almazraa,220,المقاصد الاسلامية للبنين - آخر خط الحرج,7,female,sunni,,243,2,10,233,2022
+22,1,lebanon,beirut_2,almazraa,226,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),1,female,sunni,,249,2,3,246,2022
+23,1,lebanon,beirut_2,almazraa,232,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),7,female,sunni,,245,4,4,241,2022
+24,1,lebanon,beirut_2,almazraa,246,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,18,male,greek_orthodox,,213,0,1,212,2022
+25,1,lebanon,beirut_2,almazraa,244,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),7,female,sunni,,343,4,30,313,2022
+26,1,lebanon,beirut_2,almazraa,237,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),10,female,sunni,,284,2,10,274,2022
+27,1,lebanon,beirut_2,almazraa,259,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,12,female,shia,,265,2,12,253,2022
+28,1,lebanon,beirut_2,almsaytbeh,270,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,6,male,sunni,,298,0,12,286,2022
+29,1,lebanon,beirut_2,almsaytbeh,278,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,14,male,sunni,,263,1,17,246,2022
+30,1,lebanon,beirut_2,almsaytbeh,294,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,14,male,sunni,,252,1,12,240,2022
+31,1,lebanon,beirut_2,almsaytbeh,314,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,6,female,sunni,,275,1,7,268,2022
+32,1,lebanon,beirut_2,almsaytbeh,326,مدرسة الارشاد للبنات - برج ابي حيدر,2,female,sunni,,243,4,34,209,2022
+33,1,lebanon,beirut_2,almsaytbeh,328,مدرسة الارشاد للبنات - برج ابي حيدر,4,female,sunni,,242,0,0,242,2022
+34,1,lebanon,beirut_2,almsaytbeh,329,مدرسة الارشاد للبنات - برج ابي حيدر,5,female,sunni,,249,7,18,231,2022
+35,1,lebanon,beirut_2,almsaytbeh,331,مدرسة الارشاد للبنات - برج ابي حيدر,7,female,sunni,,174,2,11,163,2022
+36,1,lebanon,beirut_2,almsaytbeh,337,مدرسة الارشاد للبنات - برج ابي حيدر,13,female,sunni,,272,3,31,241,2022
+37,1,lebanon,beirut_2,almsaytbeh,339,مدرسة الارشاد للبنات - برج ابي حيدر,15,female,sunni,,270,0,18,252,2022
+38,1,lebanon,beirut_2,almsaytbeh,340,مدرسة الارشاد للبنات - برج ابي حيدر,16,mixed,armenian_orthodox,,79,0,2,77,2022
+39,1,lebanon,beirut_2,almsaytbeh,345,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,5,male,shia,,266,7,9,257,2022
+40,1,lebanon,beirut_2,almsaytbeh,363,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,10,female,druze,,240,1,2,238,2022
+41,1,lebanon,beirut_2,almsaytbeh,365,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,12,female,maronite,,169,1,1,168,2022
+42,1,lebanon,beirut_2,almsaytbeh,371,مدرسة مار الياس بطينا,6,female,greek_orthodox,,219,0,0,219,2022
+43,1,lebanon,beirut_2,almsaytbeh,386,مدرسة وطى المصيطبة الرسمية المختلطة,9,female,syriac_orthodox,,65,1,0,65,2022
+44,1,lebanon,beirut_2,almsaytbeh,387,مدرسة وطى المصيطبة الرسمية المختلطة,10,female,syriac_orthodox,,96,0,8,88,2022
+45,1,lebanon,beirut_2,dar_almreisseh,400,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,11,female,sunni,,218,1,5,213,2022
+46,1,lebanon,beirut_2,ras_beirut,411,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,1,male,sunni,,295,0,6,289,2022
+47,1,lebanon,beirut_2,zuqaq_alblat,474,ثانوية ليسيه عبد القادر شارع بطرس البستاني,15,female,shia,,289,1,4,285,2022
+48,1,lebanon,beirut_2,zuqaq_alblat,496,مدرسة البطريركية – شارع البطريركية,7,male,sunni,,247,2,28,219,2022
+49,1,lebanon,beirut_2,zuqaq_alblat,501,مدرسة البطريركية – شارع البطريركية,12,female,sunni,,246,3,6,240,2022
+50,1,lebanon,beirut_2,zuqaq_alblat,516,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,11,female,sunni,,129,2,0,129,2022
+51,1,lebanon,beirut_2,zuqaq_alblat,517,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,12,female,sunni,,176,1,7,169,2022
+52,1,lebanon,beirut_2,zuqaq_alblat,518,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,13,female,sunni,,238,8,24,214,2022
+53,1,lebanon,beirut_2,zuqaq_alblat,523,المدرسة المعنية,2,mixed,mixed,,117,1,1,116,2022
+54,1,lebanon,beirut_2,zuqaq_alblat,525,المدرسة المعنية,4,mixed,mixed,,42,0,2,40,2022
+55,1,lebanon,beirut_2,zuqaq_alblat,531,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,2,male,shia,,316,1,6,310,2022
+56,1,lebanon,beirut_2,zuqaq_alblat,536,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,7,male,shia,,295,1,3,292,2022
+57,1,lebanon,beirut_2,zuqaq_alblat,538,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,9,male,shia,,323,1,2,321,2022
+58,1,lebanon,beirut_2,zuqaq_alblat,541,ثانوية ليسيه عبد القادر شارع بطرس البستاني,3,female,shia,,311,5,7,304,2022
+59,1,lebanon,beirut_2,zuqaq_alblat,552,مدرسة الامداد - شارع يوسف الاسير,3,male,shia,,329,6,35,294,2022
+60,1,lebanon,beirut_2,zuqaq_alblat,555,مدرسة الامداد - شارع يوسف الاسير,6,male,shia,,356,3,9,347,2022
+61,1,lebanon,beirut_2,zuqaq_alblat,556,مدرسة الامداد - شارع يوسف الاسير,7,male,shia,,320,3,2,318,2022
+62,1,lebanon,beirut_2,mina_alhosn,563,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,3,female,sunni,,237,2,5,232,2022
+63,1,lebanon,beirut_2,mina_alhosn,567,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,7,male,israelite,,1,0,0,1,2022
+64,1,lebanon,beirut_2,mina_alhosn,569,المدرسة الارمنية الانجيلية العالية شارع المكسيك,2,male,greek_orthodox,,126,4,0,126,2022
+65,1,diaspora,beirut_2,germany,5,Awo Julius-Leber-Haus,1,mixed,mixed,,209,0,31,178,2022
+66,2,lebanon,beirut_2,bachoura,5,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,5,male,sunni,,272,4,10,262,2022
+67,2,lebanon,beirut_2,bachoura,11,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,11,male,sunni,,227,2,15,212,2022
+68,2,lebanon,beirut_2,bachoura,18,ثانوية المقاصد الاسالمية للبنات,2,female,sunni,,243,3,5,238,2022
+69,2,lebanon,beirut_2,bachoura,33,متوسطة البنات الثانية شارع سليم سلام,1,male,sunni,,301,8,20,281,2022
+70,2,lebanon,beirut_2,bachoura,40,متوسطة البنات الثانية شارع سليم سلام,8,mixed,mixed,,136,0,0,136,2022
+71,2,lebanon,beirut_2,bachoura,56,متوسطة بيروت العالية للبنات - شارع داود عمون,11,male,shia,,303,7,13,290,2022
+72,2,lebanon,beirut_2,bachoura,65,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,4,male,shia,,270,1,4,266,2022
+73,2,lebanon,beirut_2,bachoura,69,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,8,male,mixed,,107,1,3,104,2022
+74,2,lebanon,beirut_2,bachoura,72,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,1,female,shia,,321,4,34,287,2022
+75,2,lebanon,beirut_2,bachoura,77,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,6,female,shia,,280,5,18,262,2022
+76,2,lebanon,beirut_2,bachoura,79,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,8,female,shia,,291,1,14,277,2022
+77,2,lebanon,beirut_2,bachoura,93,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,13,female,shia,,278,2,30,248,2022
+78,2,lebanon,beirut_2,almarfaa,103,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,9,male,sunni,,248,8,23,225,2022
+79,2,lebanon,beirut_2,almazraa,121,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,9,male,sunni,,274,0,17,257,2022
+80,2,lebanon,beirut_2,almazraa,136,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,8,male,sunni,,240,1,0,240,2022
+81,2,lebanon,beirut_2,almazraa,140,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,12,male,sunni,,271,0,3,268,2022
+82,2,lebanon,beirut_2,almazraa,142,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,14,male,sunni,,292,3,12,280,2022
+83,2,lebanon,beirut_2,almazraa,143,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,15,male,sunni,,275,1,26,249,2022
+84,2,lebanon,beirut_2,almazraa,154,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,10,male,sunni,,235,4,9,226,2022
+85,2,lebanon,beirut_2,almazraa,161,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,1,male,sunni,,199,0,3,196,2022
+86,2,lebanon,beirut_2,almazraa,163,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,3,male,sunni,,237,0,13,224,2022
+87,2,lebanon,beirut_2,almazraa,168,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,8,male,sunni,,284,0,17,267,2022
+88,2,lebanon,beirut_2,almazraa,194,ثانوية خالد بن الوليد المقاصد,8,female,sunni,,291,0,3,288,2022
+89,2,lebanon,beirut_2,almazraa,200,ثانوية خالد بن الوليد المقاصد,14,female,sunni,,285,6,10,275,2022
+90,2,lebanon,beirut_2,almazraa,203,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,1,female,sunni,,305,1,21,284,2022
+91,2,lebanon,beirut_2,almazraa,208,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,6,female,sunni,,277,7,5,272,2022
+92,2,lebanon,beirut_2,almazraa,218,المقاصد الاسلامية للبنين - آخر خط الحرج,5,female,sunni,,278,3,10,268,2022
+93,2,lebanon,beirut_2,almazraa,242,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),5,female,sunni,,342,16,24,318,2022
+94,2,lebanon,beirut_2,almazraa,243,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),6,female,sunni,,307,5,3,304,2022
+95,2,lebanon,beirut_2,almsaytbeh,271,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,7,male,sunni,,263,4,2,261,2022
+96,2,lebanon,beirut_2,almsaytbeh,276,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,12,male,sunni,,274,3,6,268,2022
+97,2,lebanon,beirut_2,almsaytbeh,286,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,6,male,sunni,,310,7,12,298,2022
+98,2,lebanon,beirut_2,almsaytbeh,317,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,9,female,sunni,,304,5,12,292,2022
+99,2,lebanon,beirut_2,almsaytbeh,325,مدرسة الارشاد للبنات - برج ابي حيدر,1,female,sunni,,247,2,2,245,2022
+100,2,lebanon,beirut_2,almsaytbeh,336,مدرسة الارشاد للبنات - برج ابي حيدر,12,female,sunni,,291,6,2,289,2022
+101,2,lebanon,beirut_2,almsaytbeh,346,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,6,male,shia,,269,6,18,251,2022
+102,2,lebanon,beirut_2,almsaytbeh,349,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,9,male,shia,,309,6,14,295,2022
+103,2,lebanon,beirut_2,almsaytbeh,351,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,11,female,shia,,266,0,15,251,2022
+104,2,lebanon,beirut_2,almsaytbeh,354,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,1,female,shia,,260,4,6,254,2022
+105,2,lebanon,beirut_2,almsaytbeh,356,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,3,female,shia,,278,1,4,274,2022
+106,2,lebanon,beirut_2,almsaytbeh,360,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,7,male,druze,,254,1,2,252,2022
+107,2,lebanon,beirut_2,almsaytbeh,381,مدرسة وطى المصيطبة الرسمية المختلطة,4,female,mixed,,73,0,2,71,2022
+108,2,lebanon,beirut_2,ras_beirut,415,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,5,male,sunni,,265,1,21,244,2022
+109,2,lebanon,beirut_2,ras_beirut,419,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,9,male,sunni,,324,1,24,300,2022
+110,2,lebanon,beirut_2,ras_beirut,422,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,12,male,sunni,,289,3,8,281,2022
+111,2,lebanon,beirut_2,ras_beirut,423,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,13,male,sunni,,320,1,9,311,2022
+112,2,lebanon,beirut_2,ras_beirut,442,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,2,female,sunni,,293,3,13,280,2022
+113,2,lebanon,beirut_2,ras_beirut,454,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,6,male,greek_orthodox,,77,0,0,77,2022
+114,2,lebanon,beirut_2,ras_beirut,464,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,7,female,druze,,223,0,1,222,2022
+115,2,lebanon,beirut_2,zuqaq_alblat,475,ثانوية ليسيه عبد القادر شارع بطرس البستاني,16,female,shia,,335,3,3,332,2022
+116,2,lebanon,beirut_2,zuqaq_alblat,500,مدرسة البطريركية – شارع البطريركية,11,female,sunni,,248,1,10,238,2022
+117,2,lebanon,beirut_2,zuqaq_alblat,503,مدرسة البطريركية – شارع البطريركية,14,female,sunni,,255,0,3,252,2022
+118,2,lebanon,beirut_2,zuqaq_alblat,504,مدرسة البطريركية – شارع البطريركية,15,female,sunni,,210,0,10,200,2022
+119,2,lebanon,beirut_2,zuqaq_alblat,507,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,2,female,sunni,,235,1,9,226,2022
+120,2,lebanon,beirut_2,zuqaq_alblat,512,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,7,female,sunni,,139,3,9,130,2022
+121,2,lebanon,beirut_2,zuqaq_alblat,513,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,8,female,sunni,,120,1,16,104,2022
+122,2,lebanon,beirut_2,zuqaq_alblat,527,المدرسة المعنية,6,female,armenian_orthodox,,27,1,1,26,2022
+123,2,lebanon,beirut_2,zuqaq_alblat,528,المدرسة المعنية,7,female,armenian_orthodox,,50,0,1,49,2022
+124,2,lebanon,beirut_2,zuqaq_alblat,529,المدرسة المعنية,8,mixed,mixed,,74,1,0,74,2022
+125,2,lebanon,beirut_2,zuqaq_alblat,557,مدرسة الامداد - شارع يوسف الاسير,8,male,shia,,249,10,8,241,2022
+126,2,lebanon,beirut_2,mina_alhosn,561,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,1,male,sunni,,238,0,4,234,2022
+127,2,lebanon,beirut_2,mina_alhosn,564,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,4,female,sunni,,210,1,9,201,2022
+128,2,diaspora,beirut_2,australia,24,كنيسة مار نقولا,4,mixed,mixed,,27,0,0,27,2022
+129,2,diaspora,beirut_2,australia,1,Thornlie Community Center,1,mixed,mixed,,19,0,0,19,2022
+130,2,diaspora,beirut_2,australia,2,السفارة اللبنانية في كانبيرا,2,mixed,mixed,,8,0,0,8,2022
+131,2,diaspora,beirut_2,australia,4,القنصلية اللبنانية الفخرية في بريزبن,4,mixed,mixed,,3,0,0,3,2022
+132,2,diaspora,beirut_2,iran,2,السفارة اللبنانية في طهران,2,mixed,mixed,,21,0,0,21,2022
+133,2,diaspora,beirut_2,turkey,2,Macka Mesleki ve Teknik Anadolu Lisesi,2,mixed,mixed,,150,1,0,150,2022
+134,2,diaspora,beirut_2,syria,3,السفارة اللبنانية في دمشق,3,mixed,mixed,,2,0,0,2,2022
+135,2,diaspora,beirut_2,france,9,دار البلدية - Bezons,1,mixed,mixed,,38,0,4,34,2022
+136,2,diaspora,beirut_2,france,18,دار البلدية - Quetigny,18,mixed,mixed,,4,0,0,4,2022
+137,2,diaspora,beirut_2,france,56,دار البلدية - Tours,56,mixed,mixed,,7,0,0,7,2022
+138,2,diaspora,beirut_2,france,74,دار البلدية - Poitiers,74,mixed,mixed,,10,0,0,10,2022
+139,2,diaspora,beirut_2,congo,2,فندق غاردينيا في برازفيل,2,mixed,mixed,,8,0,0,8,2022
+140,2,diaspora,beirut_2,united_states,21,Bint Jbeil Cultural Center,1,mixed,mixed,,87,0,1,86,2022
+141,2,diaspora,beirut_2,united_states,34,Colorado St. Rafka Maronite Church,34,mixed,mixed,,8,0,0,8,2022
+142,2,diaspora,beirut_2,united_states,35,Glendale St Mary Armenian Church,35,mixed,mixed,,14,1,0,14,2022
+143,2,diaspora,beirut_2,united_states,11,Lebanese Honorary Consulate Tampa,1,mixed,mixed,,51,0,1,50,2022
+144,2,diaspora,beirut_2,united_states,18,Our Lady-Lebanon Catholic Church,1,mixed,mixed,,63,0,2,61,2022
+145,2,diaspora,beirut_2,benin,1,Hotel du Lac,1,mixed,mixed,,19,2,0,19,2022
+146,2,diaspora,beirut_2,germany,50,القنصلية اللبنانية الفخرية,1,mixed,mixed,,32,0,0,32,2022
+147,2,diaspora,beirut_2,democratic_republic_congo,1,النادي الثقافي اللبناني في لوبومباشي,1,mixed,mixed,,3,0,0,3,2022
+148,2,diaspora,beirut_2,cote_divoire,17,النادي اللبناني في دالوا,17,mixed,mixed,,4,0,0,4,2022
+149,2,diaspora,beirut_2,oman,1,المدرسة العُمانية العالمية International School of Oman - ISO,1,mixed,mixed,,58,0,1,57,2022
+150,2,diaspora,beirut_2,canada,13,Canadian Druze Center,2,mixed,mixed,,10,0,0,10,2022
+151,2,diaspora,beirut_2,canada,15,Cedar Event Center (Our Lady of Lebanon Church),2,mixed,mixed,,8,0,0,8,2022
+152,2,diaspora,beirut_2,canada,26,St. Charbel Parish,3,mixed,mixed,,19,0,0,19,2022
+153,3,lebanon,beirut_2,bachoura,9,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,9,male,sunni,,296,3,10,286,2022
+154,3,lebanon,beirut_2,bachoura,23,ثانوية المقاصد الاسالمية للبنات,7,female,sunni,,255,1,7,248,2022
+155,3,lebanon,beirut_2,bachoura,24,ثانوية المقاصد الاسالمية للبنات,8,female,sunni,,294,0,18,276,2022
+156,3,lebanon,beirut_2,bachoura,28,ثانوية المقاصد الاسالمية للبنات,12,female,sunni,,267,0,3,264,2022
+157,3,lebanon,beirut_2,bachoura,34,متوسطة البنات الثانية شارع سليم سلام,2,mixed,mixed,,265,3,14,251,2022
+158,3,lebanon,beirut_2,bachoura,67,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,6,male,shia,,251,0,6,245,2022
+159,3,lebanon,beirut_2,bachoura,88,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,8,female,shia,,295,2,9,286,2022
+160,3,lebanon,beirut_2,bachoura,90,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,10,female,shia,,331,8,18,313,2022
+161,3,lebanon,beirut_2,almarfaa,106,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,12,female,sunni,,202,1,13,189,2022
+162,3,lebanon,beirut_2,almazraa,116,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,4,male,sunni,,270,1,3,267,2022
+163,3,lebanon,beirut_2,almazraa,118,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,6,male,sunni,,277,0,10,267,2022
+164,3,lebanon,beirut_2,almazraa,125,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,13,male,sunni,,305,2,18,287,2022
+165,3,lebanon,beirut_2,almazraa,137,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,9,male,sunni,,318,2,20,298,2022
+166,3,lebanon,beirut_2,almazraa,172,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,12,male,sunni,,320,6,15,305,2022
+167,3,lebanon,beirut_2,almazraa,177,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,5,female,sunni,,288,0,13,275,2022
+168,3,lebanon,beirut_2,almazraa,193,ثانوية خالد بن الوليد المقاصد,7,female,sunni,,269,4,3,266,2022
+169,3,lebanon,beirut_2,almazraa,212,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,10,female,sunni,,269,3,9,260,2022
+170,3,lebanon,beirut_2,almazraa,214,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,12,female,sunni,,263,0,12,251,2022
+171,3,lebanon,beirut_2,almazraa,215,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,13,female,sunni,,285,1,7,278,2022
+172,3,lebanon,beirut_2,almazraa,217,المقاصد الاسلامية للبنين - آخر خط الحرج,4,female,sunni,,298,2,16,282,2022
+173,3,lebanon,beirut_2,almazraa,227,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),2,female,sunni,,256,2,18,238,2022
+174,3,lebanon,beirut_2,almazraa,231,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),6,female,sunni,,226,5,14,212,2022
+175,3,lebanon,beirut_2,almazraa,247,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,19,male,greek_orthodox,,203,1,8,195,2022
+176,3,lebanon,beirut_2,almazraa,236,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),9,female,sunni,,237,0,4,233,2022
+177,3,lebanon,beirut_2,almazraa,251,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,4,female,greek_orthodox,,203,2,13,190,2022
+178,3,lebanon,beirut_2,almazraa,256,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,9,male,shia,,257,6,11,246,2022
+179,3,lebanon,beirut_2,almsaytbeh,282,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,2,male,sunni,,286,0,16,270,2022
+180,3,lebanon,beirut_2,almsaytbeh,306,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,11,female,sunni,,245,2,18,227,2022
+181,3,lebanon,beirut_2,almsaytbeh,308,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,13,female,sunni,,243,6,19,224,2022
+182,3,lebanon,beirut_2,almsaytbeh,324,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,16,female,sunni,,318,5,12,306,2022
+183,3,lebanon,beirut_2,almsaytbeh,334,مدرسة الارشاد للبنات - برج ابي حيدر,10,female,sunni,,327,4,10,317,2022
+184,3,lebanon,beirut_2,almsaytbeh,342,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,2,male,shia,,235,1,10,225,2022
+185,3,lebanon,beirut_2,almsaytbeh,359,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,6,mixed,mixed,,215,2,8,207,2022
+186,3,lebanon,beirut_2,almsaytbeh,374,مدرسة مار الياس بطينا,9,female,greek_orthodox,,177,0,0,177,2022
+187,3,lebanon,beirut_2,almsaytbeh,383,مدرسة وطى المصيطبة الرسمية المختلطة,6,male,syriac_orthodox,,61,1,2,59,2022
+188,3,lebanon,beirut_2,almsaytbeh,389,مدرسة وطى المصيطبة الرسمية المختلطة,12,mixed,mixed,,159,1,8,151,2022
+189,3,lebanon,beirut_2,dar_almreisseh,392,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,3,male,sunni,,232,0,18,214,2022
+190,3,lebanon,beirut_2,dar_almreisseh,407,مدرسة الحكمة - القنطاري,3,mixed,shia,,201,1,3,198,2022
+191,3,lebanon,beirut_2,ras_beirut,416,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,6,male,sunni,,273,2,6,267,2022
+192,3,lebanon,beirut_2,ras_beirut,424,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,14,male,sunni,,317,6,17,300,2022
+193,3,lebanon,beirut_2,ras_beirut,467,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,10,female,anglican,,74,0,6,68,2022
+194,3,lebanon,beirut_2,zuqaq_alblat,473,ثانوية ليسيه عبد القادر شارع بطرس البستاني,14,female,shia,,250,0,16,234,2022
+195,3,lebanon,beirut_2,zuqaq_alblat,498,مدرسة البطريركية – شارع البطريركية,9,male,sunni,,176,0,5,171,2022
+196,3,lebanon,beirut_2,zuqaq_alblat,505,مدرسة البطريركية – شارع البطريركية,16,female,sunni,,269,2,17,252,2022
+197,3,lebanon,beirut_2,zuqaq_alblat,511,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,6,female,sunni,,167,2,2,165,2022
+198,3,lebanon,beirut_2,zuqaq_alblat,515,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,10,female,sunni,,121,7,9,112,2022
+199,3,lebanon,beirut_2,zuqaq_alblat,520,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,15,female,sunni,,160,1,8,152,2022
+200,3,lebanon,beirut_2,zuqaq_alblat,522,المدرسة المعنية,1,mixed,mixed,,150,1,5,145,2022
+201,3,lebanon,beirut_2,zuqaq_alblat,533,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,4,male,shia,,310,2,6,304,2022
+202,3,lebanon,beirut_2,zuqaq_alblat,534,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,5,male,shia,,316,3,6,310,2022
+203,3,lebanon,beirut_2,zuqaq_alblat,550,مدرسة الامداد - شارع يوسف الاسير,1,male,shia,,295,6,12,283,2022
+204,3,lebanon,beirut_2,mina_alhosn,574,المدرسة الارمنية الانجيلية العالية شارع المكسيك,7,female,mixed,,195,1,5,190,2022
+205,3,diaspora,beirut_2,switzerland,6,Quartierzentrum Wittigkofen,6,mixed,mixed,,33,0,0,33,2022
+206,3,diaspora,beirut_2,gabon,2,Centre Commercial Xanadou Libreville,2,mixed,mixed,,13,1,0,13,2022
+207,3,diaspora,beirut_2,france,29,دار البلدية - Paris 5,2,mixed,mixed,,130,1,2,128,2022
+208,3,diaspora,beirut_2,france,45,دار البلدية - Paris 17,3,mixed,mixed,,49,0,0,49,2022
+209,3,diaspora,beirut_2,mexico,2,السفارة اللبناينة في المكسيك,2,mixed,mixed,,8,0,1,7,2022
+210,3,diaspora,beirut_2,united_kingdom,1,Our Lady of Lourdes and Saint Vincent de Paul Church Hall,1,mixed,mixed,,140,2,0,140,2022
+211,3,diaspora,beirut_2,morocco,1,السفارة اللبنانية في مملكة المغرب,1,mixed,mixed,,24,0,1,23,2022
+212,3,diaspora,beirut_2,united_states,29,Honorary Consulate of Lebanon - Detroit,3,mixed,mixed,,29,0,0,29,2022
+213,3,diaspora,beirut_2,united_states,45,Orange the Islamic Center Anaheim,1,mixed,mixed,,71,0,2,69,2022
+214,3,diaspora,beirut_2,united_states,68,The Cedars Center,6,mixed,mixed,,132,1,2,130,2022
+215,3,diaspora,beirut_2,united_states,7,"Houston, TX",1,mixed,mixed,,88,1,2,86,2022
+216,3,diaspora,beirut_2,democratic_republic_congo,3,نادي الجالية اللبنانية في جمهورية الكونغو الديمقراطية,2,mixed,mixed,,31,0,1,30,2022
+217,3,diaspora,beirut_2,guinea,1,السفارة اللبنانية في غينيا,1,mixed,mixed,,12,1,1,11,2022
+218,3,diaspora,beirut_2,colombia,1,السفارة اللبنانية في كولومبيا,1,mixed,mixed,,2,0,0,2,2022
+219,3,diaspora,beirut_2,nigeria,1,السفارة اللبنانية في أبوجا,1,mixed,mixed,,5,0,0,5,2022
+220,3,diaspora,beirut_2,kuwait,1,السفارة اللبنانية في الكويت,1,mixed,mixed,,87,0,1,86,2022
+221,3,diaspora,beirut_2,canada,19,Mother Theresa Syro Malabar Church,1,mixed,mixed,,35,0,4,31,2022
+222,3,diaspora,beirut_2,luxembourg,1,Immeuble Central Parc,1,mixed,mixed,,13,0,0,13,2022
+223,3,diaspora,beirut_2,spain,3,Centro de Mayores Benito Perez Galdos,1,mixed,mixed,,59,1,0,59,2022
+224,3,diaspora,beirut_2,bahrain,1,السفارة اللبنانية في مملكة البحرين,1,mixed,mixed,,58,0,0,58,2022
+225,3,diaspora,beirut_2,sweden,1,Afamia Festlokal,1,mixed,mixed,,111,2,6,105,2022
+226,3,diaspora,beirut_2,belgium,4,Ecole Communale de Saint Job,4,mixed,mixed,,91,0,3,88,2022
+227,4,lebanon,beirut_2,bachoura,2,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,2,male,sunni,,234,2,15,219,2022
+228,4,lebanon,beirut_2,bachoura,7,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,7,male,sunni,,283,5,9,274,2022
+229,4,lebanon,beirut_2,bachoura,22,ثانوية المقاصد الاسالمية للبنات,6,female,sunni,,299,5,19,280,2022
+230,4,lebanon,beirut_2,bachoura,43,متوسطة البنات الثانية شارع سليم سلام,11,female,mixed,,50,0,0,50,2022
+231,4,lebanon,beirut_2,bachoura,44,متوسطة البنات الثانية شارع سليم سلام,12,mixed,mixed,,77,0,0,77,2022
+232,4,lebanon,beirut_2,bachoura,75,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,4,female,shia,,248,3,35,213,2022
+233,4,lebanon,beirut_2,almarfaa,96,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,2,male,shia,,317,3,21,296,2022
+234,4,lebanon,beirut_2,almarfaa,97,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,3,female,shia,,267,4,14,253,2022
+235,4,lebanon,beirut_2,almarfaa,110,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,16,female,sunni,,201,0,0,201,2022
+236,4,lebanon,beirut_2,almazraa,127,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,15,male,sunni,,282,3,10,272,2022
+237,4,lebanon,beirut_2,almazraa,173,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,1,male,sunni,,304,1,13,291,2022
+238,4,lebanon,beirut_2,almazraa,178,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,6,female,sunni,,276,2,5,271,2022
+239,4,lebanon,beirut_2,almazraa,182,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,10,female,sunni,,277,1,7,270,2022
+240,4,lebanon,beirut_2,almazraa,195,ثانوية خالد بن الوليد المقاصد,9,female,sunni,,288,0,9,279,2022
+241,4,lebanon,beirut_2,almazraa,199,ثانوية خالد بن الوليد المقاصد,13,female,sunni,,317,2,3,314,2022
+242,4,lebanon,beirut_2,almazraa,206,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,4,female,sunni,,238,1,13,225,2022
+243,4,lebanon,beirut_2,almazraa,228,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),3,female,sunni,,294,4,16,278,2022
+244,4,lebanon,beirut_2,almsaytbeh,265,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,1,male,sunni,,265,0,12,253,2022
+245,4,lebanon,beirut_2,almsaytbeh,290,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,10,male,sunni,,262,0,3,259,2022
+246,4,lebanon,beirut_2,almsaytbeh,292,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,12,male,sunni,,198,5,10,188,2022
+247,4,lebanon,beirut_2,almsaytbeh,299,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,4,male,sunni,,264,4,23,241,2022
+248,4,lebanon,beirut_2,almsaytbeh,352,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,12,female,shia,,279,6,28,251,2022
+249,4,lebanon,beirut_2,almsaytbeh,385,مدرسة وطى المصيطبة الرسمية المختلطة,8,female,syriac_orthodox,,107,0,3,104,2022
+250,4,lebanon,beirut_2,dar_almreisseh,404,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,15,mixed,maronite,,128,0,1,127,2022
+251,4,lebanon,beirut_2,ras_beirut,413,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,3,male,sunni,,291,1,4,287,2022
+252,4,lebanon,beirut_2,zuqaq_alblat,490,مدرسة البطريركية – شارع البطريركية,1,male,sunni,,105,1,6,99,2022
+253,4,lebanon,beirut_2,zuqaq_alblat,539,ثانوية ليسيه عبد القادر شارع بطرس البستاني,1,female,shia,,256,5,10,246,2022
+254,4,lebanon,beirut_2,mina_alhosn,573,المدرسة الارمنية الانجيلية العالية شارع المكسيك,6,mixed,shia,,251,1,2,249,2022
+255,4,diaspora,beirut_2,iraq,2,فندق روتانا,2,mixed,mixed,,6,0,0,6,2022
+256,4,diaspora,beirut_2,france,7,دار البلدية - Antony,6,mixed,mixed,,34,0,0,34,2022
+257,4,diaspora,beirut_2,france,50,دار البلدية - Strasbourg,50,mixed,mixed,,24,0,0,24,2022
+258,4,diaspora,beirut_2,france,59,دار البلدية - Versailles,3,mixed,mixed,,51,0,2,49,2022
+259,4,diaspora,beirut_2,cameroon,1,القنصلية اللبنانية الفخرية في الكاميرون,1,mixed,mixed,,3,0,0,3,2022
+260,4,diaspora,beirut_2,mexico,3,القنصلية اللبنانية الفخرية - غوادالاخارا,3,mixed,mixed,,0,0,0,0,2022
+261,4,diaspora,beirut_2,saudi_arabia,1,السفارة اللبنانية في الرياض,1,mixed,mixed,,189,5,1,188,2022
+262,4,diaspora,beirut_2,saudi_arabia,4,السفارة اللبنانية في الرياض,4,mixed,mixed,,185,5,6,179,2022
+263,4,diaspora,beirut_2,austria,1,السفارة اللبنانية في النمسا,1,mixed,mixed,,31,0,0,31,2022
+264,4,diaspora,beirut_2,united_states,52,Pashalian Hall,1,mixed,mixed,,189,3,4,185,2022
+265,4,diaspora,beirut_2,germany,40,Stadtschloss Moabit,1,mixed,mixed,,200,1,3,197,2022
+266,4,diaspora,beirut_2,germany,41,Stadtschloss Moabit,2,mixed,mixed,,182,0,5,177,2022
+267,4,diaspora,beirut_2,germany,42,Stadtschloss Moabit,3,mixed,mixed,,190,1,8,182,2022
+268,4,diaspora,beirut_2,poland,1,السفارة اللبنانية في وارسـو,1,mixed,mixed,,19,1,0,19,2022
+269,4,diaspora,beirut_2,russia,1,السفارة اللبنانية في روسيا,1,mixed,mixed,,6,0,1,5,2022
+270,4,diaspora,beirut_2,egypt,2,القنصلية اللبنانية العامة في االسكندرية,2,mixed,mixed,,10,0,0,10,2022
+271,4,diaspora,beirut_2,nigeria,2,المدرسة اللبنانية التابعة للقنصلية الفخرية في كانو,1,mixed,mixed,,20,0,0,20,2022
+272,4,diaspora,beirut_2,united_arab_emirates,1,السفارة اللبنانية في أبو ظبي,1,mixed,mixed,,180,1,0,180,2022
+273,4,diaspora,beirut_2,romania,1,السفارة اللبنانية في بوخارست,1,mixed,mixed,,41,4,0,41,2022
+274,4,diaspora,beirut_2,canada,36,Centre Melkite de Montréal,1,mixed,mixed,,256,0,8,248,2022
+275,4,diaspora,beirut_2,canada,39,Centre Melkite de Montréal,4,mixed,mixed,,181,4,4,177,2022
+276,4,diaspora,beirut_2,holland,1,السفارة اللبنانية في مملكة هولندا,1,mixed,mixed,,79,0,1,78,2022
+277,5,lebanon,beirut_2,bachoura,4,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,4,male,sunni,,304,5,13,291,2022
+278,5,lebanon,beirut_2,bachoura,8,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,8,male,sunni,,280,3,10,270,2022
+279,5,lebanon,beirut_2,bachoura,14,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,14,male,sunni,,228,3,7,221,2022
+280,5,lebanon,beirut_2,bachoura,26,ثانوية المقاصد الاسالمية للبنات,10,female,sunni,,298,3,17,281,2022
+281,5,lebanon,beirut_2,bachoura,57,متوسطة بيروت العالية للبنات - شارع داود عمون,12,male,shia,,258,0,17,241,2022
+282,5,lebanon,beirut_2,bachoura,74,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,3,female,shia,,273,1,21,252,2022
+283,5,lebanon,beirut_2,bachoura,83,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,3,female,shia,,294,3,10,284,2022
+284,5,lebanon,beirut_2,bachoura,85,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,5,female,shia,,313,1,8,305,2022
+285,5,lebanon,beirut_2,almarfaa,104,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,10,male,sunni,,170,2,8,162,2022
+286,5,lebanon,beirut_2,almarfaa,107,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,13,female,sunni,,184,3,16,168,2022
+287,5,lebanon,beirut_2,almazraa,119,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,7,male,sunni,,258,2,1,257,2022
+288,5,lebanon,beirut_2,almazraa,128,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,16,male,sunni,,286,3,0,286,2022
+289,5,lebanon,beirut_2,almazraa,132,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,4,male,sunni,,259,2,14,245,2022
+290,5,lebanon,beirut_2,almazraa,141,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,13,male,sunni,,248,0,0,248,2022
+291,5,lebanon,beirut_2,almazraa,166,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,6,male,sunni,,212,1,7,205,2022
+292,5,lebanon,beirut_2,almazraa,171,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,11,male,sunni,,346,1,13,333,2022
+293,5,lebanon,beirut_2,almazraa,176,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,4,female,sunni,,265,1,9,256,2022
+294,5,lebanon,beirut_2,almazraa,185,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,13,female,sunni,,279,1,19,260,2022
+295,5,lebanon,beirut_2,almazraa,198,ثانوية خالد بن الوليد المقاصد,12,female,sunni,,261,0,17,244,2022
+296,5,lebanon,beirut_2,almsaytbeh,281,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,1,male,sunni,,257,3,11,246,2022
+297,5,lebanon,beirut_2,almsaytbeh,295,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,15,male,sunni,,288,10,38,250,2022
+298,5,lebanon,beirut_2,almsaytbeh,307,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,12,female,sunni,,266,1,11,255,2022
+299,5,lebanon,beirut_2,almsaytbeh,321,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,13,female,sunni,,234,1,0,234,2022
+300,5,lebanon,beirut_2,almsaytbeh,370,مدرسة مار الياس بطينا,5,male,greek_orthodox,,113,0,6,107,2022
+301,5,lebanon,beirut_2,dar_almreisseh,398,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,9,female,sunni,,237,4,10,227,2022
+302,5,lebanon,beirut_2,dar_almreisseh,408,مدرسة الحكمة - القنطاري,4,male,mixed,,56,1,0,56,2022
+303,5,lebanon,beirut_2,ras_beirut,417,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,7,male,sunni,,354,6,18,336,2022
+304,5,lebanon,beirut_2,ras_beirut,426,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,16,male,sunni,,206,2,5,201,2022
+305,5,lebanon,beirut_2,ras_beirut,427,ثانوية فردان مقابل سيار الدرك,1,male,sunni,,195,0,4,191,2022
+306,5,lebanon,beirut_2,ras_beirut,429,ثانوية فردان مقابل سيار الدرك,3,female,sunni,,291,1,12,279,2022
+307,5,lebanon,beirut_2,ras_beirut,436,ثانوية فردان مقابل سيار الدرك,10,female,sunni,,335,4,4,331,2022
+308,5,lebanon,beirut_2,ras_beirut,449,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,1,male,maronite,,86,0,2,84,2022
+309,5,lebanon,beirut_2,ras_beirut,456,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,8,female,greek_orthodox,,79,0,1,78,2022
+310,5,lebanon,beirut_2,ras_beirut,458,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,1,female,greek_orthodox,,59,0,2,57,2022
+311,5,lebanon,beirut_2,zuqaq_alblat,495,مدرسة البطريركية – شارع البطريركية,6,male,sunni,,238,7,8,230,2022
+312,5,lebanon,beirut_2,zuqaq_alblat,508,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,3,female,sunni,,141,1,4,137,2022
+313,5,lebanon,beirut_2,zuqaq_alblat,514,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,9,female,sunni,,101,0,5,96,2022
+314,5,lebanon,beirut_2,zuqaq_alblat,551,مدرسة الامداد - شارع يوسف الاسير,2,male,shia,,305,2,4,301,2022
+315,5,lebanon,beirut_2,mina_alhosn,558,مدرسة الحكمة - القنطاري,7,male,maronite,,176,4,2,174,2022
+316,5,lebanon,beirut_2,mina_alhosn,568,المدرسة الارمنية الانجيلية العالية شارع المكسيك,1,mixed,israelite,,7,0,0,7,2022
+317,5,lebanon,beirut_2,mina_alhosn,575,المدرسة الارمنية الانجيلية العالية شارع المكسيك,8,mixed,mixed,,47,0,0,47,2022
+318,5,diaspora,beirut_2,australia,11,دير ومدرسة مار شربل,5,mixed,mixed,,86,0,3,83,2022
+319,5,diaspora,beirut_2,switzerland,4,Novotel Zurich City West Hotel,1,mixed,mixed,,120,0,1,119,2022
+320,5,diaspora,beirut_2,france,12,دار البلدية - Caen,12,mixed,mixed,,7,0,0,7,2022
+321,5,diaspora,beirut_2,france,15,دار البلدية - Compiegne,15,mixed,mixed,,12,0,0,12,2022
+322,5,diaspora,beirut_2,france,19,دار البلدية - Lille,1,mixed,mixed,,30,0,0,30,2022
+323,5,diaspora,beirut_2,france,34,دار البلدية - Paris 15,2,mixed,mixed,,125,0,0,125,2022
+324,5,diaspora,beirut_2,france,71,دار البلدية - Montpellier,71,mixed,mixed,,33,0,0,33,2022
+325,5,diaspora,beirut_2,france,75,دار البلدية - Toulouse,1,mixed,mixed,,45,0,0,45,2022
+326,5,diaspora,beirut_2,united_kingdom,14,British Community Center,1,mixed,mixed,,54,0,0,54,2022
+327,5,diaspora,beirut_2,united_kingdom,5,القنصلية العامة في لندن,1,mixed,mixed,,266,4,4,262,2022
+328,5,diaspora,beirut_2,united_states,40,House of Lebanon,1,mixed,mixed,,95,0,1,94,2022
+329,5,diaspora,beirut_2,united_states,51,Lebanon-American Club,51,mixed,mixed,,11,0,0,11,2022
+330,5,diaspora,beirut_2,united_states,2,Embassy of Lebanon,1,mixed,mixed,,148,0,0,148,2022
+331,5,diaspora,beirut_2,united_states,13,Lebanese Honorary Consulate Dallas,13,mixed,mixed,,29,0,0,29,2022
+332,5,diaspora,beirut_2,germany,6,Awo Julius-Leber-Haus,2,mixed,mixed,,163,2,3,160,2022
+333,5,diaspora,beirut_2,germany,16,Burgerhaus Zahringen,1,mixed,mixed,,41,0,0,41,2022
+334,5,diaspora,beirut_2,germany,28,Dorint Kongresshotel Dusseldorf,1,mixed,mixed,,156,2,0,156,2022
+335,5,diaspora,beirut_2,germany,35,Lwl-Preubenmuseum Minden,1,mixed,mixed,,77,0,0,77,2022
+336,5,diaspora,beirut_2,cote_divoire,3,Caistab Plateau - Abidjan,3,mixed,mixed,,80,0,0,80,2022
+337,5,diaspora,beirut_2,united_arab_emirates,31,قنصلية لبنان العامة في دبي,16,mixed,mixed,,428,5,0,428,2022
+338,5,diaspora,beirut_2,qatar,1,المدرسة اللبنانية في قطر,1,mixed,mixed,,209,3,0,209,2022
+339,5,diaspora,beirut_2,sweden,8,Malmo,1,mixed,mixed,,204,0,2,202,2022
+340,5,diaspora,beirut_2,belgium,3,Ecole Communale de Saint Job,3,mixed,mixed,,39,0,0,39,2022
+341,6,lebanon,beirut_2,bachoura,19,ثانوية المقاصد الاسالمية للبنات,3,female,sunni,,233,0,15,218,2022
+342,6,lebanon,beirut_2,bachoura,29,ثانوية المقاصد الاسالمية للبنات,13,female,sunni,,237,5,18,219,2022
+343,6,lebanon,beirut_2,bachoura,81,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,1,female,shia,,284,2,1,283,2022
+344,6,lebanon,beirut_2,almazraa,117,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,5,male,sunni,,342,5,7,335,2022
+345,6,lebanon,beirut_2,almazraa,145,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,1,male,sunni,,241,2,1,240,2022
+346,6,lebanon,beirut_2,almazraa,157,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,13,male,sunni,,294,3,6,288,2022
+347,6,lebanon,beirut_2,almazraa,160,المقاصد الاسلامية للبنين - آخر خط الحرج,3,male,sunni,,243,1,2,241,2022
+348,6,lebanon,beirut_2,almazraa,179,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,7,female,sunni,,241,0,3,238,2022
+349,6,lebanon,beirut_2,almazraa,190,ثانوية خالد بن الوليد المقاصد,4,female,sunni,,327,12,7,320,2022
+350,6,lebanon,beirut_2,almazraa,213,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,11,female,sunni,,240,4,19,221,2022
+351,6,lebanon,beirut_2,almazraa,221,المقاصد الاسلامية للبنين - آخر خط الحرج,8,female,sunni,,246,5,3,243,2022
+352,6,lebanon,beirut_2,almazraa,222,المقاصد الاسلامية للبنين - آخر خط الحرج,9,female,sunni,,205,1,19,186,2022
+353,6,lebanon,beirut_2,almazraa,224,المقاصد الاسلامية للبنين - آخر خط الحرج,11,female,sunni,,250,1,5,245,2022
+354,6,lebanon,beirut_2,almazraa,235,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),10,female,sunni,,216,3,17,199,2022
+355,6,lebanon,beirut_2,almazraa,239,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),2,female,sunni,,348,0,25,323,2022
+356,6,lebanon,beirut_2,almazraa,240,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),3,female,sunni,,328,7,34,294,2022
+357,6,lebanon,beirut_2,almazraa,245,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),8,female,sunni,,400,2,10,390,2022
+358,6,lebanon,beirut_2,almazraa,248,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,1,male,greek_orthodox,,113,4,1,112,2022
+359,6,lebanon,beirut_2,almazraa,249,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,2,mixed,mixed,,125,0,3,122,2022
+360,6,lebanon,beirut_2,almazraa,250,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,3,female,greek_orthodox,,235,3,8,227,2022
+361,6,lebanon,beirut_2,almazraa,263,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,16,female,mixed,,158,0,5,153,2022
+362,6,lebanon,beirut_2,almazraa,264,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,17,mixed,mixed,,76,1,0,76,2022
+363,6,lebanon,beirut_2,almsaytbeh,267,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,3,male,sunni,,276,2,9,267,2022
+364,6,lebanon,beirut_2,almsaytbeh,272,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,8,male,sunni,,258,0,5,253,2022
+365,6,lebanon,beirut_2,almsaytbeh,283,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,3,male,sunni,,238,1,2,236,2022
+366,6,lebanon,beirut_2,almsaytbeh,285,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,5,male,sunni,,302,3,17,285,2022
+367,6,lebanon,beirut_2,almsaytbeh,289,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,9,male,sunni,,239,2,12,227,2022
+368,6,lebanon,beirut_2,almsaytbeh,291,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,11,male,sunni,,189,1,3,186,2022
+369,6,lebanon,beirut_2,almsaytbeh,302,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,7,female,sunni,,249,2,11,238,2022
+370,6,lebanon,beirut_2,almsaytbeh,303,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,8,female,sunni,,262,3,3,259,2022
+371,6,lebanon,beirut_2,almsaytbeh,304,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,9,female,sunni,,277,1,11,266,2022
+372,6,lebanon,beirut_2,almsaytbeh,320,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,12,female,sunni,,267,1,7,260,2022
+373,6,lebanon,beirut_2,almsaytbeh,330,مدرسة الارشاد للبنات - برج ابي حيدر,6,female,sunni,,236,7,15,221,2022
+374,6,lebanon,beirut_2,almsaytbeh,332,مدرسة الارشاد للبنات - برج ابي حيدر,8,female,sunni,,215,2,7,208,2022
+375,6,lebanon,beirut_2,almsaytbeh,355,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,2,female,shia,,286,4,11,275,2022
+376,6,lebanon,beirut_2,almsaytbeh,362,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,9,female,druze,,250,2,10,240,2022
+377,6,lebanon,beirut_2,almsaytbeh,373,مدرسة مار الياس بطينا,8,female,greek_orthodox,,193,2,3,190,2022
+378,6,lebanon,beirut_2,almsaytbeh,382,مدرسة وطى المصيطبة الرسمية المختلطة,5,male,syriac_orthodox,,93,0,0,93,2022
+379,6,lebanon,beirut_2,almsaytbeh,388,مدرسة وطى المصيطبة الرسمية المختلطة,11,mixed,mixed,,142,0,3,139,2022
+380,6,lebanon,beirut_2,dar_almreisseh,391,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,2,male,sunni,,255,1,17,238,2022
+381,6,lebanon,beirut_2,dar_almreisseh,406,مدرسة الحكمة - القنطاري,2,female,shia,,282,1,3,279,2022
+382,6,lebanon,beirut_2,ras_beirut,412,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,2,male,sunni,,334,2,7,327,2022
+383,6,lebanon,beirut_2,ras_beirut,418,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,8,male,sunni,,337,6,7,330,2022
+384,6,lebanon,beirut_2,ras_beirut,432,ثانوية فردان مقابل سيار الدرك,6,female,sunni,,291,2,11,280,2022
+385,6,lebanon,beirut_2,ras_beirut,440,ثانوية فردان مقابل سيار الدرك,14,female,sunni,,62,0,1,61,2022
+386,6,lebanon,beirut_2,ras_beirut,444,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,4,female,sunni,,335,0,8,327,2022
+387,6,lebanon,beirut_2,ras_beirut,457,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,9,female,greek_orthodox,,74,4,1,73,2022
+388,6,lebanon,beirut_2,ras_beirut,468,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,11,mixed,mixed,,94,0,5,89,2022
+389,6,lebanon,beirut_2,zuqaq_alblat,476,ثانوية ليسيه عبد القادر شارع بطرس البستاني,17,female,shia,,306,2,17,289,2022
+390,6,lebanon,beirut_2,zuqaq_alblat,486,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,9,male,sunni,,123,1,10,113,2022
+391,6,lebanon,beirut_2,zuqaq_alblat,494,مدرسة البطريركية – شارع البطريركية,5,male,sunni,,208,6,11,197,2022
+392,6,lebanon,beirut_2,zuqaq_alblat,497,مدرسة البطريركية – شارع البطريركية,8,male,sunni,,138,4,2,136,2022
+393,6,lebanon,beirut_2,zuqaq_alblat,542,ثانوية ليسيه عبد القادر شارع بطرس البستاني,4,female,shia,,314,0,5,309,2022
+394,6,lebanon,beirut_2,zuqaq_alblat,544,ثانوية ليسيه عبد القادر شارع بطرس البستاني,6,female,shia,,338,8,7,331,2022
+395,6,lebanon,beirut_2,zuqaq_alblat,545,ثانوية ليسيه عبد القادر شارع بطرس البستاني,7,female,shia,,294,3,5,289,2022
+396,6,lebanon,beirut_2,zuqaq_alblat,546,ثانوية ليسيه عبد القادر شارع بطرس البستاني,8,female,shia,,318,4,17,301,2022
+397,6,lebanon,beirut_2,zuqaq_alblat,553,مدرسة الامداد - شارع يوسف الاسير,4,male,shia,,356,0,10,346,2022
+398,6,lebanon,beirut_2,mina_alhosn,571,المدرسة الارمنية الانجيلية العالية شارع المكسيك,4,mixed,mixed,,70,1,4,66,2022
+399,6,diaspora,beirut_2,switzerland,1,Ferme Sarasin,1,mixed,mixed,,172,2,0,172,2022
+400,6,diaspora,beirut_2,italy,1,السفارة اللبنانية في روما,1,mixed,mixed,,30,0,0,30,2022
+401,6,diaspora,beirut_2,italy,3,Centro Anziani Ricordi ,1,mixed,mixed,,86,0,2,84,2022
+402,6,diaspora,beirut_2,iraq,1,السفارة اللبنانية في بغداد,1,mixed,mixed,,6,0,0,6,2022
+403,6,diaspora,beirut_2,gabon,1,السفارة اللبنانية في الغابون,1,mixed,mixed,,16,0,1,15,2022
+404,6,diaspora,beirut_2,brazil,2,القنصلية اللبنانية العامة في ريودي جانيرو,2,mixed,mixed,,5,0,0,5,2022
+405,6,diaspora,beirut_2,france,8,دار البلدية - Antony,7,mixed,mixed,,1,0,0,1,2022
+406,6,diaspora,beirut_2,france,11,دار البلدية - Brest,11,mixed,mixed,,11,0,0,11,2022
+407,6,diaspora,beirut_2,france,13,دار البلدية - Champs sur Marne,1,mixed,mixed,,20,0,0,20,2022
+408,6,diaspora,beirut_2,france,22,دار البلدية - Mulhouse,22,mixed,mixed,,8,0,1,7,2022
+409,6,diaspora,beirut_2,france,62,دار البلدية - Pointe-a-Pitre,62,mixed,mixed,,0,0,0,0,2022
+410,6,diaspora,beirut_2,france,67,دار البلدية - Lyon,1,mixed,mixed,,51,1,2,49,2022
+411,6,diaspora,beirut_2,united_states,22,Bint Jbeil Cultural Center,2,mixed,mixed,,20,0,0,20,2022
+412,6,diaspora,beirut_2,united_states,33,Sultan Club,33,mixed,mixed,,25,0,0,25,2022
+413,6,diaspora,beirut_2,united_states,37,Honorary Consulate of Lebanon in Las Vegas,37,mixed,mixed,,10,0,0,10,2022
+414,6,diaspora,beirut_2,united_states,50,Honorary Consulate of Lebanon in Seattle,50,mixed,mixed,,0,0,0,0,2022
+415,6,diaspora,beirut_2,united_states,48,San Diego St Ephrem Maronite Catholic Church,48,mixed,mixed,,18,0,0,18,2022
+416,6,diaspora,beirut_2,united_states,15,Lebanese Honorary Consulate Atlanta,1,mixed,mixed,,0,0,0,0,2022
+417,6,diaspora,beirut_2,ireland,1,The Convention Center Dublin,1,mixed,mixed,,34,0,1,33,2022
+418,6,diaspora,beirut_2,cote_divoire,2,Caistab Plateau - Abidjan,2,mixed,mixed,,104,2,6,98,2022
+419,6,diaspora,beirut_2,canada,18,Lebanese Association of Fredericton (Saint Charbel Church),18,mixed,mixed,,2,0,0,2,2022
+420,6,diaspora,beirut_2,canada,38,Centre Melkite de Montréal,3,mixed,mixed,,185,1,1,184,2022
+421,7,lebanon,beirut_2,bachoura,13,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,13,male,sunni,,234,3,13,221,2022
+422,7,lebanon,beirut_2,bachoura,16,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,16,male,sunni,,246,7,16,230,2022
+423,7,lebanon,beirut_2,bachoura,20,ثانوية المقاصد الاسالمية للبنات,4,female,sunni,,285,2,11,274,2022
+424,7,lebanon,beirut_2,bachoura,36,متوسطة البنات الثانية شارع سليم سلام,4,female,sunni,,283,7,1,282,2022
+425,7,lebanon,beirut_2,bachoura,38,متوسطة البنات الثانية شارع سليم سلام,6,female,sunni,,182,2,3,179,2022
+426,7,lebanon,beirut_2,bachoura,41,متوسطة البنات الثانية شارع سليم سلام,9,mixed,mixed,,62,1,2,60,2022
+427,7,lebanon,beirut_2,bachoura,46,متوسطة بيروت العالية للبنات - شارع داود عمون,1,male,shia,,313,2,11,302,2022
+428,7,lebanon,beirut_2,bachoura,54,متوسطة بيروت العالية للبنات - شارع داود عمون,9,male,shia,,275,2,3,272,2022
+429,7,lebanon,beirut_2,bachoura,59,متوسطة بيروت العالية للبنات - شارع داود عمون,14,male,shia,,329,4,4,325,2022
+430,7,lebanon,beirut_2,bachoura,60,متوسطة بيروت العالية للبنات - شارع داود عمون,15,male,shia,,242,3,4,238,2022
+431,7,lebanon,beirut_2,bachoura,76,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,5,female,shia,,295,6,8,287,2022
+432,7,lebanon,beirut_2,almarfaa,95,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,1,male,shia,,265,0,15,250,2022
+433,7,lebanon,beirut_2,almazraa,124,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,12,male,sunni,,288,5,21,267,2022
+434,7,lebanon,beirut_2,almazraa,130,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,2,male,sunni,,287,6,14,273,2022
+435,7,lebanon,beirut_2,almazraa,223,المقاصد الاسلامية للبنين - آخر خط الحرج,10,female,sunni,,269,5,15,254,2022
+436,7,lebanon,beirut_2,almazraa,241,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),4,female,sunni,,345,4,26,319,2022
+437,7,lebanon,beirut_2,almazraa,253,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,6,female,mixed,,135,2,7,128,2022
+438,7,lebanon,beirut_2,almsaytbeh,277,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,13,male,sunni,,276,3,13,263,2022
+439,7,lebanon,beirut_2,almsaytbeh,280,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,16,male,sunni,,275,1,9,266,2022
+440,7,lebanon,beirut_2,almsaytbeh,296,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,1,male,sunni,,330,9,29,301,2022
+441,7,lebanon,beirut_2,almsaytbeh,318,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,10,female,sunni,,304,1,3,301,2022
+442,7,lebanon,beirut_2,almsaytbeh,323,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,15,female,sunni,,287,3,14,273,2022
+443,7,lebanon,beirut_2,almsaytbeh,327,مدرسة الارشاد للبنات - برج ابي حيدر,3,female,sunni,,252,4,7,245,2022
+444,7,lebanon,beirut_2,almsaytbeh,344,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,4,male,shia,,312,4,18,294,2022
+445,7,lebanon,beirut_2,almsaytbeh,353,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,13,female,shia,,266,2,10,256,2022
+446,7,lebanon,beirut_2,almsaytbeh,358,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,5,female,shia,,305,3,7,298,2022
+447,7,lebanon,beirut_2,almsaytbeh,369,مدرسة مار الياس بطينا,4,male,greek_orthodox,,136,1,1,135,2022
+448,7,lebanon,beirut_2,dar_almreisseh,405,مدرسة الحكمة - القنطاري,1,male,shia,,268,2,13,255,2022
+449,7,lebanon,beirut_2,ras_beirut,434,ثانوية فردان مقابل سيار الدرك,8,female,sunni,,293,1,3,290,2022
+450,7,lebanon,beirut_2,ras_beirut,443,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,3,female,sunni,,320,2,5,315,2022
+451,7,lebanon,beirut_2,ras_beirut,445,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,5,female,sunni,,263,6,3,260,2022
+452,7,lebanon,beirut_2,ras_beirut,459,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,2,mixed,mixed,,75,0,2,73,2022
+453,7,lebanon,beirut_2,ras_beirut,470,ثانوية فردان مقابل سيار الدرك,15,female,greek_orthodox,,72,0,2,70,2022
+454,7,lebanon,beirut_2,zuqaq_alblat,477,ثانوية ليسيه عبد القادر شارع بطرس البستاني,18,female,shia,,291,3,9,282,2022
+455,7,lebanon,beirut_2,zuqaq_alblat,482,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,5,male,sunni,,207,0,7,200,2022
+456,7,lebanon,beirut_2,zuqaq_alblat,526,المدرسة المعنية,5,male,armenian_orthodox,,35,1,2,33,2022
+457,7,lebanon,beirut_2,zuqaq_alblat,535,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,6,male,shia,,306,0,5,301,2022
+458,7,lebanon,beirut_2,zuqaq_alblat,547,ثانوية ليسيه عبد القادر شارع بطرس البستاني,9,female,shia,,318,5,23,295,2022
+459,7,lebanon,beirut_2,mina_alhosn,559,مدرسة الحكمة - القنطاري,8,female,maronite,,179,0,6,173,2022
+460,7,lebanon,beirut_2,mina_alhosn,560,مدرسة الحكمة - القنطاري,9,mixed,mixed,,162,0,2,160,2022
+461,7,diaspora,beirut_2,angola,1,Luanda International Academy,1,mixed,mixed,,15,0,0,15,2022
+462,7,diaspora,beirut_2,australia,51,معهد العائلة المقدسة,8,mixed,mixed,,9,0,1,8,2022
+463,7,diaspora,beirut_2,australia,3,مكاتب القنصلية اللبنانية الفخرية السابقة في اديلايد,3,mixed,mixed,,4,0,0,4,2022
+464,7,diaspora,beirut_2,australia,59,Antonine College,8,mixed,mixed,,49,0,1,48,2022
+465,7,diaspora,beirut_2,togo,1,القنصلية اللبنانية الفخرية في توغو,1,mixed,mixed,,7,0,0,7,2022
+466,7,diaspora,beirut_2,france,1,دار البلدية - Amiens,1,mixed,mixed,,7,0,0,7,2022
+467,7,diaspora,beirut_2,france,23,دار البلدية - Nancy,23,mixed,mixed,,7,0,0,7,2022
+468,7,diaspora,beirut_2,france,24,دار البلدية - Nantes,24,mixed,mixed,,12,0,0,12,2022
+469,7,diaspora,beirut_2,france,27,دار البلدية - Orleans,27,mixed,mixed,,5,0,1,4,2022
+470,7,diaspora,beirut_2,france,77,دار البلدية - Valence,77,mixed,mixed,,2,0,0,2,2022
+471,7,diaspora,beirut_2,united_kingdom,4,Our Lady of Lourdes and Saint Vincent de Paul Church Hall,4,mixed,mixed,,255,0,3,252,2022
+472,7,diaspora,beirut_2,united_states,58,Saint Maron Hall,1,mixed,mixed,,42,0,1,41,2022
+473,7,diaspora,beirut_2,burkina_faso,1,القنصلية اللبنانية الفخرية في بوركينا فاسو,1,mixed,mixed,,9,0,0,9,2022
+474,7,diaspora,beirut_2,senegal,2,دار سكن رئيس البعثة,2,mixed,mixed,,19,0,2,17,2022
+475,7,diaspora,beirut_2,south_africa,1,السفارة اللبنانية في بريتوريا,1,mixed,mixed,,4,0,0,4,2022
+476,7,diaspora,beirut_2,sierra_leone,2,السفارة اللبنانية في سيراليون,2,mixed,mixed,,4,0,0,4,2022
+477,7,diaspora,beirut_2,cote_divoire,18,فندق Sophia - سان بيدرو,18,mixed,mixed,,5,0,0,5,2022
+478,7,diaspora,beirut_2,liberia,1,السفارة اللبنانية في منروفيا,1,mixed,mixed,,4,0,0,4,2022
+479,7,diaspora,beirut_2,nigeria,4,المدرسة اللبنانية في بورت هاركورت,4,mixed,mixed,,1,0,0,1,2022
+480,7,diaspora,beirut_2,united_arab_emirates,32,قنصلية لبنان العامة في دبي,17,mixed,mixed,,421,0,14,407,2022
+481,7,diaspora,beirut_2,united_arab_emirates,34,قنصلية لبنان العامة في دبي,19,mixed,mixed,,387,1,7,380,2022
+482,7,diaspora,beirut_2,qatar,3,المدرسة اللبنانية في قطر,3,mixed,mixed,,78,0,1,77,2022
+483,7,diaspora,beirut_2,zambia,1,Lebanese International School,1,mixed,mixed,,11,0,0,11,2022
+484,7,diaspora,beirut_2,canada,16,Evergreen Cultural Center,1,mixed,mixed,,67,0,1,66,2022
+485,7,diaspora,beirut_2,canada,19,Mother Theresa Syro Malabar Church,2,mixed,mixed,,19,0,0,19,2022
+486,7,diaspora,beirut_2,canada,40,Centre Melkite de Montréal,5,mixed,mixed,,35,0,0,35,2022
+487,7,diaspora,beirut_2,mali,1,القنصلية اللبنانية الفخرية في مالي,1,mixed,mixed,,6,0,0,6,2022
+488,8,lebanon,beirut_2,bachoura,1,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,1,male,sunni,,289,1,16,273,2022
+489,8,lebanon,beirut_2,bachoura,12,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,12,male,sunni,,232,0,12,220,2022
+490,8,lebanon,beirut_2,bachoura,35,متوسطة البنات الثانية شارع سليم سلام,3,female,sunni,,313,0,12,301,2022
+491,8,lebanon,beirut_2,bachoura,45,متوسطة البنات الثانية شارع سليم سلام,13,female,sunni,,206,4,1,205,2022
+492,8,lebanon,beirut_2,bachoura,47,متوسطة بيروت العالية للبنات - شارع داود عمون,2,male,shia,,276,7,19,257,2022
+493,8,lebanon,beirut_2,bachoura,62,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,1,male,shia,,302,1,11,291,2022
+494,8,lebanon,beirut_2,bachoura,66,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,5,male,shia,,220,1,0,220,2022
+495,8,lebanon,beirut_2,bachoura,68,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,7,mixed,greek_orthodox,,110,0,4,106,2022
+496,8,lebanon,beirut_2,bachoura,80,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,9,female,shia,,267,3,7,260,2022
+497,8,lebanon,beirut_2,bachoura,89,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,9,female,shia,,289,2,10,279,2022
+498,8,lebanon,beirut_2,almazraa,114,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,2,male,sunni,,270,7,7,263,2022
+499,8,lebanon,beirut_2,almazraa,133,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,5,male,sunni,,272,2,3,269,2022
+500,8,lebanon,beirut_2,almazraa,134,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,6,male,sunni,,295,2,9,286,2022
+501,8,lebanon,beirut_2,almazraa,146,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,2,male,sunni,,260,4,8,252,2022
+502,8,lebanon,beirut_2,almazraa,159,المقاصد الاسلامية للبنين - آخر خط الحرج,2,male,sunni,,271,1,20,251,2022
+503,8,lebanon,beirut_2,almazraa,162,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,2,male,sunni,,229,3,9,220,2022
+504,8,lebanon,beirut_2,almazraa,164,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,4,male,sunni,,259,1,5,254,2022
+505,8,lebanon,beirut_2,almazraa,184,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,12,female,sunni,,312,4,13,299,2022
+506,8,lebanon,beirut_2,almazraa,187,ثانوية خالد بن الوليد المقاصد,1,female,sunni,,306,2,9,297,2022
+507,8,lebanon,beirut_2,almazraa,201,ثانوية خالد بن الوليد المقاصد,15,female,sunni,,250,1,8,242,2022
+508,8,lebanon,beirut_2,almazraa,261,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,14,female,mixed,,295,3,10,285,2022
+509,8,lebanon,beirut_2,almsaytbeh,266,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,2,male,sunni,,251,3,6,245,2022
+510,8,lebanon,beirut_2,almsaytbeh,279,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,15,male,sunni,,276,7,15,261,2022
+511,8,lebanon,beirut_2,almsaytbeh,311,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,3,female,sunni,,264,2,5,259,2022
+512,8,lebanon,beirut_2,almsaytbeh,316,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,8,female,sunni,,282,3,13,269,2022
+513,8,lebanon,beirut_2,almsaytbeh,343,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,3,male,shia,,272,3,5,267,2022
+514,8,lebanon,beirut_2,almsaytbeh,347,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,7,male,shia,,270,1,13,257,2022
+515,8,lebanon,beirut_2,almsaytbeh,361,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,8,male,druze,,240,3,2,238,2022
+516,8,lebanon,beirut_2,almsaytbeh,368,مدرسة مار الياس بطينا,3,male,greek_orthodox,,186,1,1,185,2022
+517,8,lebanon,beirut_2,almsaytbeh,378,مدرسة وطى المصيطبة الرسمية المختلطة,1,male,syriac_catholic,,96,0,0,96,2022
+518,8,lebanon,beirut_2,dar_almreisseh,410,مدرسة الحكمة - القنطاري,6,mixed,mixed,,57,0,2,55,2022
+519,8,lebanon,beirut_2,ras_beirut,414,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,4,male,sunni,,270,3,5,265,2022
+520,8,lebanon,beirut_2,ras_beirut,430,ثانوية فردان مقابل سيار الدرك,4,female,sunni,,342,0,25,317,2022
+521,8,lebanon,beirut_2,ras_beirut,441,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,1,female,sunni,,328,5,18,310,2022
+522,8,lebanon,beirut_2,ras_beirut,448,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,8,female,sunni,,274,0,0,274,2022
+523,8,lebanon,beirut_2,ras_beirut,453,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,5,male,greek_orthodox,,63,0,1,62,2022
+524,8,lebanon,beirut_2,ras_beirut,469,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,12,mixed,mixed,,92,1,4,88,2022
+525,8,lebanon,beirut_2,zuqaq_alblat,471,ثانوية ليسيه عبد القادر شارع بطرس البستاني,12,female,shia,,281,4,1,280,2022
+526,8,lebanon,beirut_2,zuqaq_alblat,487,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,10,male,sunni,,126,1,1,125,2022
+527,8,lebanon,beirut_2,zuqaq_alblat,491,مدرسة البطريركية – شارع البطريركية,2,male,sunni,,123,1,3,120,2022
+528,8,lebanon,beirut_2,zuqaq_alblat,524,المدرسة المعنية,3,mixed,mixed,,147,1,6,141,2022
+529,8,lebanon,beirut_2,zuqaq_alblat,543,ثانوية ليسيه عبد القادر شارع بطرس البستاني,5,female,shia,,333,5,14,319,2022
+530,8,diaspora,beirut_2,australia,20,كلية السلامة,8,mixed,mixed,,33,0,2,31,2022
+531,8,diaspora,beirut_2,australia,29,مبنى المعهد الشرعي,5,mixed,mixed,,11,0,0,11,2022
+532,8,diaspora,beirut_2,brazil,4,المدرسة البرازيلية - اللبنانية,2,mixed,mixed,,8,0,0,8,2022
+533,8,diaspora,beirut_2,brazil,8,مدرسة رودريغو ألفيس,4,mixed,mixed,,9,0,1,8,2022
+534,8,diaspora,beirut_2,france,46,دار البلدية - Reims,46,mixed,mixed,,9,0,0,9,2022
+535,8,diaspora,beirut_2,france,69,دار البلدية - Marseille,1,mixed,mixed,,58,0,1,57,2022
+536,8,diaspora,beirut_2,united_states,30,Maronite Church,1,mixed,mixed,,20,0,1,19,2022
+537,8,diaspora,beirut_2,united_states,41,House of Lebanon,2,mixed,mixed,,29,0,2,27,2022
+538,8,diaspora,beirut_2,united_states,49,St. Charbel Church Oregon ,49,mixed,mixed,,10,0,1,9,2022
+539,8,diaspora,beirut_2,united_states,61,St. Sharbel Maronite Catholic Church,2,mixed,mixed,,4,0,0,4,2022
+540,8,diaspora,beirut_2,united_states,69,The Cedars Center,7,mixed,mixed,,2,0,0,2,2022
+541,8,diaspora,beirut_2,united_states,1,Austin Southpark Hotel,1,mixed,mixed,,21,1,0,21,2022
+542,8,diaspora,beirut_2,united_states,17,Lebanese Honorary Consulate Birmingham,17,mixed,mixed,,7,0,0,7,2022
+543,8,diaspora,beirut_2,canada,1,Armenian Community Center,1,mixed,mixed,,188,0,0,188,2022
+544,8,diaspora,beirut_2,canada,25,St. Charbel Parish,2,mixed,mixed,,237,1,6,231,2022
+545,8,lebanon,beirut_2,employees,,مركز قيادة فوج اطفاء بيروت الكرنتينا,36,,,,282,3,6,276,2022
+546,9,lebanon,beirut_2,bachoura,3,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,3,male,sunni,,284,5,21,263,2022
+547,9,lebanon,beirut_2,bachoura,17,ثانوية المقاصد الاسالمية للبنات,1,female,sunni,,269,4,26,243,2022
+548,9,lebanon,beirut_2,bachoura,21,ثانوية المقاصد الاسالمية للبنات,5,female,sunni,,292,2,12,280,2022
+549,9,lebanon,beirut_2,bachoura,48,متوسطة بيروت العالية للبنات - شارع داود عمون,3,male,shia,,253,1,9,244,2022
+550,9,lebanon,beirut_2,bachoura,50,متوسطة بيروت العالية للبنات - شارع داود عمون,5,male,shia,,300,3,8,292,2022
+551,9,lebanon,beirut_2,bachoura,91,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,11,female,shia,,347,4,26,321,2022
+552,9,lebanon,beirut_2,bachoura,92,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,12,female,shia,,301,3,1,300,2022
+553,9,lebanon,beirut_2,almarfaa,102,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,8,male,sunni,,161,1,4,157,2022
+554,9,lebanon,beirut_2,almazraa,126,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,14,male,sunni,,279,4,5,274,2022
+555,9,lebanon,beirut_2,almazraa,129,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,1,male,sunni,,266,1,3,263,2022
+556,9,lebanon,beirut_2,almazraa,131,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,3,male,sunni,,240,1,10,230,2022
+557,9,lebanon,beirut_2,almazraa,138,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,10,male,sunni,,244,0,15,229,2022
+558,9,lebanon,beirut_2,almazraa,155,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,11,male,sunni,,271,2,9,262,2022
+559,9,lebanon,beirut_2,almazraa,181,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,9,female,sunni,,318,3,11,307,2022
+560,9,lebanon,beirut_2,almazraa,189,ثانوية خالد بن الوليد المقاصد,3,female,sunni,,261,4,17,244,2022
+561,9,lebanon,beirut_2,almazraa,196,ثانوية خالد بن الوليد المقاصد,10,female,sunni,,265,4,7,258,2022
+562,9,lebanon,beirut_2,almazraa,229,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),4,female,sunni,,255,3,18,237,2022
+563,9,lebanon,beirut_2,almazraa,230,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),5,female,sunni,,205,3,17,188,2022
+564,9,lebanon,beirut_2,almazraa,255,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,8,male,shia,,241,0,5,236,2022
+565,9,lebanon,beirut_2,almsaytbeh,268,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,4,male,sunni,,297,0,3,294,2022
+566,9,lebanon,beirut_2,almsaytbeh,275,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,11,male,sunni,,299,5,11,288,2022
+567,9,lebanon,beirut_2,almsaytbeh,315,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,7,female,sunni,,242,6,3,239,2022
+568,9,lebanon,beirut_2,almsaytbeh,338,مدرسة الارشاد للبنات - برج ابي حيدر,14,female,sunni,,244,3,6,238,2022
+569,9,lebanon,beirut_2,almsaytbeh,350,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,10,female,shia,,310,1,21,289,2022
+570,9,lebanon,beirut_2,almsaytbeh,357,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,4,female,shia,,277,2,6,271,2022
+571,9,lebanon,beirut_2,almsaytbeh,364,ثانوية الدكتور حسن صعب الرسمية سابقا رينيه معوض - رمل الظريف,11,mixed,mixed,,173,1,1,172,2022
+572,9,lebanon,beirut_2,dar_almreisseh,401,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,12,male,druze,,213,3,1,212,2022
+573,9,lebanon,beirut_2,dar_almreisseh,402,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,13,female,druze,,204,5,13,191,2022
+574,9,lebanon,beirut_2,dar_almreisseh,403,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,14,mixed,druze,,214,4,10,204,2022
+575,9,lebanon,beirut_2,dar_almreisseh,409,مدرسة الحكمة - القنطاري,5,female,mixed,,68,2,0,68,2022
+576,9,lebanon,beirut_2,ras_beirut,431,ثانوية فردان مقابل سيار الدرك,5,female,sunni,,340,4,3,337,2022
+577,9,lebanon,beirut_2,ras_beirut,439,ثانوية فردان مقابل سيار الدرك,13,female,sunni,,336,0,9,327,2022
+578,9,lebanon,beirut_2,ras_beirut,446,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,6,female,sunni,,203,3,5,198,2022
+579,9,lebanon,beirut_2,ras_beirut,447,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,7,female,sunni,,213,4,22,191,2022
+580,9,lebanon,beirut_2,ras_beirut,451,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,3,male,greek_orthodox,,128,0,1,127,2022
+581,9,lebanon,beirut_2,ras_beirut,462,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,5,female,shia,,200,1,9,191,2022
+582,9,lebanon,beirut_2,zuqaq_alblat,481,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,4,male,sunni,,279,1,11,268,2022
+583,9,lebanon,beirut_2,zuqaq_alblat,488,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,11,male,sunni,,118,1,0,118,2022
+584,9,lebanon,beirut_2,zuqaq_alblat,492,مدرسة البطريركية – شارع البطريركية,3,male,sunni,,115,0,14,101,2022
+585,9,lebanon,beirut_2,zuqaq_alblat,540,ثانوية ليسيه عبد القادر شارع بطرس البستاني,2,female,shia,,309,1,15,294,2022
+586,9,lebanon,beirut_2,mina_alhosn,565,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,5,mixed,mixed,,179,4,6,173,2022
+587,9,lebanon,beirut_2,mina_alhosn,566,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,6,male,mixed,,101,1,2,99,2022
+588,9,diaspora,beirut_2,france,16,دار البلدية - Creteil,1,mixed,mixed,,38,0,4,34,2022
+589,9,diaspora,beirut_2,france,38,دار البلدية - Paris 16,1,mixed,mixed,,1,0,0,1,2022
+590,9,diaspora,beirut_2,france,39,دار البلدية - Paris 16,2,mixed,mixed,,259,1,17,242,2022
+591,9,diaspora,beirut_2,france,47,دار البلدية - Rennes,47,mixed,mixed,,11,0,0,11,2022
+592,9,diaspora,beirut_2,france,48,دار البلدية - Rouen,48,mixed,mixed,,10,0,0,10,2022
+593,9,diaspora,beirut_2,france,49,دار البلدية - Saint Germain en Laye,49,mixed,mixed,,9,0,1,8,2022
+594,9,diaspora,beirut_2,france,64,دار البلدية - Bordeaux,64,mixed,mixed,,31,0,1,30,2022
+595,9,diaspora,beirut_2,france,65,دار البلدية - Clermont-Ferrand,65,mixed,mixed,,18,0,1,17,2022
+596,9,diaspora,beirut_2,france,66,دار البلدية - Grenoble,66,mixed,mixed,,18,0,1,17,2022
+597,9,diaspora,beirut_2,france,63,دار البلدية - Poisy,63,mixed,mixed,,11,0,2,9,2022
+598,9,diaspora,beirut_2,united_states,14,Lebanese Honrary Consulate Raleigh,14,mixed,mixed,,24,0,1,23,2022
+599,9,diaspora,beirut_2,united_arab_emirates,33,قنصلية لبنان العامة في دبي,18,mixed,mixed,,399,0,6,393,2022
+600,9,diaspora,beirut_2,united_arab_emirates,35,قنصلية لبنان العامة في دبي,20,mixed,mixed,,371,1,4,367,2022
+601,9,diaspora,beirut_2,qatar,2,المدرسة اللبنانية في قطر,2,mixed,mixed,,271,1,5,266,2022
+602,9,diaspora,beirut_2,canada,37,Centre Melkite de Montréal,2,mixed,mixed,,249,0,15,234,2022
+603,9,lebanon,beirut_2,employees,,مركز قيادة فوج اطفاء بيروت الكرنتينا,35,,,,280,3,7,273,2022
+604,10,lebanon,beirut_2,bachoura,27,ثانوية المقاصد الاسالمية للبنات,11,female,sunni,,269,3,18,251,2022
+605,10,lebanon,beirut_2,bachoura,30,ثانوية المقاصد الاسالمية للبنات,14,female,sunni,,234,4,3,231,2022
+606,10,lebanon,beirut_2,bachoura,39,متوسطة البنات الثانية شارع سليم سلام,7,female,mixed,,111,0,0,111,2022
+607,10,lebanon,beirut_2,bachoura,42,متوسطة البنات الثانية شارع سليم سلام,10,mixed,armenian_orthodox,,33,0,1,32,2022
+608,10,lebanon,beirut_2,bachoura,63,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,2,male,shia,,315,8,8,307,2022
+609,10,lebanon,beirut_2,bachoura,78,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,7,female,shia,,258,3,6,252,2022
+610,10,lebanon,beirut_2,bachoura,86,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,6,female,shia,,345,6,22,323,2022
+611,10,lebanon,beirut_2,almarfaa,99,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,5,male,mixed,,46,0,1,45,2022
+612,10,lebanon,beirut_2,almarfaa,109,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,15,female,sunni,,146,3,4,142,2022
+613,10,lebanon,beirut_2,almazraa,113,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,1,male,sunni,,266,1,0,266,2022
+614,10,lebanon,beirut_2,almazraa,115,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,3,male,sunni,,251,1,10,241,2022
+615,10,lebanon,beirut_2,almazraa,144,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,16,male,sunni,,285,1,9,276,2022
+616,10,lebanon,beirut_2,almazraa,149,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,5,male,sunni,,285,5,4,281,2022
+617,10,lebanon,beirut_2,almazraa,152,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,8,male,sunni,,237,0,11,226,2022
+618,10,lebanon,beirut_2,almazraa,174,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,2,male,sunni,,327,5,11,316,2022
+619,10,lebanon,beirut_2,almazraa,180,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,8,female,sunni,,318,0,3,315,2022
+620,10,lebanon,beirut_2,almazraa,183,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,11,female,sunni,,254,3,4,250,2022
+621,10,lebanon,beirut_2,almazraa,191,ثانوية خالد بن الوليد المقاصد,5,female,sunni,,302,4,18,284,2022
+622,10,lebanon,beirut_2,almazraa,205,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,3,female,sunni,,283,2,19,264,2022
+623,10,lebanon,beirut_2,almazraa,210,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,8,female,sunni,,297,3,14,283,2022
+624,10,lebanon,beirut_2,almazraa,225,المقاصد الاسلامية للبنين - آخر خط الحرج,12,female,sunni,,316,4,15,301,2022
+625,10,lebanon,beirut_2,almazraa,233,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),8,female,sunni,,248,3,16,232,2022
+626,10,lebanon,beirut_2,almazraa,234,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),9,female,sunni,,255,4,18,237,2022
+627,10,lebanon,beirut_2,almazraa,257,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,10,male,mixed,,256,2,20,236,2022
+628,10,lebanon,beirut_2,almazraa,260,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,13,female,shia,,277,1,15,262,2022
+629,10,lebanon,beirut_2,almsaytbeh,269,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,5,male,sunni,,267,0,18,249,2022
+630,10,lebanon,beirut_2,almsaytbeh,273,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,9,male,sunni,,263,1,6,257,2022
+631,10,lebanon,beirut_2,almsaytbeh,274,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,10,male,sunni,,274,4,2,272,2022
+632,10,lebanon,beirut_2,almsaytbeh,284,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,4,male,sunni,,236,1,3,233,2022
+633,10,lebanon,beirut_2,almsaytbeh,288,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,8,male,sunni,,240,0,19,221,2022
+634,10,lebanon,beirut_2,almsaytbeh,298,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,3,male,sunni,,253,7,20,233,2022
+635,10,lebanon,beirut_2,almsaytbeh,300,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,5,male,sunni,,228,5,4,224,2022
+636,10,lebanon,beirut_2,almsaytbeh,309,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,1,female,sunni,,258,1,11,247,2022
+637,10,lebanon,beirut_2,almsaytbeh,312,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,4,female,sunni,,299,4,19,280,2022
+638,10,lebanon,beirut_2,almsaytbeh,313,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,5,female,sunni,,257,1,1,256,2022
+639,10,lebanon,beirut_2,almsaytbeh,319,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,11,female,sunni,,292,3,0,292,2022
+640,10,lebanon,beirut_2,almsaytbeh,333,مدرسة الارشاد للبنات - برج ابي حيدر,9,female,sunni,,198,1,1,197,2022
+641,10,lebanon,beirut_2,almsaytbeh,377,مدرسة مار الياس بطينا,12,male,greek_catholic,,145,0,3,142,2022
+642,10,lebanon,beirut_2,almsaytbeh,379,مدرسة وطى المصيطبة الرسمية المختلطة,2,male,mixed,,76,3,2,74,2022
+643,10,lebanon,beirut_2,almsaytbeh,380,مدرسة وطى المصيطبة الرسمية المختلطة,3,female,syriac_catholic,,103,2,3,100,2022
+644,10,lebanon,beirut_2,almsaytbeh,384,مدرسة وطى المصيطبة الرسمية المختلطة,7,male,syriac_orthodox,,75,2,0,75,2022
+645,10,lebanon,beirut_2,dar_almreisseh,390,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,1,male,sunni,,239,3,10,229,2022
+646,10,lebanon,beirut_2,dar_almreisseh,394,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,5,male,sunni,,246,5,6,240,2022
+647,10,lebanon,beirut_2,ras_beirut,420,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,10,male,sunni,,368,6,1,367,2022
+648,10,lebanon,beirut_2,ras_beirut,421,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,11,male,sunni,,282,1,7,275,2022
+649,10,lebanon,beirut_2,ras_beirut,425,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,15,male,sunni,,273,1,4,269,2022
+650,10,lebanon,beirut_2,ras_beirut,433,ثانوية فردان مقابل سيار الدرك,7,female,sunni,,289,0,13,276,2022
+651,10,lebanon,beirut_2,ras_beirut,435,ثانوية فردان مقابل سيار الدرك,9,female,sunni,,299,1,4,295,2022
+652,10,lebanon,beirut_2,ras_beirut,455,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,7,female,greek_orthodox,,160,1,12,148,2022
+653,10,lebanon,beirut_2,ras_beirut,466,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,9,male,anglican,,53,0,1,52,2022
+654,10,lebanon,beirut_2,zuqaq_alblat,478,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,1,male,sunni,,258,7,9,249,2022
+655,10,lebanon,beirut_2,zuqaq_alblat,479,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,2,male,sunni,,254,0,5,249,2022
+656,10,lebanon,beirut_2,zuqaq_alblat,485,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,8,male,sunni,,229,1,12,217,2022
+657,10,lebanon,beirut_2,zuqaq_alblat,493,مدرسة البطريركية – شارع البطريركية,4,male,sunni,,128,3,6,122,2022
+658,10,lebanon,beirut_2,zuqaq_alblat,499,مدرسة البطريركية – شارع البطريركية,10,female,sunni,,243,2,8,235,2022
+659,10,lebanon,beirut_2,zuqaq_alblat,510,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,5,female,sunni,,106,0,4,102,2022
+660,10,lebanon,beirut_2,zuqaq_alblat,537,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,8,male,shia,,299,2,1,298,2022
+661,10,lebanon,beirut_2,zuqaq_alblat,548,ثانوية ليسيه عبد القادر شارع بطرس البستاني,10,female,shia,,307,10,16,291,2022
+662,10,lebanon,beirut_2,zuqaq_alblat,549,ثانوية ليسيه عبد القادر شارع بطرس البستاني,11,female,shia,,282,1,7,275,2022
+663,10,lebanon,beirut_2,mina_alhosn,572,المدرسة الارمنية الانجيلية العالية شارع المكسيك,5,mixed,mixed,,126,0,6,120,2022
+664,10,diaspora,beirut_2,australia,32,مجمع الامام موسى الصدر,3,mixed,mixed,,29,2,1,28,2022
+665,10,diaspora,beirut_2,australia,43,مطرانية الكاثوليك الملكيين,5,mixed,mixed,,24,1,0,24,2022
+666,10,diaspora,beirut_2,ecuador,1,السفارة اللبناية في إلاكوادور,1,mixed,mixed,,1,0,0,1,2022
+667,10,diaspora,beirut_2,ecuador,2,القنصلية اللبنانية الفخرية,2,mixed,mixed,,0,0,0,0,2022
+668,10,diaspora,beirut_2,france,21,دار البلدية - Metz,21,mixed,mixed,,5,0,0,5,2022
+669,10,diaspora,beirut_2,france,53,دار البلدية - Suresnes,3,mixed,mixed,,127,0,1,126,2022
+670,10,diaspora,beirut_2,saudi_arabia,23,القنصلية العامة في جدة,3,mixed,mixed,,147,4,1,146,2022
+671,10,diaspora,beirut_2,united_states,24,Cedars Hall,24,mixed,mixed,,22,0,1,21,2022
+672,10,diaspora,beirut_2,united_states,32,St Sharbel Church,32,mixed,mixed,,5,0,0,5,2022
+673,10,diaspora,beirut_2,united_states,36,Honorary Consulate of Lebanon in Arizona,36,mixed,mixed,,14,0,0,14,2022
+674,10,diaspora,beirut_2,united_states,47,Saint Joseph Maronite Catholic Church,47,mixed,mixed,,23,0,1,22,2022
+675,10,diaspora,beirut_2,united_states,10,Jacksonville Marriott Hotel,10,mixed,mixed,,14,0,0,14,2022
+676,10,diaspora,beirut_2,united_states,20,St George Maronite Catholic Church,20,mixed,mixed,,0,0,0,0,2022
+677,10,diaspora,beirut_2,germany,1,Altrex Haus Business Park,1,mixed,mixed,,67,0,1,66,2022
+678,10,diaspora,beirut_2,germany,3,Atlantic Hotel,2,mixed,mixed,,72,0,0,72,2022
+679,10,diaspora,beirut_2,germany,4,Atlantic Hotel,3,mixed,mixed,,40,0,1,39,2022
+680,10,diaspora,beirut_2,germany,8,Ballsaal Leipzig,8,mixed,mixed,,18,0,0,18,2022
+681,10,diaspora,beirut_2,germany,17,Burgerhaus Zahringen,1,mixed,mixed,,70,0,1,69,2022
+682,10,diaspora,beirut_2,germany,18,City Club Hotel Oldenburg,18,mixed,mixed,,90,0,1,89,2022
+683,10,diaspora,beirut_2,germany,20,Factory Hotel,2,mixed,mixed,,6,0,0,6,2022
+684,10,diaspora,beirut_2,germany,32,Hannover Congress Centrum,1,mixed,mixed,,115,0,5,110,2022
+685,10,diaspora,beirut_2,germany,22,Intercity Hotel Dortmund,1,mixed,mixed,,56,0,1,55,2022
+686,10,diaspora,beirut_2,germany,24,Intercityhotel Braunschweig,1,mixed,mixed,,77,0,3,74,2022
+687,10,diaspora,beirut_2,germany,26,Kirche der Kath. St. Wendel,1,mixed,mixed,,36,0,0,36,2022
+688,10,diaspora,beirut_2,venezuela,3,السفارة اللبنانية في جمهورية فنزويلا البوليفارية,3,mixed,mixed,,2,0,0,2,2022
+689,11,lebanon,beirut_2,bachoura,6,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,6,male,sunni,,263,2,9,254,2022
+690,11,lebanon,beirut_2,bachoura,25,ثانوية المقاصد الاسالمية للبنات,9,female,sunni,,272,3,13,259,2022
+691,11,lebanon,beirut_2,bachoura,31,ثانوية المقاصد الاسالمية للبنات,15,female,sunni,,208,3,6,202,2022
+692,11,lebanon,beirut_2,bachoura,37,متوسطة البنات الثانية شارع سليم سلام,5,female,sunni,,291,10,3,288,2022
+693,11,lebanon,beirut_2,bachoura,49,متوسطة بيروت العالية للبنات - شارع داود عمون,4,male,shia,,261,3,7,254,2022
+694,11,lebanon,beirut_2,bachoura,53,متوسطة بيروت العالية للبنات - شارع داود عمون,8,male,shia,,261,3,4,257,2022
+695,11,lebanon,beirut_2,bachoura,58,متوسطة بيروت العالية للبنات - شارع داود عمون,13,male,shia,,295,9,15,280,2022
+696,11,lebanon,beirut_2,bachoura,70,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,9,female,maronite,,84,0,6,78,2022
+697,11,lebanon,beirut_2,bachoura,82,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,2,female,shia,,306,3,14,292,2022
+698,11,lebanon,beirut_2,almarfaa,100,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,6,female,mixed,,48,0,0,48,2022
+699,11,lebanon,beirut_2,almazraa,120,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,8,male,sunni,,343,11,5,338,2022
+700,11,lebanon,beirut_2,almazraa,150,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,6,male,sunni,,263,2,9,254,2022
+701,11,lebanon,beirut_2,almazraa,151,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,7,male,sunni,,272,3,5,267,2022
+702,11,lebanon,beirut_2,almazraa,169,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,9,male,sunni,,342,7,22,320,2022
+703,11,lebanon,beirut_2,almazraa,186,مدرسة عمر الزعني المتوسطة الرسمية المختلطة – الملعب البلدي,14,female,sunni,,274,4,10,264,2022
+704,11,lebanon,beirut_2,almazraa,188,ثانوية خالد بن الوليد المقاصد,2,female,sunni,,313,8,23,290,2022
+705,11,lebanon,beirut_2,almazraa,192,ثانوية خالد بن الوليد المقاصد,6,female,sunni,,263,1,21,242,2022
+706,11,lebanon,beirut_2,almazraa,219,المقاصد الاسلامية للبنين - آخر خط الحرج,6,female,sunni,,265,1,7,258,2022
+707,11,lebanon,beirut_2,almazraa,254,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,7,male,shia,,223,5,9,214,2022
+708,11,lebanon,beirut_2,almsaytbeh,287,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,7,male,sunni,,244,7,26,218,2022
+709,11,lebanon,beirut_2,almsaytbeh,293,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,13,male,sunni,,168,3,5,163,2022
+710,11,lebanon,beirut_2,almsaytbeh,301,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,6,female,sunni,,260,1,18,242,2022
+711,11,lebanon,beirut_2,almsaytbeh,335,مدرسة الارشاد للبنات - برج ابي حيدر,11,female,sunni,,318,9,21,297,2022
+712,11,lebanon,beirut_2,almsaytbeh,366,مدرسة مار الياس بطينا,1,male,greek_orthodox,,231,2,0,231,2022
+713,11,lebanon,beirut_2,almsaytbeh,367,مدرسة مار الياس بطينا,2,male,greek_orthodox,,228,3,7,221,2022
+714,11,lebanon,beirut_2,almsaytbeh,372,مدرسة مار الياس بطينا,7,female,greek_orthodox,,200,0,8,192,2022
+715,11,lebanon,beirut_2,almsaytbeh,375,مدرسة مار الياس بطينا,10,female,greek_orthodox,,96,1,8,88,2022
+716,11,lebanon,beirut_2,almsaytbeh,376,مدرسة مار الياس بطينا,11,mixed,greek_orthodox,,187,3,1,186,2022
+717,11,lebanon,beirut_2,ras_beirut,428,ثانوية فردان مقابل سيار الدرك,2,male,sunni,,258,4,7,251,2022
+718,11,lebanon,beirut_2,ras_beirut,438,ثانوية فردان مقابل سيار الدرك,12,female,sunni,,340,5,8,332,2022
+719,11,lebanon,beirut_2,ras_beirut,460,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,3,female,greek_orthodox,,58,0,1,57,2022
+720,11,lebanon,beirut_2,ras_beirut,461,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,4,male,shia,,196,1,2,194,2022
+721,11,lebanon,beirut_2,ras_beirut,463,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,6,male,druze,,184,4,5,179,2022
+722,11,lebanon,beirut_2,zuqaq_alblat,472,ثانوية ليسيه عبد القادر شارع بطرس البستاني,13,female,shia,,299,3,24,275,2022
+723,11,lebanon,beirut_2,zuqaq_alblat,484,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,7,male,sunni,,256,2,7,249,2022
+724,11,lebanon,beirut_2,zuqaq_alblat,502,مدرسة البطريركية – شارع البطريركية,13,female,sunni,,292,3,58,234,2022
+725,11,lebanon,beirut_2,zuqaq_alblat,519,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,14,female,sunni,,217,4,5,212,2022
+726,11,lebanon,beirut_2,zuqaq_alblat,521,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,16,female,sunni,,205,3,17,188,2022
+727,11,lebanon,beirut_2,zuqaq_alblat,532,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,3,male,shia,,224,1,16,208,2022
+728,11,lebanon,beirut_2,mina_alhosn,562,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,2,male,sunni,,224,4,22,202,2022
+729,11,diaspora,beirut_2,turkey,1,Macka Mesleki ve Teknik Anadolu Lisesi,1,mixed,mixed,,207,0,0,207,2022
+730,11,diaspora,beirut_2,france,25,دار البلدية - Noisy le Grand,1,mixed,mixed,,48,0,0,48,2022
+731,11,diaspora,beirut_2,greece,1,السفارة اللبنانية في أثينا,1,mixed,mixed,,53,0,3,50,2022
+732,11,diaspora,beirut_2,jordan,1,السفارة اللبنانية في ألاردن,1,mixed,mixed,,77,3,1,76,2022
+733,11,diaspora,beirut_2,saudi_arabia,21,القنصلية العامة في جدة,1,mixed,mixed,,240,1,0,240,2022
+734,11,diaspora,beirut_2,saudi_arabia,22,القنصلية العامة في جدة,2,mixed,mixed,,210,1,3,207,2022
+735,11,diaspora,beirut_2,germany,14,Burgerhaus Neckarstadt-West,1,mixed,mixed,,102,0,1,101,2022
+736,11,diaspora,beirut_2,germany,19,Factory Hotel,1,mixed,mixed,,162,1,0,162,2022
+737,11,diaspora,beirut_2,cyprus,1,St Raphael Resort Limassol,1,mixed,mixed,,28,0,0,28,2022
+738,11,diaspora,beirut_2,cyprus,2,السفارة اللبنانية في نيقوسيا,2,mixed,mixed,,42,0,1,41,2022
+739,11,diaspora,beirut_2,united_arab_emirates,2,السفارة اللبنانية في أبو ظبي,2,mixed,mixed,,206,1,4,202,2022
+740,11,diaspora,beirut_2,united_arab_emirates,30,قنصلية لبنان العامة في دبي,15,mixed,mixed,,416,0,6,410,2022
+741,11,diaspora,beirut_2,kuwait,2,السفارة اللبنانية في الكويت,2,mixed,mixed,,234,0,5,229,2022
+742,11,diaspora,beirut_2,canada,2,Armenian Community Center,2,mixed,mixed,,229,0,0,229,2022
+743,11,diaspora,beirut_2,canada,3,Armenian Community Center,3,mixed,mixed,,84,0,0,84,2022
+744,11,diaspora,beirut_2,canada,22,St Charbel Antonin Maronite Catholic Church,2,mixed,mixed,,51,1,5,46,2022
+745,11,diaspora,beirut_2,spain,1,"Centro Civic Joan Oliver ""Pere Puart""",1,mixed,mixed,,45,1,1,44,2022
+746,12,lebanon,beirut_2,bachoura,52,متوسطة بيروت العالية للبنات - شارع داود عمون,7,male,shia,,303,3,4,299,2022
+747,12,lebanon,beirut_2,bachoura,55,متوسطة بيروت العالية للبنات - شارع داود عمون,10,male,shia,,267,1,3,264,2022
+748,12,lebanon,beirut_2,bachoura,64,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,3,male,shia,,333,1,9,324,2022
+749,12,lebanon,beirut_2,bachoura,71,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,10,mixed,mixed,,77,2,2,75,2022
+750,12,lebanon,beirut_2,bachoura,87,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,7,female,shia,,252,2,1,251,2022
+751,12,lebanon,beirut_2,almarfaa,98,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,4,female,shia,,340,0,7,333,2022
+752,12,lebanon,beirut_2,almarfaa,101,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,7,male,sunni,,227,2,8,219,2022
+753,12,lebanon,beirut_2,almarfaa,105,مدرسة جبران غسان التويني الثانية المعروفة باسم المدرسة االسبانية,11,male,sunni,,239,5,20,219,2022
+754,12,lebanon,beirut_2,almazraa,123,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,11,male,sunni,,296,2,30,266,2022
+755,12,lebanon,beirut_2,almazraa,135,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,7,male,sunni,,279,2,18,261,2022
+756,12,lebanon,beirut_2,almazraa,139,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,11,male,sunni,,262,1,4,258,2022
+757,12,lebanon,beirut_2,almazraa,147,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,3,male,sunni,,275,1,7,268,2022
+758,12,lebanon,beirut_2,almazraa,153,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,9,male,sunni,,232,0,6,226,2022
+759,12,lebanon,beirut_2,almazraa,156,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,12,male,sunni,,234,4,4,230,2022
+760,12,lebanon,beirut_2,almazraa,167,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات,7,male,sunni,,285,3,16,269,2022
+761,12,lebanon,beirut_2,almazraa,197,ثانوية خالد بن الوليد المقاصد,11,female,sunni,,232,1,10,222,2022
+762,12,lebanon,beirut_2,almazraa,207,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,5,female,sunni,,306,4,24,282,2022
+763,12,lebanon,beirut_2,almazraa,209,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,7,female,sunni,,278,4,13,265,2022
+764,12,lebanon,beirut_2,almazraa,211,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,9,female,sunni,,308,4,24,284,2022
+765,12,lebanon,beirut_2,almazraa,238,ابتدائيه عمر بن الخطاب شارع الطريق الجديدة (الملعب البلدي),1,female,sunni,,278,3,14,264,2022
+766,12,lebanon,beirut_2,almazraa,252,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,5,female,greek_orthodox,,118,0,1,117,2022
+767,12,lebanon,beirut_2,almazraa,258,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,11,female,shia,,245,3,8,237,2022
+768,12,lebanon,beirut_2,almazraa,262,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,15,male,mixed,,118,0,0,118,2022
+769,12,lebanon,beirut_2,almsaytbeh,297,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,2,male,sunni,,281,2,11,270,2022
+770,12,lebanon,beirut_2,almsaytbeh,305,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد ألاسعد - مقابل المدينة الرياضية,10,female,sunni,,262,3,39,223,2022
+771,12,lebanon,beirut_2,almsaytbeh,310,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,2,female,sunni,,277,1,34,243,2022
+772,12,lebanon,beirut_2,almsaytbeh,322,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,14,female,sunni,,292,0,3,289,2022
+773,12,lebanon,beirut_2,almsaytbeh,341,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,1,male,shia,,276,4,12,264,2022
+774,12,lebanon,beirut_2,almsaytbeh,348,مدرسة رمل الظريف المختلطة الرسمية - شارع الزيدانية,8,male,shia,,283,7,9,274,2022
+775,12,lebanon,beirut_2,dar_almreisseh,393,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,4,male,sunni,,257,1,6,251,2022
+776,12,lebanon,beirut_2,dar_almreisseh,395,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,6,female,sunni,,247,2,16,231,2022
+777,12,lebanon,beirut_2,dar_almreisseh,396,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,7,female,sunni,,196,1,17,179,2022
+778,12,lebanon,beirut_2,dar_almreisseh,397,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,8,female,sunni,,269,2,21,248,2022
+779,12,lebanon,beirut_2,dar_almreisseh,399,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,10,female,sunni,,244,3,10,234,2022
+780,12,lebanon,beirut_2,ras_beirut,437,ثانوية فردان مقابل سيار الدرك,11,female,sunni,,343,7,3,340,2022
+781,12,lebanon,beirut_2,ras_beirut,450,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,2,female,maronite,,110,0,4,106,2022
+782,12,lebanon,beirut_2,ras_beirut,452,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,4,male,greek_orthodox,,51,0,1,50,2022
+783,12,lebanon,beirut_2,ras_beirut,465,ثانوية رأس بيروت - منطقة الحمراء - شارع الصيداني,8,mixed,mixed,,90,0,4,86,2022
+784,12,lebanon,beirut_2,zuqaq_alblat,480,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,3,male,sunni,,272,1,12,260,2022
+785,12,lebanon,beirut_2,zuqaq_alblat,483,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,6,male,sunni,,264,1,6,258,2022
+786,12,lebanon,beirut_2,zuqaq_alblat,489,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,12,male,sunni,,165,1,1,164,2022
+787,12,lebanon,beirut_2,zuqaq_alblat,506,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,1,female,sunni,,259,1,17,242,2022
+788,12,lebanon,beirut_2,zuqaq_alblat,509,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,4,female,sunni,,113,1,11,102,2022
+789,12,lebanon,beirut_2,zuqaq_alblat,530,مدرسة زقاق البالط الرسمية المختلطة قرب المخفر,1,male,shia,,311,5,8,303,2022
+790,12,lebanon,beirut_2,zuqaq_alblat,554,مدرسة الامداد - شارع يوسف الاسير,5,male,shia,,311,3,6,305,2022
+791,12,lebanon,beirut_2,mina_alhosn,570,المدرسة الارمنية الانجيلية العالية شارع المكسيك,3,female,greek_orthodox,,138,0,3,135,2022
+792,12,diaspora,beirut_2,australia,6,الرابطة الدرزية االسترالية,2,mixed,mixed,,5,0,0,5,2022
+793,12,diaspora,beirut_2,france,3,دار البلدية - Antony,2,mixed,mixed,,123,1,2,121,2022
+794,12,diaspora,beirut_2,france,57,دار البلدية - Versailles,1,mixed,mixed,,50,0,3,47,2022
+795,12,diaspora,beirut_2,france,72,دار البلدية - Nice,1,mixed,mixed,,119,1,5,114,2022
+796,12,diaspora,beirut_2,denmark,1,Conference Hall,1,mixed,mixed,,106,2,2,104,2022
+797,12,diaspora,beirut_2,denmark,2,Holstebro,2,mixed,mixed,,76,2,0,76,2022
+798,12,diaspora,beirut_2,congo,1,القنصلية الفخرية في بوانت نوار,1,mixed,mixed,,11,0,0,11,2022
+799,12,diaspora,beirut_2,saudi_arabia,2,السفارة اللبنانية في الرياض,2,mixed,mixed,,164,1,6,158,2022
+800,12,diaspora,beirut_2,saudi_arabia,5,السفارة اللبنانية في الرياض,5,mixed,mixed,,178,0,2,176,2022
+801,12,diaspora,beirut_2,united_states,25,Consulate General of Lebanon - Detroit,1,mixed,mixed,,37,0,0,37,2022
+802,12,diaspora,beirut_2,united_states,38,Honorary Consulate of Lebanon in San Francisco,1,mixed,mixed,,110,0,0,110,2022
+803,12,diaspora,beirut_2,united_states,60,St. Sharbel Maronite Catholic Church,1,mixed,mixed,,55,1,2,53,2022
+804,12,diaspora,beirut_2,germany,37,Mercure Hotel Hamburg,1,mixed,mixed,,120,0,2,118,2022
+805,12,diaspora,beirut_2,ghana,2,السفارة اللبنانية في أكرا,2,mixed,mixed,,30,1,1,29,2022
+806,12,diaspora,beirut_2,egypt,1,السفارة اللبنانية في القاهرة,1,mixed,mixed,,75,0,4,71,2022
+807,12,diaspora,beirut_2,nigeria,6,القنصلية اللبنانية العامة في لاغوس,2,mixed,mixed,,42,0,3,39,2022
+808,12,diaspora,beirut_2,hungary,1,السفارة اللبنانية في بودابست,1,mixed,mixed,,10,0,0,10,2022
+809,12,diaspora,beirut_2,united_arab_emirates,3,السفارة اللبنانية في أبو ظبي,3,mixed,mixed,,109,0,4,105,2022
+810,12,diaspora,beirut_2,sweden,4,Colosseum,1,mixed,mixed,,182,1,1,181,2022
+811,12,diaspora,beirut_2,sweden,10,Start Intro,10,mixed,mixed,,87,1,1,86,2022
+812,1,lebanon,beirut_2,bachoura,487,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,4,male,sunni,617,340,5,10,330,2018
+813,1,lebanon,beirut_2,bachoura,491,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,8,male,sunni,616,315,1,8,307,2018
+814,1,lebanon,beirut_2,bachoura,525,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),10,mixed,armenian_orthodox,573,41,1,1,40,2018
+815,1,lebanon,beirut_2,bachoura,507,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,8,female,sunni,625,318,4,5,313,2018
+816,1,lebanon,beirut_2,bachoura,563,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,1,female,shia,648,295,0,1,294,2018
+817,1,lebanon,beirut_2,bachoura,566,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,4,female,shia,612,246,0,9,237,2018
+818,1,lebanon,beirut_2,bachoura,537,متوسطة بيروت العالية للبنات - شارع داود عمون,10,male,shia,636,277,0,1,276,2018
+819,1,lebanon,beirut_2,almarfaa,483,محطة شارل حلو بلوك B,4,mixed,mixed,85,85,0,1,84,2018
+820,1,lebanon,beirut_2,almazraa,314,العاملية للبنات - شارع المحمصاني,1,female,sunni,625,277,3,18,259,2018
+821,1,lebanon,beirut_2,almazraa,316,العاملية للبنات - شارع المحمصاني,3,female,sunni,607,331,6,6,325,2018
+822,1,lebanon,beirut_2,almazraa,270,ثانوية خالد بن الوليد المقاصد - الحرج,8,female,sunni,616,298,0,13,285,2018
+823,1,lebanon,beirut_2,almazraa,230,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,10,male,sunni,613,265,1,0,265,2018
+824,1,lebanon,beirut_2,almazraa,228,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,8,male,sunni,617,263,3,4,259,2018
+825,1,lebanon,beirut_2,almazraa,229,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,9,male,sunni,604,249,5,3,246,2018
+826,1,lebanon,beirut_2,almazraa,193,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,5,male,sunni,602,374,5,10,364,2018
+827,1,lebanon,beirut_2,almazraa,214,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,10,male,sunni,596,290,2,9,281,2018
+828,1,lebanon,beirut_2,almazraa,302,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),1,female,sunni,618,284,3,26,258,2018
+829,1,lebanon,beirut_2,almazraa,279,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,1,female,sunni,635,318,2,9,309,2018
+830,1,lebanon,beirut_2,almazraa,250,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,2,male,sunni,634,364,0,25,339,2018
+831,1,lebanon,beirut_2,almsaytbeh,436,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,7,male,druze,588,280,1,6,274,2018
+832,1,lebanon,beirut_2,almsaytbeh,379,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,8,female,sunni,615,299,2,3,296,2018
+833,1,lebanon,beirut_2,almsaytbeh,341,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,1,male,sunni,631,294,1,9,285,2018
+834,1,lebanon,beirut_2,almsaytbeh,347,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,7,male,sunni,648,289,3,4,285,2018
+835,1,lebanon,beirut_2,almsaytbeh,349,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,9,male,sunni,595,280,2,7,273,2018
+836,1,lebanon,beirut_2,almsaytbeh,390,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,6,female,sunni,620,287,4,1,286,2018
+837,1,lebanon,beirut_2,almsaytbeh,391,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,7,female,sunni,610,235,5,7,228,2018
+838,1,lebanon,beirut_2,almsaytbeh,392,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,8,female,sunni,620,304,2,2,302,2018
+839,1,lebanon,beirut_2,almsaytbeh,413,مدرسة الارشاد للبنات - برج ابي حيدر,13,female,sunni,628,301,0,30,271,2018
+840,1,lebanon,beirut_2,almsaytbeh,404,مدرسة الارشاد للبنات - برج ابي حيدر,4,female,sunni,593,253,2,6,247,2018
+841,1,lebanon,beirut_2,almsaytbeh,406,مدرسة الارشاد للبنات - برج ابي حيدر,6,female,sunni,637,255,6,13,242,2018
+842,1,lebanon,beirut_2,almsaytbeh,407,مدرسة الارشاد للبنات - برج ابي حيدر,7,female,sunni,615,191,1,6,185,2018
+843,1,lebanon,beirut_2,almsaytbeh,426,مدرسة رمل الظريف المختلطة الرسمية,10,female,shia,622,298,1,3,295,2018
+844,1,lebanon,beirut_2,almsaytbeh,366,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,10,male,sunni,611,285,0,6,279,2018
+845,1,lebanon,beirut_2,almsaytbeh,447,مدرسة مار الياس بطينا,6,female,greek_orthodox,564,195,2,5,190,2018
+846,1,lebanon,beirut_2,almsaytbeh,454,مدرسة وطى المصيطبة الرسمية المختلطة,1,male,syriac_catholic,615,89,0,1,88,2018
+847,1,lebanon,beirut_2,dar_almreisseh,68,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,8,female,sunni,625,315,1,3,312,2018
+848,1,lebanon,beirut_2,ras_beirut,19,ثانوية فردان مقابل سيار الدرك,3,female,sunni,646,301,5,4,297,2018
+849,1,lebanon,beirut_2,ras_beirut,22,ثانوية فردان مقابل سيار الدرك,6,female,sunni,644,303,0,16,287,2018
+850,1,lebanon,beirut_2,ras_beirut,1,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,1,male,sunni,632,297,3,9,288,2018
+851,1,lebanon,beirut_2,ras_beirut,9,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,9,male,sunni,654,335,1,14,321,2018
+852,1,lebanon,beirut_2,ras_beirut,45,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,7,female,greek_orthodox,517,141,3,5,136,2018
+853,1,lebanon,beirut_2,ras_beirut,47,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,9,female,greek_orthodox,528,64,0,1,63,2018
+854,1,lebanon,beirut_2,zuqaq_alblat,160,المدرسة المعنية,8,mixed,mixed,499,79,1,5,74,2018
+855,1,lebanon,beirut_2,zuqaq_alblat,145,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,9,female,sunni,647,132,1,2,130,2018
+856,1,lebanon,beirut_2,zuqaq_alblat,174,متوسطة البنات الثانية - شارع سليم سلام,5,female,shia,633,313,0,0,313,2018
+857,1,lebanon,beirut_2,zuqaq_alblat,176,متوسطة البنات الثانية - شارع سليم سلام,7,female,shia,607,292,2,6,286,2018
+858,1,lebanon,beirut_2,zuqaq_alblat,185,مدرسة الامداد - شارع يوسف الاسير,5,male,shia,639,315,0,1,314,2018
+859,1,lebanon,beirut_2,zuqaq_alblat,121,مدرسة البطريركية – شارع البطريركية,1,male,sunni,649,122,0,6,116,2018
+860,1,lebanon,beirut_2,zuqaq_alblat,102,مدرسة مار يوسف الضهور الابتدائية,1,female,shia,663,288,2,12,276,2018
+861,1,lebanon,beirut_2,zuqaq_alblat,103,مدرسة مار يوسف الضهور الابتدائية,2,female,shia,622,291,1,6,285,2018
+862,1,lebanon,beirut_2,mina_alhosn,92,المدرسة الارمنية الانجيلية العالية شارع المكسيك,1,male,israelite,966,1,0,0,1,2018
+863,1,diaspora,beirut_2,greece,1,أثينا - مبنى السفارة,1,mixed,mixed,41,23,0,0,23,2018
+864,1,diaspora,beirut_2,france,28,Mairie de Tours,2,mixed,mixed,16,3,0,0,3,2018
+865,1,diaspora,beirut_2,france,27,Mairie de Toulouse,27,mixed,mixed,9,7,0,0,7,2018
+866,1,diaspora,beirut_2,canada,14,Evergreen Cultural Center,14,mixed,mixed,42,28,0,0,28,2018
+867,1,diaspora,beirut_2,france,10,Mairie de Lille,10,mixed,mixed,12,6,0,0,6,2018
+868,1,diaspora,beirut_2,france,11,Mairie de Lyon,11,mixed,mixed,43,21,1,2,19,2018
+869,1,diaspora,beirut_2,france,24,Mairie de Neuilly-sur-Seine,24,mixed,mixed,392,218,3,17,201,2018
+870,1,diaspora,beirut_2,france,25,Mairie de Nice,25,mixed,mixed,407,31,0,1,30,2018
+871,1,diaspora,beirut_2,canada,13,هاليفاكس - مبنى القنصلية الفخرية,13,mixed,mixed,6,4,0,0,4,2018
+872,1,diaspora,beirut_2,canada,11,St. Charbel Antonin Maronite Catholic Church,11,mixed,mixed,14,4,0,0,4,2018
+873,2,lebanon,beirut_2,bachoura,484,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,1,male,sunni,626,317,2,19,298,2018
+874,2,lebanon,beirut_2,bachoura,488,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,5,male,sunni,630,303,1,7,296,2018
+875,2,lebanon,beirut_2,bachoura,489,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,6,male,sunni,617,274,1,4,270,2018
+876,2,lebanon,beirut_2,bachoura,492,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,9,male,sunni,611,312,2,3,309,2018
+877,2,lebanon,beirut_2,bachoura,512,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,13,female,sunni,605,272,1,19,253,2018
+878,2,lebanon,beirut_2,bachoura,513,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,14,female,sunni,612,266,0,6,260,2018
+879,2,lebanon,beirut_2,bachoura,570,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,8,female,shia,634,277,4,6,271,2018
+880,2,lebanon,beirut_2,bachoura,539,متوسطة بيروت العالية للبنات - شارع داود عمون,12,male,shia,624,266,2,9,257,2018
+881,2,lebanon,beirut_2,bachoura,529,متوسطة بيروت العالية للبنات - شارع داود عمون,2,male,shia,638,299,1,5,294,2018
+882,2,lebanon,beirut_2,bachoura,535,متوسطة بيروت العالية للبنات - شارع داود عمون,8,male,shia,628,248,1,12,236,2018
+883,2,lebanon,beirut_2,bachoura,546,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,3,male,shia,574,320,3,1,319,2018
+884,2,lebanon,beirut_2,bachoura,554,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,1,female,shia,627,304,0,1,303,2018
+885,2,lebanon,beirut_2,bachoura,557,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,4,female,shia,619,248,0,6,242,2018
+886,2,lebanon,beirut_2,bachoura,561,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,8,female,shia,613,291,0,3,288,2018
+887,2,lebanon,beirut_2,bachoura,562,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,9,female,shia,628,289,2,6,283,2018
+888,2,lebanon,beirut_2,almarfaa,466,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,1,male,shia,579,238,0,5,233,2018
+889,2,lebanon,beirut_2,almarfaa,471,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,6,female,mixed,569,40,1,1,39,2018
+890,2,lebanon,beirut_2,almarfaa,481,محطة شارل حلو بلوك B,2,female,sunni,599,244,2,14,230,2018
+891,2,lebanon,beirut_2,almarfaa,482,محطة شارل حلو بلوك B,3,mixed,sunni,612,201,5,15,186,2018
+892,2,lebanon,beirut_2,almazraa,338,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,9,male,mixed,553,87,1,2,85,2018
+893,2,lebanon,beirut_2,almazraa,317,العاملية للبنات - شارع المحمصاني,4,female,sunni,648,341,5,17,324,2018
+894,2,lebanon,beirut_2,almazraa,319,العاملية للبنات - شارع المحمصاني,6,female,sunni,640,318,4,9,309,2018
+895,2,lebanon,beirut_2,almazraa,234,المقاصد الاسالمية للبنين - آخر خط الحرج,1,male,sunni,605,271,2,6,265,2018
+896,2,lebanon,beirut_2,almazraa,293,المقاصد الاسالمية للبنين - آخر خط الحرج,4,female,sunni,629,309,2,14,295,2018
+897,2,lebanon,beirut_2,almazraa,277,ثانوية خالد بن الوليد المقاصد - الحرج,15,female,sunni,603,281,2,7,274,2018
+898,2,lebanon,beirut_2,almazraa,232,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,12,male,sunni,600,262,2,5,257,2018
+899,2,lebanon,beirut_2,almazraa,233,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,13,male,sunni,622,322,0,8,314,2018
+900,2,lebanon,beirut_2,almazraa,224,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,4,male,sunni,615,316,0,5,311,2018
+901,2,lebanon,beirut_2,almazraa,225,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,5,male,sunni,622,320,3,10,310,2018
+902,2,lebanon,beirut_2,almazraa,215,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,11,male,sunni,616,269,2,4,265,2018
+903,2,lebanon,beirut_2,almazraa,217,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,13,male,sunni,605,275,1,4,271,2018
+904,2,lebanon,beirut_2,almazraa,218,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,14,male,sunni,629,311,1,5,306,2018
+905,2,lebanon,beirut_2,almazraa,209,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,5,male,sunni,607,302,3,4,298,2018
+906,2,lebanon,beirut_2,almazraa,241,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,5,male,sunni,604,249,1,4,245,2018
+907,2,lebanon,beirut_2,almazraa,243,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,7,male,sunni,628,317,4,4,313,2018
+908,2,lebanon,beirut_2,almazraa,244,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,8,male,sunni,624,324,3,9,315,2018
+909,2,lebanon,beirut_2,almazraa,308,مدرسة النهضة الوطنية - شارع المزرعة,1,female,sunni,628,250,0,14,236,2018
+910,2,lebanon,beirut_2,almazraa,312,مدرسة النهضة الوطنية - شارع المزرعة,5,female,sunni,620,283,2,5,278,2018
+911,2,lebanon,beirut_2,almazraa,313,مدرسة النهضة الوطنية - شارع المزرعة,6,female,sunni,622,303,3,24,279,2018
+912,2,lebanon,beirut_2,almazraa,288,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,10,female,sunni,625,292,1,5,287,2018
+913,2,lebanon,beirut_2,almazraa,289,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,11,female,sunni,605,261,0,1,260,2018
+914,2,lebanon,beirut_2,almazraa,291,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,13,female,sunni,625,289,4,13,276,2018
+915,2,lebanon,beirut_2,almazraa,281,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,3,female,sunni,623,310,0,6,304,2018
+916,2,lebanon,beirut_2,almazraa,283,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,5,female,sunni,631,318,2,8,310,2018
+917,2,lebanon,beirut_2,almazraa,286,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,8,female,sunni,616,329,2,7,322,2018
+918,2,lebanon,beirut_2,almsaytbeh,383,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,12,female,sunni,624,282,2,11,271,2018
+919,2,lebanon,beirut_2,almsaytbeh,384,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,13,female,sunni,605,251,0,12,239,2018
+920,2,lebanon,beirut_2,almsaytbeh,378,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,7,female,sunni,614,287,1,11,276,2018
+921,2,lebanon,beirut_2,almsaytbeh,353,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,13,male,sunni,627,280,3,22,258,2018
+922,2,lebanon,beirut_2,almsaytbeh,344,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,4,male,sunni,630,303,4,2,301,2018
+923,2,lebanon,beirut_2,almsaytbeh,395,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,11,female,sunni,635,302,1,7,295,2018
+924,2,lebanon,beirut_2,almsaytbeh,398,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,14,female,sunni,616,288,1,5,283,2018
+925,2,lebanon,beirut_2,almsaytbeh,410,مدرسة الارشاد للبنات - برج ابي حيدر,10,female,sunni,642,328,8,9,319,2018
+926,2,lebanon,beirut_2,almsaytbeh,415,مدرسة الارشاد للبنات - برج ابي حيدر,15,female,sunni,645,269,4,9,260,2018
+927,2,lebanon,beirut_2,almsaytbeh,417,مدرسة رمل الظريف المختلطة الرسمية,1,male,shia,624,286,5,7,279,2018
+928,2,lebanon,beirut_2,almsaytbeh,427,مدرسة رمل الظريف المختلطة الرسمية,11,female,shia,642,287,3,3,284,2018
+929,2,lebanon,beirut_2,almsaytbeh,418,مدرسة رمل الظريف المختلطة الرسمية,2,male,shia,645,251,1,11,240,2018
+930,2,lebanon,beirut_2,almsaytbeh,419,مدرسة رمل الظريف المختلطة الرسمية,3,male,shia,592,260,4,5,255,2018
+931,2,lebanon,beirut_2,almsaytbeh,421,مدرسة رمل الظريف المختلطة الرسمية,5,male,shia,625,279,2,4,275,2018
+932,2,lebanon,beirut_2,almsaytbeh,371,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,15,male,sunni,634,320,7,16,304,2018
+933,2,lebanon,beirut_2,almsaytbeh,364,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,8,male,sunni,620,273,2,0,273,2018
+934,2,lebanon,beirut_2,almsaytbeh,451,مدرسة مار الياس بطينا,10,female,greek_orthodox,594,100,2,1,99,2018
+935,2,lebanon,beirut_2,almsaytbeh,448,مدرسة مار الياس بطينا,7,female,greek_orthodox,567,181,0,4,177,2018
+936,2,lebanon,beirut_2,almsaytbeh,455,مدرسة وطى المصيطبة الرسمية المختلطة,2,male,mixed,569,67,1,3,64,2018
+937,2,lebanon,beirut_2,dar_almreisseh,70,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,10,female,sunni,598,239,1,22,217,2018
+938,2,lebanon,beirut_2,dar_almreisseh,73,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,13,female,druze,474,185,8,2,183,2018
+939,2,lebanon,beirut_2,dar_almreisseh,74,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,14,mixed,druze,495,215,1,15,200,2018
+940,2,lebanon,beirut_2,ras_beirut,49,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,2,mixed,mixed,421,74,1,3,71,2018
+941,2,lebanon,beirut_2,ras_beirut,26,ثانوية فردان مقابل سيار الدرك,10,female,sunni,659,340,4,3,337,2018
+942,2,lebanon,beirut_2,ras_beirut,23,ثانوية فردان مقابل سيار الدرك,7,female,sunni,634,289,4,13,276,2018
+943,2,lebanon,beirut_2,ras_beirut,11,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,11,male,sunni,647,306,32,3,303,2018
+944,2,lebanon,beirut_2,ras_beirut,7,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,7,male,sunni,657,342,2,3,339,2018
+945,2,lebanon,beirut_2,ras_beirut,41,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,3,male,greek_orthodox,523,125,3,0,125,2018
+946,2,lebanon,beirut_2,ras_beirut,43,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,5,male,greek_orthodox,552,64,0,0,64,2018
+947,2,lebanon,beirut_2,ras_beirut,44,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,6,male,greek_orthodox,422,74,1,1,73,2018
+948,2,lebanon,beirut_2,zuqaq_alblat,116,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,8,male,sunni,629,240,2,5,235,2018
+949,2,lebanon,beirut_2,zuqaq_alblat,147,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,11,female,sunni,635,137,2,2,135,2018
+950,2,lebanon,beirut_2,zuqaq_alblat,138,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,2,female,sunni,627,233,3,15,218,2018
+951,2,lebanon,beirut_2,zuqaq_alblat,143,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,7,female,sunni,661,151,0,3,148,2018
+952,2,lebanon,beirut_2,zuqaq_alblat,171,متوسطة البنات الثانية - شارع سليم سلام,2,female,shia,661,290,4,6,284,2018
+953,2,lebanon,beirut_2,zuqaq_alblat,130,مدرسة البطريركية – شارع البطريركية,10,female,sunni,615,248,3,16,232,2018
+954,2,lebanon,beirut_2,zuqaq_alblat,132,مدرسة البطريركية – شارع البطريركية,12,female,sunni,584,252,1,6,246,2018
+955,2,lebanon,beirut_2,zuqaq_alblat,136,مدرسة البطريركية – شارع البطريركية,16,female,sunni,605,280,0,10,270,2018
+956,2,lebanon,beirut_2,zuqaq_alblat,125,مدرسة البطريركية – شارع البطريركية,5,male,sunni,640,231,4,15,216,2018
+957,2,lebanon,beirut_2,zuqaq_alblat,162,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,2,male,shia,641,278,1,10,268,2018
+958,2,lebanon,beirut_2,zuqaq_alblat,166,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,6,male,shia,627,292,1,2,290,2018
+959,2,lebanon,beirut_2,zuqaq_alblat,106,مدرسة مار يوسف الضهور الابتدائية,5,female,shia,649,324,3,8,316,2018
+960,2,lebanon,beirut_2,zuqaq_alblat,107,مدرسة مار يوسف الضهور الابتدائية,6,female,shia,627,298,2,12,286,2018
+961,2,lebanon,beirut_2,mina_alhosn,93,المدرسة الارمنية الانجيلية العالية شارع المكسيك,2,female,israelite,979,0,0,0,0,2018
+962,2,lebanon,beirut_2,mina_alhosn,94,المدرسة الارمنية الانجيلية العالية شارع المكسيك,3,female,israelite,1035,4,0,0,4,2018
+963,2,lebanon,beirut_2,mina_alhosn,97,المدرسة الارمنية الانجيلية العالية شارع المكسيك,6,mixed,mixed,548,65,0,0,65,2018
+964,2,lebanon,beirut_2,mina_alhosn,98,المدرسة الارمنية الانجيلية العالية شارع المكسيك,7,mixed,mixed,569,96,0,0,96,2018
+965,2,lebanon,beirut_2,mina_alhosn,99,المدرسة الارمنية الانجيلية العالية شارع المكسيك,8,mixed,shia,615,267,4,3,264,2018
+966,2,lebanon,beirut_2,mina_alhosn,100,المدرسة الارمنية الانجيلية العالية شارع المكسيك,9,female,mixed,611,219,0,5,214,2018
+967,2,lebanon,beirut_2,mina_alhosn,89,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,5,mixed,mixed,603,199,3,0,199,2018
+968,2,lebanon,beirut_2,mina_alhosn,91,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,7,male,israelite,1004,0,0,0,0,2018
+969,2,lebanon,beirut_2,mina_alhosn,84,مدرسة الحكمة - القنطاري,9,mixed,mixed,556,135,1,0,135,2018
+970,2,diaspora,beirut_2,canada,10,Canadian Druze Center,10,mixed,mixed,5,3,0,0,3,2018
+971,2,diaspora,beirut_2,germany,15,بريمن - Swissotel,15,mixed,mixed,131,81,0,0,81,2018
+972,2,diaspora,beirut_2,united_states,3,Stirling Community Centres,3,mixed,mixed,16,7,0,0,7,2018
+973,2,diaspora,beirut_2,senegal,1,Fann Residence,1,mixed,mixed,16,13,0,0,13,2018
+974,2,diaspora,beirut_2,germany,11,Maritim Hotel - دوسلدورف,11,mixed,mixed,382,282,0,7,275,2018
+975,2,diaspora,beirut_2,sweden,5,Folketshus Hotel,5,mixed,mixed,94,72,0,0,72,2018
+976,2,diaspora,beirut_2,germany,9,فرانكفورت - مبنى القنصلية الفخرية,9,mixed,mixed,74,56,0,0,56,2018
+977,2,diaspora,beirut_2,benin,1,كوتونو - مبنى القنصلية الفخرية,1,mixed,mixed,12,8,0,1,7,2018
+978,2,diaspora,beirut_2,guinea,1,كوناكري - مبنى السفارة,1,mixed,mixed,17,11,0,0,11,2018
+979,2,diaspora,beirut_2,democratic_republic_congo,1,كينشاسا - مبنى السفارة,1,mixed,mixed,22,13,0,0,13,2018
+980,2,diaspora,beirut_2,nigeria,3,لاغوس - مبنى القنصلية العامة,3,mixed,mixed,20,13,0,0,13,2018
+981,2,diaspora,beirut_2,holland,1,لاهاي - مبنى السفارة,1,mixed,mixed,17,7,0,0,7,2018
+982,2,diaspora,beirut_2,united_states,18,Omni Los Angeles Hotel,18,mixed,mixed,108,33,1,1,32,2018
+983,2,diaspora,beirut_2,sweden,3,Radisson Blu Hotel - مالمو,3,mixed,mixed,204,143,1,0,143,2018
+984,2,diaspora,beirut_2,spain,1,مدريد - مبنى السفارة,1,mixed,mixed,37,13,0,0,13,2018
+985,2,diaspora,beirut_2,australia,4,ملبورن - مبنى القنصلية العامة,4,mixed,mixed,47,23,0,1,22,2018
+986,2,diaspora,beirut_2,liberia,1,منروفيا - مبنى السفارة,1,mixed,mixed,3,2,0,0,2,2018
+987,2,diaspora,beirut_2,canada,16,Le 4e Bataillon du Royal 22e Regiment,16,mixed,mixed,426,251,3,5,246,2018
+988,2,diaspora,beirut_2,italy,2,ميالنو - مبنى القنصلية العامة,2,mixed,mixed,43,21,1,0,21,2018
+989,2,diaspora,beirut_2,germany,18,Intercity Hotel - هانوفر,17,mixed,mixed,144,110,0,0,110,2018
+990,3,lebanon,beirut_2,bachoura,499,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,16,male,sunni,614,258,0,15,243,2018
+991,3,lebanon,beirut_2,bachoura,511,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,12,female,sunni,633,300,0,11,289,2018
+992,3,lebanon,beirut_2,bachoura,515,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,16,female,sunni,263,258,3,10,248,2018
+993,3,lebanon,beirut_2,bachoura,565,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,3,female,shia,643,297,0,8,289,2018
+994,3,lebanon,beirut_2,bachoura,541,متوسطة بيروت العالية للبنات - شارع داود عمون,14,male,shia,640,333,2,4,329,2018
+995,3,lebanon,beirut_2,bachoura,543,متوسطة بيروت العالية للبنات - شارع داود عمون,16,male,shia,643,249,1,20,229,2018
+996,3,lebanon,beirut_2,bachoura,553,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,10,mixed,mixed,605,70,1,0,70,2018
+997,3,lebanon,beirut_2,bachoura,551,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,8,male,mixed,577,84,0,2,82,2018
+998,3,lebanon,beirut_2,almarfaa,473,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,8,male,sunni,601,169,1,3,166,2018
+999,3,lebanon,beirut_2,almarfaa,480,محطة شارل حلو بلوك B,1,female,sunni,606,167,1,0,167,2018
+1000,3,lebanon,beirut_2,almazraa,330,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,1,male,shia,564,224,1,4,220,2018
+1001,3,lebanon,beirut_2,almazraa,336,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,7,female,shia,606,257,1,1,256,2018
+1002,3,lebanon,beirut_2,almazraa,323,العاملية للبنات - شارع المحمصاني,10,male,greek_orthodox,559,187,1,2,185,2018
+1003,3,lebanon,beirut_2,almazraa,318,العاملية للبنات - شارع المحمصاني,5,female,sunni,640,344,0,19,325,2018
+1004,3,lebanon,beirut_2,almazraa,236,المقاصد الاسالمية للبنين - آخر خط الحرج,3,male,sunni,616,269,2,12,257,2018
+1005,3,lebanon,beirut_2,almazraa,297,المقاصد الاسالمية للبنين - آخر خط الحرج,8,female,sunni,650,262,4,13,249,2018
+1006,3,lebanon,beirut_2,almazraa,263,ثانوية خالد بن الوليد المقاصد - الحرج,1,female,sunni,633,343,0,11,332,2018
+1007,3,lebanon,beirut_2,almazraa,278,ثانوية خالد بن الوليد المقاصد - الحرج,16,female,sunni,592,247,1,10,237,2018
+1008,3,lebanon,beirut_2,almazraa,226,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,6,male,sunni,599,295,4,1,294,2018
+1009,3,lebanon,beirut_2,almazraa,246,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,10,male,sunni,629,361,8,24,337,2018
+1010,3,lebanon,beirut_2,almazraa,239,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,3,male,sunni,624,267,1,14,253,2018
+1011,3,lebanon,beirut_2,almazraa,284,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,6,female,sunni,613,278,0,2,276,2018
+1012,3,lebanon,beirut_2,almazraa,287,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,9,female,sunni,641,295,1,23,272,2018
+1013,3,lebanon,beirut_2,almsaytbeh,381,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,10,female,sunni,604,288,1,7,281,2018
+1014,3,lebanon,beirut_2,almsaytbeh,382,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,11,female,sunni,622,267,0,0,267,2018
+1015,3,lebanon,beirut_2,almsaytbeh,351,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,11,male,sunni,628,315,5,6,309,2018
+1016,3,lebanon,beirut_2,almsaytbeh,343,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,3,male,sunni,609,302,4,8,294,2018
+1017,3,lebanon,beirut_2,almsaytbeh,400,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,16,female,sunni,616,318,5,12,306,2018
+1018,3,lebanon,beirut_2,almsaytbeh,414,مدرسة الارشاد للبنات - برج ابي حيدر,14,female,sunni,637,272,2,23,249,2018
+1019,3,lebanon,beirut_2,almsaytbeh,367,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,11,male,sunni,620,210,2,0,210,2018
+1020,3,lebanon,beirut_2,dar_almreisseh,72,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,12,male,druze,471,216,0,18,198,2018
+1021,3,lebanon,beirut_2,dar_almreisseh,69,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,9,female,sunni,606,251,3,11,240,2018
+1022,3,lebanon,beirut_2,dar_almreisseh,81,مدرسة الحكمة - القنطاري,6,mixed,mixed,535,52,2,0,52,2018
+1023,3,lebanon,beirut_2,ras_beirut,53,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,6,male,druze,507,225,0,7,218,2018
+1024,3,lebanon,beirut_2,ras_beirut,54,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,7,female,druze,589,231,2,9,222,2018
+1025,3,lebanon,beirut_2,ras_beirut,56,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,9,male,anglican,491,58,0,2,56,2018
+1026,3,lebanon,beirut_2,ras_beirut,28,ثانوية فردان مقابل سيار الدرك,12,female,sunni,655,346,4,5,341,2018
+1027,3,lebanon,beirut_2,ras_beirut,18,ثانوية فردان مقابل سيار الدرك,2,male,sunni,641,280,4,7,273,2018
+1028,3,lebanon,beirut_2,ras_beirut,20,ثانوية فردان مقابل سيار الدرك,4,female,sunni,646,351,1,14,337,2018
+1029,3,lebanon,beirut_2,ras_beirut,21,ثانوية فردان مقابل سيار الدرك,5,female,sunni,625,316,1,17,299,2018
+1030,3,lebanon,beirut_2,ras_beirut,40,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,2,female,maronite,518,71,0,3,68,2018
+1031,3,lebanon,beirut_2,zuqaq_alblat,146,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,10,female,sunni,625,136,0,5,131,2018
+1032,3,lebanon,beirut_2,zuqaq_alblat,151,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,15,female,sunni,657,186,0,13,173,2018
+1033,3,lebanon,beirut_2,zuqaq_alblat,182,مدرسة الامداد - شارع يوسف الاسير,2,male,shia,636,321,2,12,309,2018
+1034,3,lebanon,beirut_2,zuqaq_alblat,184,مدرسة الامداد - شارع يوسف الاسير,4,male,shia,643,335,0,1,334,2018
+1035,3,lebanon,beirut_2,zuqaq_alblat,134,مدرسة البطريركية – شارع البطريركية,14,female,sunni,602,239,3,7,232,2018
+1036,3,lebanon,beirut_2,zuqaq_alblat,129,مدرسة البطريركية – شارع البطريركية,9,male,sunni,623,176,11,17,159,2018
+1037,3,lebanon,beirut_2,zuqaq_alblat,164,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,4,male,shia,609,320,2,2,318,2018
+1038,3,lebanon,beirut_2,mina_alhosn,101,المدرسة الارمنية الانجيلية العالية شارع المكسيك,10,mixed,mixed,519,47,1,0,47,2018
+1039,3,lebanon,beirut_2,mina_alhosn,85,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,1,male,sunni,600,290,3,5,285,2018
+1040,3,lebanon,beirut_2,mina_alhosn,82,مدرسة الحكمة - القنطاري,7,male,maronite,562,128,3,0,128,2018
+1041,3,diaspora,beirut_2,germany,2,برلين - مبنى السفارة,1,mixed,mixed,366,260,0,3,257,2018
+1042,3,diaspora,beirut_2,australia,1,بريسباين - مبنى القنصلية الفخرية,1,mixed,mixed,6,2,0,0,2,2018
+1043,3,diaspora,beirut_2,germany,20,Mercure Hotel - ساربروكن,20,mixed,mixed,64,50,0,1,49,2018
+1044,3,diaspora,beirut_2,brazil,4,ساو باولو - مبنى القنصلية العامة,4,mixed,mixed,128,3,0,0,3,2018
+1045,3,diaspora,beirut_2,france,26,Mairie de Strasbourg,26,mixed,mixed,18,14,0,1,13,2018
+1046,3,diaspora,beirut_2,germany,21,Mercure Hotel - فرايبورغ,21,mixed,mixed,118,63,0,1,62,2018
+1047,3,diaspora,beirut_2,france,21,Mairie de Montpellier,21,mixed,mixed,15,12,0,0,12,2018
+1048,3,diaspora,beirut_2,france,22,Mairie de Nantes,22,mixed,mixed,16,6,0,0,6,2018
+1049,3,diaspora,beirut_2,germany,19,Besenbinderhof Saal - هامبورغ,19,mixed,mixed,85,74,0,1,73,2018
+1050,4,lebanon,beirut_2,bachoura,494,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,11,male,sunni,611,267,2,9,258,2018
+1051,4,lebanon,beirut_2,bachoura,496,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,13,male,sunni,631,246,0,3,243,2018
+1052,4,lebanon,beirut_2,bachoura,486,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,3,male,sunni,634,319,4,10,309,2018
+1053,4,lebanon,beirut_2,bachoura,509,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,10,female,sunni,604,290,0,5,285,2018
+1054,4,lebanon,beirut_2,bachoura,504,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,5,female,sunni,625,306,1,7,299,2018
+1055,4,lebanon,beirut_2,bachoura,574,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,12,female,shia,671,274,1,4,270,2018
+1056,4,lebanon,beirut_2,bachoura,575,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,13,female,shia,624,236,2,15,221,2018
+1057,4,lebanon,beirut_2,bachoura,532,متوسطة بيروت العالية للبنات - شارع داود عمون,5,male,shia,339,285,2,8,277,2018
+1058,4,lebanon,beirut_2,almarfaa,468,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,3,female,shia,584,251,0,19,232,2018
+1059,4,lebanon,beirut_2,almazraa,332,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,3,male,shia,609,276,7,6,270,2018
+1060,4,lebanon,beirut_2,almazraa,324,العاملية للبنات - شارع المحمصاني,11,male,greek_orthodox,563,109,0,0,109,2018
+1061,4,lebanon,beirut_2,almazraa,327,العاملية للبنات - شارع المحمصاني,14,female,greek_orthodox,600,175,3,3,172,2018
+1062,4,lebanon,beirut_2,almazraa,329,العاملية للبنات - شارع المحمصاني,16,female,mixed,579,118,0,0,118,2018
+1063,4,lebanon,beirut_2,almazraa,320,العاملية للبنات - شارع المحمصاني,7,female,sunni,655,357,3,7,350,2018
+1064,4,lebanon,beirut_2,almazraa,235,المقاصد الاسالمية للبنين - آخر خط الحرج,2,male,sunni,611,299,1,9,290,2018
+1065,4,lebanon,beirut_2,almazraa,271,ثانوية خالد بن الوليد المقاصد - الحرج,9,female,sunni,626,290,0,10,280,2018
+1066,4,lebanon,beirut_2,almazraa,221,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,1,male,sunni,613,275,1,0,275,2018
+1067,4,lebanon,beirut_2,almazraa,192,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,4,male,sunni,624,313,0,12,301,2018
+1068,4,lebanon,beirut_2,almazraa,208,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,4,male,sunni,623,274,3,33,241,2018
+1069,4,lebanon,beirut_2,almazraa,212,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,8,male,sunni,608,250,0,4,246,2018
+1070,4,lebanon,beirut_2,almazraa,247,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,11,male,sunni,618,357,6,9,348,2018
+1071,4,lebanon,beirut_2,almazraa,253,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,5,female,sunni,620,283,0,13,270,2018
+1072,4,lebanon,beirut_2,almsaytbeh,434,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,5,female,shia,625,278,0,2,276,2018
+1073,4,lebanon,beirut_2,almsaytbeh,372,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,1,male,sunni,640,368,9,31,337,2018
+1074,4,lebanon,beirut_2,almsaytbeh,354,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,14,male,sunni,619,298,0,6,292,2018
+1075,4,lebanon,beirut_2,almsaytbeh,412,مدرسة الارشاد للبنات - برج ابي حيدر,12,female,sunni,644,301,7,31,270,2018
+1076,4,lebanon,beirut_2,almsaytbeh,429,مدرسة رمل الظريف المختلطة الرسمية,13,female,shia,615,246,2,0,246,2018
+1077,4,lebanon,beirut_2,almsaytbeh,423,مدرسة رمل الظريف المختلطة الرسمية,7,male,shia,604,290,0,5,285,2018
+1078,4,lebanon,beirut_2,almsaytbeh,362,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,6,male,sunni,642,339,2,8,331,2018
+1079,4,lebanon,beirut_2,almsaytbeh,444,مدرسة مار الياس بطينا,3,male,greek_orthodox,582,197,6,4,193,2018
+1080,4,lebanon,beirut_2,almsaytbeh,445,مدرسة مار الياس بطينا,4,male,greek_orthodox,557,135,0,4,131,2018
+1081,4,lebanon,beirut_2,almsaytbeh,464,مدرسة وطى المصيطبة الرسمية المختلطة,11,mixed,mixed,569,144,0,15,129,2018
+1082,4,lebanon,beirut_2,almsaytbeh,465,مدرسة وطى المصيطبة الرسمية المختلطة,12,mixed,mixed,624,122,1,1,121,2018
+1083,4,lebanon,beirut_2,almsaytbeh,459,مدرسة وطى المصيطبة الرسمية المختلطة,6,male,syriac_orthodox,595,64,0,1,63,2018
+1084,4,lebanon,beirut_2,dar_almreisseh,63,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,3,male,sunni,641,271,2,0,271,2018
+1085,4,lebanon,beirut_2,dar_almreisseh,66,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,6,female,sunni,601,277,3,16,261,2018
+1086,4,lebanon,beirut_2,ras_beirut,50,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,3,female,greek_catholic,453,41,1,1,40,2018
+1087,4,lebanon,beirut_2,ras_beirut,51,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,4,male,shia,451,203,1,0,203,2018
+1088,4,lebanon,beirut_2,ras_beirut,52,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,5,female,shia,434,181,0,3,178,2018
+1089,4,lebanon,beirut_2,ras_beirut,14,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,14,male,sunni,637,342,1,7,335,2018
+1090,4,lebanon,beirut_2,zuqaq_alblat,159,المدرسة المعنية,7,female,armenian_orthodox,526,44,0,1,43,2018
+1091,4,lebanon,beirut_2,zuqaq_alblat,120,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,12,male,sunni,665,183,1,7,176,2018
+1092,4,lebanon,beirut_2,zuqaq_alblat,113,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,5,male,sunni,633,254,3,2,252,2018
+1093,4,lebanon,beirut_2,zuqaq_alblat,114,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,6,male,sunni,624,289,3,7,282,2018
+1094,4,lebanon,beirut_2,zuqaq_alblat,149,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,13,female,sunni,633,267,3,8,259,2018
+1095,4,lebanon,beirut_2,zuqaq_alblat,152,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,16,female,sunni,634,212,0,10,202,2018
+1096,4,lebanon,beirut_2,zuqaq_alblat,172,متوسطة البنات الثانية - شارع سليم سلام,3,female,shia,646,293,0,5,288,2018
+1097,4,diaspora,beirut_2,qatar,1,الدوحة - مبنى السفارة,1,mixed,mixed,161,115,1,1,114,2018
+1098,4,diaspora,beirut_2,brazil,1,برازيليا - مبنى السفارة,1,mixed,mixed,1,0,0,0,0,2018
+1099,4,diaspora,beirut_2,romania,1,بوخارست - مبنى السفارة,1,mixed,mixed,32,20,0,1,19,2018
+1100,4,diaspora,beirut_2,saudi_arabia,6,جدة - مبنى القنصلية العامة,6,mixed,mixed,255,162,1,1,161,2018
+1101,4,diaspora,beirut_2,united_states,26,Ford Community & Performing Arts Center,26,mixed,mixed,21,9,0,0,9,2018
+1102,4,diaspora,beirut_2,sweden,1,ستوكهولم - مبنى السفارة,1,mixed,mixed,112,59,1,0,59,2018
+1103,4,diaspora,beirut_2,united_states,30,Holiday Inn - كليفلاند,30,mixed,mixed,22,13,0,0,13,2018
+1104,4,diaspora,beirut_2,denmark,1,Clarion Hotel Copenhagen,1,mixed,mixed,104,72,0,2,70,2018
+1105,4,diaspora,beirut_2,gabon,1,ليبرفيل - مبنى السفارة,1,mixed,mixed,10,5,0,0,5,2018
+1106,4,diaspora,beirut_2,armenia,1,يريفان - مبنى السفارة,1,mixed,mixed,7,2,1,0,2,2018
+1107,5,lebanon,beirut_2,bachoura,516,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),1,male,sunni,628,319,2,7,312,2018
+1108,5,lebanon,beirut_2,bachoura,519,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),4,female,sunni,627,312,0,2,310,2018
+1109,5,lebanon,beirut_2,bachoura,500,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,1,female,sunni,607,295,1,9,286,2018
+1110,5,lebanon,beirut_2,bachoura,503,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,4,female,sunni,612,311,0,17,294,2018
+1111,5,lebanon,beirut_2,bachoura,508,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,9,female,sunni,625,315,4,7,308,2018
+1112,5,lebanon,beirut_2,bachoura,530,متوسطة بيروت العالية للبنات - شارع داود عمون,3,male,shia,628,264,2,1,263,2018
+1113,5,lebanon,beirut_2,almarfaa,470,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,5,male,mixed,517,45,1,2,43,2018
+1114,5,lebanon,beirut_2,almazraa,334,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,5,female,shia,632,242,1,4,238,2018
+1115,5,lebanon,beirut_2,almazraa,328,العاملية للبنات - شارع المحمصاني,15,female,greek_orthodox,589,107,2,4,103,2018
+1116,5,lebanon,beirut_2,almazraa,300,المقاصد الاسالمية للبنين - آخر خط الحرج,11,female,sunni,606,273,0,7,266,2018
+1117,5,lebanon,beirut_2,almazraa,275,ثانوية خالد بن الوليد المقاصد - الحرج,13,female,sunni,624,308,1,16,292,2018
+1118,5,lebanon,beirut_2,almazraa,227,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,7,male,sunni,605,323,2,7,316,2018
+1119,5,lebanon,beirut_2,almazraa,204,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,16,male,sunni,625,301,6,3,298,2018
+1120,5,lebanon,beirut_2,almazraa,207,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,3,male,sunni,606,288,3,2,286,2018
+1121,5,lebanon,beirut_2,almazraa,242,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,6,male,sunni,617,261,0,8,253,2018
+1122,5,lebanon,beirut_2,almazraa,245,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,9,male,sunni,625,358,8,11,347,2018
+1123,5,lebanon,beirut_2,almazraa,307,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),6,female,sunni,625,235,4,15,220,2018
+1124,5,lebanon,beirut_2,almazraa,290,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,12,female,sunni,607,271,0,2,269,2018
+1125,5,lebanon,beirut_2,almazraa,280,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,2,female,sunni,608,295,4,5,290,2018
+1126,5,lebanon,beirut_2,almazraa,260,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,12,female,sunni,659,381,1,7,374,2018
+1127,5,lebanon,beirut_2,almazraa,261,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,13,female,sunni,603,308,1,5,303,2018
+1128,5,lebanon,beirut_2,almsaytbeh,438,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,9,female,druze,573,234,2,6,228,2018
+1129,5,lebanon,beirut_2,almsaytbeh,375,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,4,male,sunni,614,282,3,15,267,2018
+1130,5,lebanon,beirut_2,almsaytbeh,376,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,5,male,sunni,624,269,4,2,267,2018
+1131,5,lebanon,beirut_2,almsaytbeh,389,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,5,female,sunni,610,266,2,4,262,2018
+1132,5,lebanon,beirut_2,almsaytbeh,416,مدرسة الارشاد للبنات - برج ابي حيدر,16,mixed,armenian_orthodox,562,69,2,0,69,2018
+1133,5,lebanon,beirut_2,almsaytbeh,428,مدرسة رمل الظريف المختلطة الرسمية,12,female,shia,249,249,1,6,243,2018
+1134,5,lebanon,beirut_2,almsaytbeh,422,مدرسة رمل الظريف المختلطة الرسمية,6,male,shia,640,290,0,3,287,2018
+1135,5,lebanon,beirut_2,almsaytbeh,370,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,14,male,sunni,618,276,0,7,269,2018
+1136,5,lebanon,beirut_2,almsaytbeh,363,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,7,male,sunni,605,278,3,3,275,2018
+1137,5,lebanon,beirut_2,almsaytbeh,446,مدرسة مار الياس بطينا,5,male,greek_orthodox,585,120,1,3,117,2018
+1138,5,lebanon,beirut_2,almsaytbeh,458,مدرسة وطى المصيطبة الرسمية المختلطة,5,male,syriac_orthodox,597,64,0,1,63,2018
+1139,5,lebanon,beirut_2,almsaytbeh,462,مدرسة وطى المصيطبة الرسمية المختلطة,9,female,syriac_orthodox,608,71,0,0,71,2018
+1140,5,lebanon,beirut_2,dar_almreisseh,67,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,7,female,sunni,575,218,2,7,211,2018
+1141,5,lebanon,beirut_2,dar_almreisseh,78,مدرسة الحكمة - القنطاري,3,mixed,shia,562,211,0,3,208,2018
+1142,5,lebanon,beirut_2,ras_beirut,57,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,10,female,anglican,541,62,0,2,60,2018
+1143,5,lebanon,beirut_2,ras_beirut,10,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,10,male,sunni,657,358,10,9,349,2018
+1144,5,lebanon,beirut_2,ras_beirut,3,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,3,male,sunni,593,309,4,9,300,2018
+1145,5,lebanon,beirut_2,ras_beirut,6,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,6,male,sunni,636,297,4,1,296,2018
+1146,5,lebanon,beirut_2,zuqaq_alblat,119,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,11,male,sunni,668,131,0,2,129,2018
+1147,5,lebanon,beirut_2,zuqaq_alblat,180,متوسطة البنات الثانية - شارع سليم سلام,11,female,shia,644,271,2,10,261,2018
+1148,5,lebanon,beirut_2,zuqaq_alblat,169,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,9,male,shia,656,310,0,6,304,2018
+1149,5,lebanon,beirut_2,zuqaq_alblat,108,مدرسة مار يوسف الضهور الابتدائية,7,female,shia,619,295,2,7,288,2018
+1150,5,lebanon,beirut_2,mina_alhosn,96,المدرسة الارمنية الانجيلية العالية شارع المكسيك,5,female,greek_orthodox,560,96,2,2,94,2018
+1151,5,lebanon,beirut_2,mina_alhosn,88,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,4,female,sunni,585,217,4,10,207,2018
+1152,5,diaspora,beirut_2,united_arab_emirates,1,أبو ظبي - مبنى السفارة,1,mixed,mixed,122,75,1,1,74,2018
+1153,5,diaspora,beirut_2,egypt,1,القاهرة - مبنى السفارة,1,mixed,mixed,54,22,0,0,22,2018
+1154,5,diaspora,beirut_2,united_states,17,Hampton Inn Hotel - ايستون,17,mixed,mixed,14,6,0,0,6,2018
+1155,5,diaspora,beirut_2,united_arab_emirates,5,دبي - مبنى القنصلية العامة,5,mixed,mixed,468,259,3,3,256,2018
+1156,5,diaspora,beirut_2,australia,14,دير مار شربل - Punchbowl,14,mixed,mixed,186,116,0,1,115,2018
+1157,5,diaspora,beirut_2,united_states,25,Ford Community & Performing Arts Center,25,mixed,mixed,38,18,0,0,18,2018
+1158,5,diaspora,beirut_2,cote_divoire,6,سان بيدرو - Hotel Sophia,6,mixed,mixed,5,4,0,0,4,2018
+1159,5,diaspora,beirut_2,sierra_leone,1,فريتاون - مبنى السفارة,1,mixed,mixed,2,0,0,0,0,2018
+1160,5,diaspora,beirut_2,oman,1,مسقط - مبنى السفارة,1,mixed,mixed,19,10,0,1,9,2018
+1161,5,diaspora,beirut_2,united_states,4,Sheraton Suites Near the Galleria - هيوستن,4,mixed,mixed,23,15,0,1,14,2018
+1162,6,lebanon,beirut_2,bachoura,490,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,7,male,sunni,625,311,3,9,302,2018
+1163,6,lebanon,beirut_2,bachoura,517,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),2,mixed,mixed,630,263,2,3,260,2018
+1164,6,lebanon,beirut_2,bachoura,521,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),6,female,sunni,650,365,0,16,349,2018
+1165,6,lebanon,beirut_2,bachoura,514,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,15,female,sunni,605,212,0,10,202,2018
+1166,6,lebanon,beirut_2,bachoura,506,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,7,female,sunni,617,274,1,11,263,2018
+1167,6,lebanon,beirut_2,bachoura,533,متوسطة بيروت العالية للبنات - شارع داود عمون,6,male,shia,628,274,0,1,273,2018
+1168,6,lebanon,beirut_2,almarfaa,478,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,13,female,sunni,622,205,2,3,202,2018
+1169,6,lebanon,beirut_2,almazraa,315,العاملية للبنات - شارع المحمصاني,2,female,sunni,628,308,4,19,289,2018
+1170,6,lebanon,beirut_2,almazraa,296,المقاصد الاسالمية للبنين - آخر خط الحرج,7,female,sunni,615,266,1,5,261,2018
+1171,6,lebanon,beirut_2,almazraa,273,ثانوية خالد بن الوليد المقاصد - الحرج,11,female,sunni,623,268,0,7,261,2018
+1172,6,lebanon,beirut_2,almazraa,265,ثانوية خالد بن الوليد المقاصد - الحرج,3,female,sunni,631,305,1,9,296,2018
+1173,6,lebanon,beirut_2,almazraa,267,ثانوية خالد بن الوليد المقاصد - الحرج,5,female,sunni,595,340,2,10,330,2018
+1174,6,lebanon,beirut_2,almazraa,268,ثانوية خالد بن الوليد المقاصد - الحرج,6,female,sunni,613,295,2,13,282,2018
+1175,6,lebanon,beirut_2,almazraa,269,ثانوية خالد بن الوليد المقاصد - الحرج,7,female,sunni,599,285,0,2,283,2018
+1176,6,lebanon,beirut_2,almazraa,231,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,11,male,sunni,624,277,1,2,275,2018
+1177,6,lebanon,beirut_2,almazraa,189,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,1,male,sunni,601,300,6,6,294,2018
+1178,6,lebanon,beirut_2,almazraa,201,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,13,male,sunni,620,364,2,9,355,2018
+1179,6,lebanon,beirut_2,almazraa,206,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,2,male,sunni,614,303,1,10,293,2018
+1180,6,lebanon,beirut_2,almazraa,282,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,4,female,sunni,628,267,2,5,262,2018
+1181,6,lebanon,beirut_2,almazraa,285,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,7,female,sunni,618,292,1,17,275,2018
+1182,6,lebanon,beirut_2,almazraa,258,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,10,female,sunni,625,301,5,7,294,2018
+1183,6,lebanon,beirut_2,almazraa,259,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,11,female,sunni,630,283,2,20,263,2018
+1184,6,lebanon,beirut_2,almsaytbeh,441,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,12,female,maronite,566,131,2,0,131,2018
+1185,6,lebanon,beirut_2,almsaytbeh,432,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,3,female,shia,631,288,2,9,279,2018
+1186,6,lebanon,beirut_2,almsaytbeh,437,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,8,male,druze,587,243,2,8,235,2018
+1187,6,lebanon,beirut_2,almsaytbeh,380,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,9,female,sunni,627,289,0,0,289,2018
+1188,6,lebanon,beirut_2,almsaytbeh,350,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,10,male,sunni,610,296,0,7,289,2018
+1189,6,lebanon,beirut_2,almsaytbeh,394,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,10,female,sunni,620,303,3,0,303,2018
+1190,6,lebanon,beirut_2,almsaytbeh,397,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,13,female,sunni,623,240,1,8,232,2018
+1191,6,lebanon,beirut_2,almsaytbeh,399,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,15,female,sunni,636,300,0,1,299,2018
+1192,6,lebanon,beirut_2,almsaytbeh,387,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,3,female,sunni,633,298,1,11,287,2018
+1193,6,lebanon,beirut_2,almsaytbeh,420,مدرسة رمل الظريف المختلطة الرسمية,4,male,shia,629,297,2,3,294,2018
+1194,6,lebanon,beirut_2,almsaytbeh,453,مدرسة مار الياس بطينا,12,male,greek_catholic,577,138,4,1,137,2018
+1195,6,lebanon,beirut_2,almsaytbeh,461,مدرسة وطى المصيطبة الرسمية المختلطة,8,female,syriac_orthodox,608,66,0,2,64,2018
+1196,6,lebanon,beirut_2,dar_almreisseh,61,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,1,male,sunni,613,256,0,3,253,2018
+1197,6,lebanon,beirut_2,dar_almreisseh,62,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,2,male,sunni,625,305,2,12,293,2018
+1198,6,lebanon,beirut_2,ras_beirut,34,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,4,female,sunni,665,348,4,11,337,2018
+1199,6,lebanon,beirut_2,ras_beirut,17,ثانوية فردان مقابل سيار الدرك,1,male,sunni,620,203,3,7,196,2018
+1200,6,lebanon,beirut_2,ras_beirut,29,ثانوية فردان مقابل سيار الدرك,13,female,sunni,632,321,1,5,316,2018
+1201,6,lebanon,beirut_2,ras_beirut,15,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,15,male,sunni,643,287,2,1,286,2018
+1202,6,lebanon,beirut_2,ras_beirut,16,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,16,male,sunni,632,237,4,7,230,2018
+1203,6,lebanon,beirut_2,zuqaq_alblat,154,المدرسة المعنية,2,mixed,mixed,590,113,0,15,98,2018
+1204,6,lebanon,beirut_2,zuqaq_alblat,156,المدرسة المعنية,4,mixed,mixed,553,31,0,0,31,2018
+1205,6,lebanon,beirut_2,zuqaq_alblat,110,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,2,male,sunni,625,265,3,2,263,2018
+1206,6,lebanon,beirut_2,zuqaq_alblat,111,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,3,male,sunni,617,302,0,9,293,2018
+1207,6,lebanon,beirut_2,zuqaq_alblat,112,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,4,male,sunni,625,306,1,2,304,2018
+1208,6,lebanon,beirut_2,zuqaq_alblat,117,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,9,male,sunni,627,141,0,15,126,2018
+1209,6,lebanon,beirut_2,zuqaq_alblat,141,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,5,female,sunni,645,133,6,7,126,2018
+1210,6,lebanon,beirut_2,zuqaq_alblat,170,متوسطة البنات الثانية - شارع سليم سلام,1,female,shia,633,251,1,4,247,2018
+1211,6,lebanon,beirut_2,zuqaq_alblat,181,مدرسة الامداد - شارع يوسف الاسير,1,male,shia,645,280,0,6,274,2018
+1212,6,lebanon,beirut_2,zuqaq_alblat,187,مدرسة الامداد - شارع يوسف الاسير,7,male,shia,635,316,2,3,313,2018
+1213,6,diaspora,beirut_2,nigeria,1,ابوجا - مبنى السفارة,1,mixed,mixed,6,2,0,0,2,2018
+1214,6,diaspora,beirut_2,cote_divoire,4,ابيدجان - المدرسة اللبنانية للتعليم,4,mixed,mixed,71,50,1,0,50,2018
+1215,6,diaspora,beirut_2,canada,9,Canadian Druze Center,9,mixed,mixed,3,3,0,0,3,2018
+1216,6,diaspora,beirut_2,saudi_arabia,1,الرياض - مبنى السفارة,1,mixed,mixed,284,172,1,2,170,2018
+1217,6,diaspora,beirut_2,switzerland,1,برن - مبنى السفارة,1,mixed,mixed,188,104,0,3,101,2018
+1218,6,diaspora,beirut_2,united_states,24,Oregon Convention Center,24,mixed,mixed,39,14,0,0,14,2018
+1219,6,diaspora,beirut_2,argentina,1,بوينس آيرس - مبنى السفارة,1,mixed,mixed,13,1,0,0,1,2018
+1220,6,diaspora,beirut_2,canada,12,Bow Cliff Seniors,12,mixed,mixed,22,16,0,0,16,2018
+1221,6,diaspora,beirut_2,france,19,مرسيليا - مبنى القنصلية العامة,19,mixed,mixed,31,13,0,0,13,2018
+1222,6,diaspora,beirut_2,france,20,Mairie de Metz,20,mixed,mixed,5,1,0,0,1,2018
+1223,7,lebanon,beirut_2,bachoura,498,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,15,male,sunni,649,351,5,6,345,2018
+1224,7,lebanon,beirut_2,bachoura,485,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,2,male,sunni,631,246,2,4,242,2018
+1225,7,lebanon,beirut_2,bachoura,520,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),5,female,sunni,619,305,2,7,298,2018
+1226,7,lebanon,beirut_2,bachoura,524,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),9,mixed,mixed,545,63,0,2,61,2018
+1227,7,lebanon,beirut_2,bachoura,502,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,3,female,sunni,587,268,0,8,260,2018
+1228,7,lebanon,beirut_2,bachoura,576,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,14,mixed,mixed,614,183,0,4,179,2018
+1229,7,lebanon,beirut_2,bachoura,571,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,9,female,shia,571,284,1,4,280,2018
+1230,7,lebanon,beirut_2,bachoura,540,متوسطة بيروت العالية للبنات - شارع داود عمون,13,male,shia,642,281,1,0,281,2018
+1231,7,lebanon,beirut_2,bachoura,544,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,1,male,shia,649,313,2,4,309,2018
+1232,7,lebanon,beirut_2,bachoura,560,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,7,female,shia,622,255,2,1,254,2018
+1233,7,lebanon,beirut_2,almarfaa,479,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,14,female,sunni,580,223,1,20,203,2018
+1234,7,lebanon,beirut_2,almarfaa,467,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,2,male,shia,582,302,0,6,296,2018
+1235,7,lebanon,beirut_2,almazraa,340,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,11,mixed,mixed,565,49,1,0,49,2018
+1236,7,lebanon,beirut_2,almazraa,331,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,2,male,shia,588,249,0,5,244,2018
+1237,7,lebanon,beirut_2,almazraa,335,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,6,female,shia,612,255,1,6,249,2018
+1238,7,lebanon,beirut_2,almazraa,301,المقاصد الاسالمية للبنين - آخر خط الحرج,12,female,sunni,608,325,1,14,311,2018
+1239,7,lebanon,beirut_2,almazraa,198,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,10,male,sunni,611,321,0,3,318,2018
+1240,7,lebanon,beirut_2,almazraa,190,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,2,male,sunni,622,270,0,4,266,2018
+1241,7,lebanon,beirut_2,almazraa,205,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,1,male,sunni,606,274,4,12,262,2018
+1242,7,lebanon,beirut_2,almazraa,219,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,15,male,sunni,592,308,1,3,305,2018
+1243,7,lebanon,beirut_2,almazraa,210,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,6,male,sunni,621,323,0,9,314,2018
+1244,7,lebanon,beirut_2,almazraa,309,مدرسة النهضة الوطنية - شارع المزرعة,2,female,sunni,620,262,1,5,257,2018
+1245,7,lebanon,beirut_2,almazraa,311,مدرسة النهضة الوطنية - شارع المزرعة,4,female,sunni,618,228,1,2,226,2018
+1246,7,lebanon,beirut_2,almazraa,303,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),2,female,sunni,594,256,3,3,253,2018
+1247,7,lebanon,beirut_2,almsaytbeh,430,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,1,female,shia,608,240,0,1,239,2018
+1248,7,lebanon,beirut_2,almsaytbeh,377,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,6,female,sunni,600,279,2,7,272,2018
+1249,7,lebanon,beirut_2,almsaytbeh,396,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,12,female,sunni,599,297,1,10,287,2018
+1250,7,lebanon,beirut_2,almsaytbeh,411,مدرسة الارشاد للبنات - برج ابي حيدر,11,female,sunni,665,355,6,9,346,2018
+1251,7,lebanon,beirut_2,almsaytbeh,360,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,4,male,sunni,611,274,3,2,272,2018
+1252,7,lebanon,beirut_2,almsaytbeh,449,مدرسة مار الياس بطينا,8,female,greek_orthodox,587,197,1,2,195,2018
+1253,7,lebanon,beirut_2,ras_beirut,33,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,3,female,sunni,637,312,4,8,304,2018
+1254,7,lebanon,beirut_2,ras_beirut,37,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,7,female,sunni,643,217,3,5,212,2018
+1255,7,lebanon,beirut_2,ras_beirut,2,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,2,male,sunni,619,332,0,10,322,2018
+1256,7,lebanon,beirut_2,ras_beirut,42,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,4,male,greek_orthodox,545,68,1,0,68,2018
+1257,7,lebanon,beirut_2,zuqaq_alblat,157,المدرسة المعنية,5,male,armenian_orthodox,489,45,0,2,43,2018
+1258,7,lebanon,beirut_2,zuqaq_alblat,158,المدرسة المعنية,6,female,armenian_orthodox,539,54,4,0,54,2018
+1259,7,lebanon,beirut_2,zuqaq_alblat,140,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,4,female,sunni,634,111,0,2,109,2018
+1260,7,lebanon,beirut_2,zuqaq_alblat,142,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,6,female,sunni,629,159,1,0,159,2018
+1261,7,lebanon,beirut_2,zuqaq_alblat,173,متوسطة البنات الثانية - شارع سليم سلام,4,female,shia,641,293,1,0,293,2018
+1262,7,lebanon,beirut_2,zuqaq_alblat,177,متوسطة البنات الثانية - شارع سليم سلام,8,female,shia,628,308,3,1,307,2018
+1263,7,lebanon,beirut_2,zuqaq_alblat,178,متوسطة البنات الثانية - شارع سليم سلام,9,female,shia,629,328,1,12,316,2018
+1264,7,lebanon,beirut_2,zuqaq_alblat,135,مدرسة البطريركية – شارع البطريركية,15,female,sunni,606,228,2,9,219,2018
+1265,7,lebanon,beirut_2,zuqaq_alblat,122,مدرسة البطريركية – شارع البطريركية,2,male,sunni,663,138,3,7,131,2018
+1266,7,lebanon,beirut_2,zuqaq_alblat,124,مدرسة البطريركية – شارع البطريركية,4,male,sunni,658,141,4,2,139,2018
+1267,7,diaspora,beirut_2,united_states,9,Westin Atlanta Perimeter North Hotel,9,mixed,mixed,20,12,0,0,12,2018
+1268,7,diaspora,beirut_2,germany,2,برلين - مبنى السفارة,2,mixed,mixed,350,227,0,4,223,2018
+1269,7,diaspora,beirut_2,canada,5,Armenian Community Center,5,mixed,mixed,215,120,0,0,120,2018
+1270,7,diaspora,beirut_2,united_states,28,ديترويت - قنصلية لبنان العامة,28,mixed,mixed,43,21,0,0,21,2018
+1271,7,diaspora,beirut_2,italy,1,روما - مبنى السفارة,1,mixed,mixed,28,22,0,0,22,2018
+1272,7,diaspora,beirut_2,united_states,29,MCC Banquets & Events - ستيرلنغ هايتس,29,mixed,mixed,6,2,0,0,2,2018
+1273,7,diaspora,beirut_2,paraguay,3,Centro Educacional Libanes del Paraguay,3,mixed,mixed,22,12,0,0,12,2018
+1274,7,diaspora,beirut_2,united_states,6,Courtyard by Marriott Coral Gables - ميامي,6,mixed,mixed,20,12,0,0,12,2018
+1275,7,diaspora,beirut_2,united_states,10,Loyola School - نيويورك,10,mixed,mixed,53,26,0,1,25,2018
+1276,8,lebanon,beirut_2,bachoura,493,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,10,male,sunni,633,283,2,6,277,2018
+1277,8,lebanon,beirut_2,bachoura,526,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),11,female,mixed,556,33,0,0,33,2018
+1278,8,lebanon,beirut_2,bachoura,523,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),8,mixed,mixed,578,111,0,4,107,2018
+1279,8,lebanon,beirut_2,bachoura,501,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,2,female,sunni,602,266,2,10,256,2018
+1280,8,lebanon,beirut_2,bachoura,542,متوسطة بيروت العالية للبنات - شارع داود عمون,15,male,shia,644,269,0,1,268,2018
+1281,8,lebanon,beirut_2,bachoura,534,متوسطة بيروت العالية للبنات - شارع داود عمون,7,male,shia,642,289,2,4,285,2018
+1282,8,lebanon,beirut_2,bachoura,555,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,2,female,shia,627,283,1,0,283,2018
+1283,8,lebanon,beirut_2,almarfaa,475,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,10,male,sunni,601,198,0,2,196,2018
+1284,8,lebanon,beirut_2,almarfaa,469,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,4,female,shia,587,320,3,3,317,2018
+1285,8,lebanon,beirut_2,almazraa,337,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,8,female,mixed,644,275,5,2,273,2018
+1286,8,lebanon,beirut_2,almazraa,322,العاملية للبنات - شارع المحمصاني,9,male,greek_orthodox,572,194,1,6,188,2018
+1287,8,lebanon,beirut_2,almazraa,274,ثانوية خالد بن الوليد المقاصد - الحرج,12,female,sunni,597,274,1,7,267,2018
+1288,8,lebanon,beirut_2,almazraa,199,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,11,male,sunni,605,327,0,14,313,2018
+1289,8,lebanon,beirut_2,almazraa,197,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,9,male,sunni,597,324,4,5,319,2018
+1290,8,lebanon,beirut_2,almazraa,211,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,7,male,sunni,641,324,7,30,294,2018
+1291,8,lebanon,beirut_2,almazraa,237,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,1,male,sunni,618,201,2,10,191,2018
+1292,8,lebanon,beirut_2,almazraa,240,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,4,male,sunni,612,279,2,5,274,2018
+1293,8,lebanon,beirut_2,almazraa,304,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),3,female,sunni,618,307,0,9,298,2018
+1294,8,lebanon,beirut_2,almazraa,306,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),5,female,sunni,629,200,0,6,194,2018
+1295,8,lebanon,beirut_2,almazraa,256,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,8,female,sunni,626,334,3,5,329,2018
+1296,8,lebanon,beirut_2,almsaytbeh,440,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,11,mixed,mixed,583,174,0,0,174,2018
+1297,8,lebanon,beirut_2,almsaytbeh,373,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,2,male,sunni,607,302,3,4,298,2018
+1298,8,lebanon,beirut_2,almsaytbeh,356,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,16,male,sunni,634,296,2,7,289,2018
+1299,8,lebanon,beirut_2,almsaytbeh,345,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,5,male,sunni,629,283,1,2,281,2018
+1300,8,lebanon,beirut_2,almsaytbeh,409,مدرسة الارشاد للبنات - برج ابي حيدر,9,female,sunni,650,219,4,7,212,2018
+1301,8,lebanon,beirut_2,almsaytbeh,425,مدرسة رمل الظريف المختلطة الرسمية,9,male,shia,539,317,2,2,315,2018
+1302,8,lebanon,beirut_2,almsaytbeh,450,مدرسة مار الياس بطينا,9,female,greek_orthodox,565,162,0,2,160,2018
+1303,8,lebanon,beirut_2,dar_almreisseh,75,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,15,mixed,maronite,539,128,1,2,126,2018
+1304,8,lebanon,beirut_2,dar_almreisseh,76,مدرسة الحكمة - القنطاري,1,male,shia,608,289,0,0,289,2018
+1305,8,lebanon,beirut_2,dar_almreisseh,80,مدرسة الحكمة - القنطاري,5,female,mixed,519,60,1,1,59,2018
+1306,8,lebanon,beirut_2,ras_beirut,32,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,2,female,sunni,660,322,2,7,315,2018
+1307,8,lebanon,beirut_2,ras_beirut,38,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,8,female,sunni,654,294,2,6,288,2018
+1308,8,lebanon,beirut_2,ras_beirut,46,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,8,female,greek_orthodox,542,65,0,0,65,2018
+1309,8,lebanon,beirut_2,zuqaq_alblat,109,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,1,male,sunni,639,270,0,4,266,2018
+1310,8,lebanon,beirut_2,zuqaq_alblat,118,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,10,male,sunni,630,133,1,0,133,2018
+1311,8,lebanon,beirut_2,zuqaq_alblat,179,متوسطة البنات الثانية - شارع سليم سلام,10,female,shia,610,303,3,17,286,2018
+1312,8,lebanon,beirut_2,zuqaq_alblat,186,مدرسة الامداد - شارع يوسف الاسير,6,male,shia,670,331,0,5,326,2018
+1313,8,lebanon,beirut_2,zuqaq_alblat,127,مدرسة البطريركية – شارع البطريركية,7,male,sunni,636,244,0,2,242,2018
+1314,8,lebanon,beirut_2,zuqaq_alblat,163,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,3,male,shia,621,244,1,2,242,2018
+1315,8,lebanon,beirut_2,mina_alhosn,86,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,2,male,sunni,573,231,2,6,225,2018
+1316,8,lebanon,beirut_2,mina_alhosn,83,مدرسة الحكمة - القنطاري,8,female,maronite,556,134,2,3,131,2018
+1317,8,diaspora,beirut_2,canada,1,St. Elias Banquet Center,1,mixed,mixed,65,42,0,1,41,2018
+1318,8,diaspora,beirut_2,south_africa,1,بريتوريا - مبنى السفارة,1,mixed,mixed,19,8,0,0,8,2018
+1319,8,diaspora,beirut_2,france,3,Mairie de Bordeaux,3,mixed,mixed,14,7,0,0,7,2018
+1320,8,diaspora,beirut_2,united_states,12,Boston Marriott Newton,12,mixed,mixed,36,20,0,0,20,2018
+1321,8,diaspora,beirut_2,united_states,7,"Doubletree by Hilton, Tampa Airport, Westshore",7,mixed,mixed,7,2,0,0,2,2018
+1322,8,diaspora,beirut_2,united_states,5,S.A. Marriott Northwest - سان انطونيو,5,mixed,mixed,16,3,0,0,3,2018
+1323,8,diaspora,beirut_2,united_states,23,Unexpected Art Gallery - فينيكس,23,mixed,mixed,5,2,0,0,2,2018
+1324,8,diaspora,beirut_2,united_kingdom,2,لندن - مبنى السفارة,2,mixed,mixed,209,117,1,0,117,2018
+1325,9,lebanon,beirut_2,bachoura,522,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),7,female,mixed,567,86,0,1,85,2018
+1326,9,lebanon,beirut_2,bachoura,510,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,11,female,sunni,606,310,1,8,302,2018
+1327,9,lebanon,beirut_2,bachoura,572,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,10,female,shia,635,304,0,5,299,2018
+1328,9,lebanon,beirut_2,bachoura,573,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,11,female,shia,647,315,1,0,315,2018
+1329,9,lebanon,beirut_2,bachoura,564,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,2,female,shia,648,301,1,5,296,2018
+1330,9,lebanon,beirut_2,bachoura,567,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,5,female,shia,636,270,1,5,265,2018
+1331,9,lebanon,beirut_2,bachoura,569,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,7,female,shia,638,267,0,11,256,2018
+1332,9,lebanon,beirut_2,bachoura,538,متوسطة بيروت العالية للبنات - شارع داود عمون,11,male,shia,661,298,3,5,293,2018
+1333,9,lebanon,beirut_2,almarfaa,476,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,11,male,sunni,616,252,1,10,242,2018
+1334,9,lebanon,beirut_2,almazraa,333,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,4,male,mixed,600,273,1,10,263,2018
+1335,9,lebanon,beirut_2,almazraa,325,العاملية للبنات - شارع المحمصاني,12,mixed,mixed,561,120,1,0,120,2018
+1336,9,lebanon,beirut_2,almazraa,326,العاملية للبنات - شارع المحمصاني,13,female,greek_orthodox,607,195,2,4,191,2018
+1337,9,lebanon,beirut_2,almazraa,294,المقاصد الاسالمية للبنين - آخر خط الحرج,5,female,sunni,630,298,4,12,286,2018
+1338,9,lebanon,beirut_2,almazraa,298,المقاصد الاسالمية للبنين - آخر خط الحرج,9,female,sunni,610,231,1,4,227,2018
+1339,9,lebanon,beirut_2,almazraa,264,ثانوية خالد بن الوليد المقاصد - الحرج,2,female,sunni,627,310,0,9,301,2018
+1340,9,lebanon,beirut_2,almazraa,203,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,15,male,sunni,618,332,2,3,329,2018
+1341,9,lebanon,beirut_2,almazraa,191,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,3,male,sunni,597,281,3,15,266,2018
+1342,9,lebanon,beirut_2,almazraa,194,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,6,male,sunni,609,330,7,4,326,2018
+1343,9,lebanon,beirut_2,almazraa,262,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,14,female,sunni,629,318,3,17,301,2018
+1344,9,lebanon,beirut_2,almazraa,254,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,6,female,sunni,613,303,3,25,278,2018
+1345,9,lebanon,beirut_2,almazraa,257,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,9,female,sunni,618,334,2,6,328,2018
+1346,9,lebanon,beirut_2,almsaytbeh,433,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,4,female,shia,625,274,0,3,271,2018
+1347,9,lebanon,beirut_2,almsaytbeh,374,ثانوية جبران اندراوس تويني - مجمع المدارس - شارع احمد الأسعد - مقابل المدينة الرياضية,3,male,sunni,598,261,5,2,259,2018
+1348,9,lebanon,beirut_2,almsaytbeh,346,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,6,male,sunni,627,326,0,11,315,2018
+1349,9,lebanon,beirut_2,almsaytbeh,385,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,1,female,sunni,602,277,0,6,271,2018
+1350,9,lebanon,beirut_2,almsaytbeh,402,مدرسة الارشاد للبنات - برج ابي حيدر,2,female,sunni,615,250,4,9,241,2018
+1351,9,lebanon,beirut_2,almsaytbeh,408,مدرسة الارشاد للبنات - برج ابي حيدر,8,female,sunni,611,238,2,2,236,2018
+1352,9,lebanon,beirut_2,almsaytbeh,424,مدرسة رمل الظريف المختلطة الرسمية,8,male,shia,622,284,3,5,279,2018
+1353,9,lebanon,beirut_2,almsaytbeh,357,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,1,male,sunni,602,280,0,11,269,2018
+1354,9,lebanon,beirut_2,almsaytbeh,443,مدرسة مار الياس بطينا,2,male,greek_orthodox,545,236,2,3,233,2018
+1355,9,lebanon,beirut_2,almsaytbeh,457,مدرسة وطى المصيطبة الرسمية المختلطة,4,female,mixed,564,62,0,2,60,2018
+1356,9,lebanon,beirut_2,almsaytbeh,460,مدرسة وطى المصيطبة الرسمية المختلطة,7,male,syriac_orthodox,605,75,0,1,74,2018
+1357,9,lebanon,beirut_2,dar_almreisseh,64,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,4,male,sunni,613,251,1,14,237,2018
+1358,9,lebanon,beirut_2,dar_almreisseh,65,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,5,male,sunni,645,278,1,8,270,2018
+1359,9,lebanon,beirut_2,dar_almreisseh,77,مدرسة الحكمة - القنطاري,2,female,shia,609,289,0,3,286,2018
+1360,9,lebanon,beirut_2,ras_beirut,36,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,6,female,sunni,634,209,0,4,205,2018
+1361,9,lebanon,beirut_2,ras_beirut,58,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,11,mixed,mixed,559,91,0,1,90,2018
+1362,9,lebanon,beirut_2,ras_beirut,30,ثانوية فردان مقابل سيار الدرك,14,male,greek_catholic,536,59,0,1,58,2018
+1363,9,lebanon,beirut_2,ras_beirut,25,ثانوية فردان مقابل سيار الدرك,9,female,sunni,637,336,0,9,327,2018
+1364,9,lebanon,beirut_2,ras_beirut,12,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,12,male,sunni,400,315,1,2,313,2018
+1365,9,lebanon,beirut_2,ras_beirut,13,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,13,male,sunni,636,327,1,3,324,2018
+1366,9,lebanon,beirut_2,ras_beirut,4,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,4,male,sunni,628,315,3,17,298,2018
+1367,9,lebanon,beirut_2,ras_beirut,8,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,8,male,sunni,653,346,2,3,343,2018
+1368,9,lebanon,beirut_2,zuqaq_alblat,139,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,3,female,sunni,622,173,0,15,158,2018
+1369,9,lebanon,beirut_2,zuqaq_alblat,175,متوسطة البنات الثانية - شارع سليم سلام,6,female,shia,614,315,4,3,312,2018
+1370,9,lebanon,beirut_2,zuqaq_alblat,188,مدرسة الامداد - شارع يوسف الاسير,8,male,shia,614,265,12,1,264,2018
+1371,9,lebanon,beirut_2,zuqaq_alblat,123,مدرسة البطريركية – شارع البطريركية,3,male,sunni,644,137,1,3,134,2018
+1372,9,lebanon,beirut_2,zuqaq_alblat,128,مدرسة البطريركية – شارع البطريركية,8,male,sunni,649,173,0,8,165,2018
+1373,9,lebanon,beirut_2,zuqaq_alblat,165,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,5,male,shia,602,320,2,8,312,2018
+1374,9,lebanon,beirut_2,zuqaq_alblat,104,مدرسة مار يوسف الضهور الابتدائية,3,female,shia,607,254,0,0,254,2018
+1375,9,lebanon,beirut_2,mina_alhosn,95,المدرسة الارمنية الانجيلية العالية شارع المكسيك,4,male,greek_orthodox,536,111,0,0,111,2018
+1376,9,lebanon,beirut_2,mina_alhosn,90,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,6,male,mixed,561,97,1,0,97,2018
+1377,9,diaspora,beirut_2,france,1,Mairie d'Amiens,1,mixed,mixed,5,3,0,3,0,2018
+1378,9,diaspora,beirut_2,france,1,Mairie de Pointe-a-Pitre,1,mixed,mixed,6,1,0,0,1,2018
+1379,9,diaspora,beirut_2,united_states,27,The Drake Oak Brook Hotel,27,mixed,mixed,385,4,0,0,4,2018
+1380,9,diaspora,beirut_2,belgium,1,بروكسل - مبنى السفارة,1,mixed,mixed,35,28,0,0,28,2018
+1381,9,diaspora,beirut_2,united_states,8,Jacksonville Marriott,8,mixed,mixed,7,5,0,1,4,2018
+1382,9,diaspora,beirut_2,united_states,16,The Lebanon-American Club of Danbury,16,mixed,mixed,11,3,0,0,3,2018
+1383,9,diaspora,beirut_2,united_states,21,Corona Public Library,21,mixed,mixed,27,18,1,0,18,2018
+1384,9,diaspora,beirut_2,united_states,22,سان فرانسيسكو - The Laundry,22,mixed,mixed,38,21,0,0,21,2018
+1385,9,diaspora,beirut_2,nigeria,2,Lebanon Primary School - كانو,2,mixed,mixed,18,16,0,0,16,2018
+1386,9,diaspora,beirut_2,venezuela,1,كراكاس - مبنى السفارة,1,mixed,mixed,8,5,0,0,5,2018
+1387,9,diaspora,beirut_2,mexico,1,مكسيكو - مبنى السفارة,1,mixed,mixed,3,0,0,0,0,2018
+1388,9,diaspora,beirut_2,united_states,31,Cedar Hall - مينيابوليس,31,mixed,mixed,5,2,0,0,2,2018
+1389,9,diaspora,beirut_2,united_states,2,Omni Shoreham Hotel,2,mixed,mixed,48,27,0,0,27,2018
+1390,10,lebanon,beirut_2,bachoura,527,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),12,mixed,mixed,552,74,0,0,74,2018
+1391,10,lebanon,beirut_2,bachoura,518,ثانوية الشهيد المفتي حسن خالد (حوض الولاية - برج ابي حيدر),3,female,sunni,636,337,1,10,327,2018
+1392,10,lebanon,beirut_2,bachoura,568,متوسطة المستقبل المختلطة - شارع احمد طبارة - البسطه التحتا,6,female,shia,627,318,1,8,310,2018
+1393,10,lebanon,beirut_2,bachoura,548,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,5,male,shia,652,206,0,5,201,2018
+1394,10,lebanon,beirut_2,bachoura,550,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,7,mixed,greek_orthodox,568,93,0,1,92,2018
+1395,10,lebanon,beirut_2,bachoura,552,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,9,female,maronite,546,54,0,1,53,2018
+1396,10,lebanon,beirut_2,almarfaa,477,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,12,female,sunni,592,195,4,16,179,2018
+1397,10,lebanon,beirut_2,almarfaa,472,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,7,male,sunni,623,207,1,6,201,2018
+1398,10,lebanon,beirut_2,almazraa,339,الثانوية العاملية المبنى الجنوبي - شارع عمر بن الخطاب,10,female,mixed,601,107,0,0,107,2018
+1399,10,lebanon,beirut_2,almazraa,321,العاملية للبنات - شارع المحمصاني,8,female,sunni,640,370,3,8,362,2018
+1400,10,lebanon,beirut_2,almazraa,299,المقاصد الاسالمية للبنين - آخر خط الحرج,10,female,sunni,641,282,1,9,273,2018
+1401,10,lebanon,beirut_2,almazraa,295,المقاصد الاسالمية للبنين - آخر خط الحرج,6,female,sunni,603,293,1,10,283,2018
+1402,10,lebanon,beirut_2,almazraa,223,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,3,male,sunni,594,298,2,5,293,2018
+1403,10,lebanon,beirut_2,almazraa,200,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,12,male,sunni,630,330,1,14,316,2018
+1404,10,lebanon,beirut_2,almazraa,202,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,14,male,sunni,622,338,5,4,334,2018
+1405,10,lebanon,beirut_2,almazraa,195,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,7,male,sunni,601,285,0,4,281,2018
+1406,10,lebanon,beirut_2,almazraa,196,ثانوية عمر فروخ الرسمية للبنات مستديرة الكولا,8,male,sunni,629,372,4,18,354,2018
+1407,10,lebanon,beirut_2,almazraa,238,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,2,male,sunni,618,236,3,2,234,2018
+1408,10,lebanon,beirut_2,almazraa,310,مدرسة النهضة الوطنية - شارع المزرعة,3,female,sunni,597,265,0,11,254,2018
+1409,10,lebanon,beirut_2,almazraa,305,مدرسة رأس النبع الاولى للبنات (عزيزة طيارة),4,female,sunni,627,276,3,2,274,2018
+1410,10,lebanon,beirut_2,almazraa,249,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,1,male,sunni,619,308,5,7,301,2018
+1411,10,lebanon,beirut_2,almsaytbeh,355,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,15,male,sunni,613,307,1,10,297,2018
+1412,10,lebanon,beirut_2,almsaytbeh,348,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,8,male,sunni,610,286,1,6,280,2018
+1413,10,lebanon,beirut_2,almsaytbeh,388,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,4,female,sunni,627,290,1,5,285,2018
+1414,10,lebanon,beirut_2,almsaytbeh,401,مدرسة الارشاد للبنات - برج ابي حيدر,1,female,sunni,597,280,1,18,262,2018
+1415,10,lebanon,beirut_2,almsaytbeh,358,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,2,male,sunni,621,305,1,9,296,2018
+1416,10,lebanon,beirut_2,almsaytbeh,359,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,3,male,sunni,611,284,6,12,272,2018
+1417,10,lebanon,beirut_2,almsaytbeh,361,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,5,male,sunni,631,304,4,4,300,2018
+1418,10,lebanon,beirut_2,almsaytbeh,442,مدرسة مار الياس بطينا,1,male,greek_orthodox,589,218,0,2,216,2018
+1419,10,lebanon,beirut_2,almsaytbeh,452,مدرسة مار الياس بطينا,11,mixed,greek_orthodox,581,175,5,7,168,2018
+1420,10,lebanon,beirut_2,dar_almreisseh,71,مدرسة الجمعية المسيحية للشابات - شارع رستم باشا,11,female,sunni,603,242,2,5,237,2018
+1421,10,lebanon,beirut_2,ras_beirut,31,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,1,female,sunni,628,318,2,30,288,2018
+1422,10,lebanon,beirut_2,ras_beirut,48,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,1,female,greek_orthodox,552,55,0,1,54,2018
+1423,10,lebanon,beirut_2,ras_beirut,55,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,8,mixed,mixed,450,82,2,0,82,2018
+1424,10,lebanon,beirut_2,ras_beirut,60,ثانوية فردان مقابل سيار الدرك,15,female,greek_catholic,455,54,0,1,53,2018
+1425,10,lebanon,beirut_2,ras_beirut,5,مدرسة الامير شكيب ارسلان المتوسطة المختلطة,5,male,sunni,618,314,3,6,308,2018
+1426,10,lebanon,beirut_2,zuqaq_alblat,155,المدرسة المعنية,3,mixed,mixed,556,107,2,0,107,2018
+1427,10,lebanon,beirut_2,zuqaq_alblat,137,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,1,female,sunni,615,282,1,2,280,2018
+1428,10,lebanon,beirut_2,zuqaq_alblat,150,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,14,female,sunni,612,258,1,12,246,2018
+1429,10,lebanon,beirut_2,zuqaq_alblat,144,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,8,female,sunni,637,152,3,11,141,2018
+1430,10,lebanon,beirut_2,zuqaq_alblat,183,مدرسة الامداد - شارع يوسف الاسير,3,male,shia,649,344,0,5,339,2018
+1431,10,lebanon,beirut_2,zuqaq_alblat,133,مدرسة البطريركية – شارع البطريركية,13,female,sunni,606,310,0,17,293,2018
+1432,10,lebanon,beirut_2,zuqaq_alblat,126,مدرسة البطريركية – شارع البطريركية,6,male,sunni,635,278,4,21,257,2018
+1433,10,lebanon,beirut_2,zuqaq_alblat,161,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,1,male,shia,664,294,1,4,290,2018
+1434,10,lebanon,beirut_2,zuqaq_alblat,105,مدرسة مار يوسف الضهور الابتدائية,4,female,shia,639,287,3,4,283,2018
+1435,10,lebanon,beirut_2,mina_alhosn,87,مدرسة ابي بكر الصديق القنطاري - شارع ميشال شيحا,3,female,sunni,602,278,0,3,275,2018
+1436,10,lebanon,beirut_2,employees,47,مرأب بلدية بيروت - بلوك ب,2,,,369,318,7,4,314,2018
+1437,10,diaspora,beirut_2,kuwait,4,الكويت - مبنى السفارة,4,mixed,mixed,146,100,2,2,98,2018
+1438,11,lebanon,beirut_2,bachoura,495,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,12,male,sunni,625,277,0,14,263,2018
+1439,11,lebanon,beirut_2,bachoura,497,ابتدائية علي بن ابي طالب - شارع بشارة الخوري,14,male,sunni,615,270,4,3,267,2018
+1440,11,lebanon,beirut_2,bachoura,505,ثانوية المقاصد الاسالمية للبنات - شارع احمد طباره,6,female,sunni,637,306,0,18,288,2018
+1441,11,lebanon,beirut_2,bachoura,528,متوسطة بيروت العالية للبنات - شارع داود عمون,1,male,shia,635,321,1,4,317,2018
+1442,11,lebanon,beirut_2,bachoura,531,متوسطة بيروت العالية للبنات - شارع داود عمون,4,male,shia,621,258,4,6,252,2018
+1443,11,lebanon,beirut_2,bachoura,536,متوسطة بيروت العالية للبنات - شارع داود عمون,9,male,shia,631,278,1,2,276,2018
+1444,11,lebanon,beirut_2,bachoura,545,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,2,male,shia,628,326,0,2,324,2018
+1445,11,lebanon,beirut_2,bachoura,547,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,4,male,shia,671,269,1,2,267,2018
+1446,11,lebanon,beirut_2,bachoura,549,مدرسة حوض الولاية الاولى الرسمية المختلطة - شارع الخرسا البسطه التحتا,6,male,shia,273,222,1,1,221,2018
+1447,11,lebanon,beirut_2,bachoura,556,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,3,female,shia,621,258,1,4,254,2018
+1448,11,lebanon,beirut_2,bachoura,558,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,5,female,shia,645,270,1,11,259,2018
+1449,11,lebanon,beirut_2,bachoura,559,مدرسة راس النبع الرسمية الثانية المختلطة - خندق الغميق,6,female,shia,617,292,3,13,279,2018
+1450,11,lebanon,beirut_2,almarfaa,474,مبنى البلدية - جنب فوج الأطفاء - جادة شارل حلو (البيت البتروني) Block B,9,male,sunni,606,244,4,4,240,2018
+1451,11,lebanon,beirut_2,almazraa,272,ثانوية خالد بن الوليد المقاصد - الحرج,10,female,sunni,594,269,2,10,259,2018
+1452,11,lebanon,beirut_2,almazraa,276,ثانوية خالد بن الوليد المقاصد - الحرج,14,female,sunni,623,326,0,11,315,2018
+1453,11,lebanon,beirut_2,almazraa,266,ثانوية خالد بن الوليد المقاصد - الحرج,4,female,sunni,629,353,6,14,339,2018
+1454,11,lebanon,beirut_2,almazraa,222,ثانوية دولة الرئيس رياض الصلح المختلطة - رأس النبع,2,male,sunni,611,249,1,2,247,2018
+1455,11,lebanon,beirut_2,almazraa,216,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,12,male,sunni,632,286,5,6,280,2018
+1456,11,lebanon,beirut_2,almazraa,220,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,16,male,sunni,627,304,2,9,295,2018
+1457,11,lebanon,beirut_2,almazraa,213,ثانوية فخر الدين المعني للبنات - شارع عبد الغني,9,male,sunni,620,330,2,7,323,2018
+1458,11,lebanon,beirut_2,almazraa,248,مدرسة الطريق الجديدة المتوسطة الرسمية الثانية للبنات - قصقص الحرج,12,male,sunni,620,350,4,15,335,2018
+1459,11,lebanon,beirut_2,almazraa,292,مدرسة راس النبع الرسمية الثانية للبنات - شارع محمد الحوت مقابل منازل الضباط,14,female,sunni,606,293,2,8,285,2018
+1460,11,lebanon,beirut_2,almazraa,251,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,3,male,sunni,609,324,5,13,311,2018
+1461,11,lebanon,beirut_2,almazraa,252,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,4,female,sunni,628,284,3,6,278,2018
+1462,11,lebanon,beirut_2,almazraa,255,مدرسة عمر الزعني المتوسطة الرسمية المختلطة - الملعب البلدي,7,female,sunni,605,278,1,17,261,2018
+1463,11,lebanon,beirut_2,almsaytbeh,439,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,10,female,druze,624,234,0,8,226,2018
+1464,11,lebanon,beirut_2,almsaytbeh,431,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,2,female,shia,6370,289,0,12,277,2018
+1465,11,lebanon,beirut_2,almsaytbeh,435,ثانوية الدكتور حسن صعب الرسمية سابقاً رينيه معوض - رمل الظريف,6,mixed,mixed,603,175,1,4,171,2018
+1466,11,lebanon,beirut_2,almsaytbeh,352,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,12,male,sunni,611,287,1,7,280,2018
+1467,11,lebanon,beirut_2,almsaytbeh,342,ثانوية خديجة الكبرى شارع بني معروف قرب جامع القصار,2,male,sunni,628,290,1,7,283,2018
+1468,11,lebanon,beirut_2,almsaytbeh,386,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,2,female,sunni,626,288,1,12,276,2018
+1469,11,lebanon,beirut_2,almsaytbeh,393,متوسطة الابتهاج قدوره - مقابل المدينة الرياضية,9,female,sunni,634,316,5,15,301,2018
+1470,11,lebanon,beirut_2,almsaytbeh,403,مدرسة الارشاد للبنات - برج ابي حيدر,3,female,sunni,627,272,1,5,267,2018
+1471,11,lebanon,beirut_2,almsaytbeh,405,مدرسة الارشاد للبنات - برج ابي حيدر,5,female,sunni,635,259,0,14,245,2018
+1472,11,lebanon,beirut_2,almsaytbeh,368,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,12,male,sunni,640,216,1,3,213,2018
+1473,11,lebanon,beirut_2,almsaytbeh,369,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,13,male,sunni,600,194,0,8,186,2018
+1474,11,lebanon,beirut_2,almsaytbeh,365,مدرسة عمر فاخوري الابتدائية المختلطة مقابل المدينة الرياضية,9,male,sunni,614,260,3,7,253,2018
+1475,11,lebanon,beirut_2,almsaytbeh,463,مدرسة وطى المصيطبة الرسمية المختلطة,10,female,syriac_orthodox,604,72,0,1,71,2018
+1476,11,lebanon,beirut_2,almsaytbeh,456,مدرسة وطى المصيطبة الرسمية المختلطة,3,female,syriac_catholic,604,87,0,0,87,2018
+1477,11,lebanon,beirut_2,dar_almreisseh,79,مدرسة الحكمة - القنطاري,4,male,mixed,515,56,1,3,53,2018
+1478,11,lebanon,beirut_2,ras_beirut,35,تكميلية رأس بيروت الاولى المختلطة - طلعة الحمام العسكري,5,female,sunni,655,266,2,5,261,2018
+1479,11,lebanon,beirut_2,ras_beirut,59,ثانوية بيروت الحرج الرسمية المختلطة - منطقة الحمراء - شارع الصيداني,12,mixed,mixed,492,67,0,3,64,2018
+1480,11,lebanon,beirut_2,ras_beirut,27,ثانوية فردان مقابل سيار الدرك,11,female,sunni,671,350,3,8,342,2018
+1481,11,lebanon,beirut_2,ras_beirut,24,ثانوية فردان مقابل سيار الدرك,8,female,sunni,641,290,4,0,290,2018
+1482,11,lebanon,beirut_2,ras_beirut,39,مدرسة امين بيهم النموذجية المختلطة الرسمية - المنارة - شارع زاهية قدورة,1,male,maronite,485,83,0,0,83,2018
+1483,11,lebanon,beirut_2,zuqaq_alblat,153,المدرسة المعنية,1,mixed,mixed,559,135,0,7,128,2018
+1484,11,lebanon,beirut_2,zuqaq_alblat,115,ثانوية الحريري الثانية البطريركية - شارع عبد القادر,7,male,sunni,577,273,3,11,262,2018
+1485,11,lebanon,beirut_2,zuqaq_alblat,148,سيتي انترناسيونال سكول - شارع حسين بيهم قرب الجامع,12,female,sunni,637,206,2,34,172,2018
+1486,11,lebanon,beirut_2,zuqaq_alblat,131,مدرسة البطريركية – شارع البطريركية,11,female,sunni,586,259,2,15,244,2018
+1487,11,lebanon,beirut_2,zuqaq_alblat,167,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,7,male,shia,646,293,0,2,291,2018
+1488,11,lebanon,beirut_2,zuqaq_alblat,168,مدرسة زقاق البلاط الرسمية المختلطة قرب المخفر,8,male,shia,670,288,2,0,288,2018
+1489,11,lebanon,beirut_2,employees,,مرأب بلدية بيروت - بلوك ب,1,,,375,329,4,4,325,2018
+1490,11,diaspora,beirut_2,ghana,1,أكرا - مبنى السفارة,1,mixed,mixed,11,8,0,0,8,2018
