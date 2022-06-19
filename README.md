@@ -26,6 +26,7 @@ Columns:
 - **election_year** (STRING): Election year (’2022’ / ’2018’)
 - **num_seats** (INTEGER): The number of seats allocated for that district in that election year
 - **num_eligible_voters** (INTEGER): The number of eligible voters in that district in that election year
+- **num_eligible_voters_v2** (INTEGER): The number of eligible voters in that district in that election year (from different source as num_eligible_voters, resulting in a slight discrepancy) 
 - **num_eligible_voters_lebanon_v2** (INTEGER): The number of eligible voters in Lebanon in that election year (from different source as num_eligible_voters, resulting in a slight discrepancy)
 - **num_eligible_voters_diaspora_v2** (INTEGER): The number of eligible voters in the diaspora in that election year (from different source as num_eligible_voters, resulting in a slight discrepancy)
 - **num_votes** (INTEGER): The number of people that voted in that district in that election year
